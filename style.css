@@ -1,0 +1,67 @@
+html{
+    background-color: black;
+}
+
+header{
+    size: 100vw 61px;
+    color: black;
+    display: flex;
+    padding: 22px;
+    
+}
+
+h1,h2,h3{
+ font-family: Helvetica;
+ font-weight: 400;
+ font-size: 12pt;
+ color: white;
+ margin: 0px 9px 0px 9px;
+ justify-content: flex-start;
+}
+
+h4{
+ font-family: Helvetica;
+ font-weight: 400;
+ font-size: 12pt;
+ color: white;
+ margin: 0px 9px 0px 9px;
+}
+
+h5{
+    font-family:Helvetica;
+    font-weight: 400;
+    font-size: 12pt;
+    color: white;
+    margin-left: 22px;
+    margin-top: -20px;
+    word-spacing: -20px;
+}
+
+header img{
+    margin-left: -10px;
+    margin-top: -10px;
+    width: 10%;
+    justify-content: start;
+    justify-content: flex-start;
+}
+
+
+.find{
+   margin-left: 400px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: flex-start;
+    height: 61px;
+    width: 421px;
+    color: black;
+    justify-content: space-between;
+    margin-left: 212px;
+}
+
+
+.taxonomy{
+    display:flex;
+}
