@@ -37,7 +37,7 @@ ul ul {
     padding-left: 44px;
 }
 
-li:hover > ul {
+ul.open {
     display: block;
 }
 
@@ -47,6 +47,11 @@ li {
 
 h2 >strong{
     margin-right: 5px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
 
 header{
@@ -93,6 +98,7 @@ footer{
     height: 92.5%;
     display: flex;
     flex-wrap: wrap;
+    object-fit: cover;
 }
 
 /*

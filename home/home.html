@@ -2,6 +2,8 @@
     <html>
         <head>
             <link rel="stylesheet" href="style.css">
+
+            <script src="../js/database_species.js"></script>
         </head>
 
         <body class="color-white">
@@ -15,7 +17,7 @@
                     <li>PHYLOGENY</li>
                     <li>ARCHIVE</li>
                 </ul>
-                <a>FIND SOMETHING FUN</a>
+                <a href="">FIND SOMETHING FUN</a>
             </header>
 
             <!-- SPECIES LIST -->
@@ -23,42 +25,42 @@
                 <aside class="padding-small module-3">
                     <ul class="type-helvetica">
                         <li>
-                            <p>PROTOZOA</p>
-                            <ul>
+                            <a href="?kingdom=protozoa">PROTOZOA</a>
+                            <ul id="protozoa">
                                 <li>
-                                    <p>EUGLENOZOA</p>
-                                    <ul>
+                                    <a href="?kingdom=protozoa&phylum=euglenozoa">EUGLENOZOA</a>
+                                    <ul id="euglenozoa">
                                         <li>EUGLENOIDEA</li>
                                         <li>KINETOPLASTIDA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>CHLOROPHYTA</p>
+                                    <a href="">CHLOROPHYTA</a>
                                     <ul>
                                         <li>VOLVOCIDA</li>
                                     </ul>
                                 </li>
                                 <li>CHOANOFLAGELLATA</li>
                                 <li>
-                                    <p>RETORTAMONADA</p>
+                                    <a href="">RETORTAMONADA</a>
                                     <ul>
                                         <li>RETORTAMONADEA</li>
                                         <li>DIPLOMONADEA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>AXOSTYLATA</p>
+                                    <a href="">AXOSTYLATA</a>
                                     <ul>
                                         <li>OXYMONADEA</li>
                                         <li>PARABASALEA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>ALVEOLATA</p>
+                                    <a href="">ALVEOLATA</a>
                                     <ul>
                                         <li>DINOFLAGELLATA</li>
                                         <li>
-                                            <p>CILIOPHORA</p>
+                                            <a href="">CILIOPHORA</a>
                                             <ul>
                                                 <li>KARYORELICTEA</li>
                                                 <li>SPIROTRICHEA</li>
@@ -71,7 +73,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>APICOMPLEXA</p>
+                                            <a href="">APICOMPLEXA</a>
                                             <ul>
                                                 <li>GREGARINEA</li>
                                                 <li>COCCIDIA</li>
@@ -81,10 +83,10 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>AMEBOID PROTOZOA</p>
+                                    <a href="">AMEBOID PROTOZOA</a>
                                     <ul>
                                         <li>
-                                            <p>AMEBAS</p>
+                                            <a href="">AMEBAS</a>
                                             <ul>
                                                 <li>CARYOBLASTA</li>
                                                 <li>HETEROLOBOSA</li>
@@ -92,7 +94,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>FORAMINIFEREA</p>
+                                            <a href="">FORAMINIFEREA</a>
                                             <ul>
                                                 <li>ALLOGROMIINA</li>
                                                 <li>TEXTURALIINA</li>
@@ -102,7 +104,7 @@
                                         </li>
                                         <li>ACTINOPODA</li>
                                         <li>
-                                            <p>RADIOLARIA</p>
+                                            <a href="">RADIOLARIA</a>
                                             <ul>
                                                 <li>POLYCYSTINEA</li>
                                                 <li>PHAEODAREA</li>
@@ -110,7 +112,7 @@
                                         </li>
                                         <li>ACANTHAREA</li>
                                         <li>
-                                            <p>HELIOZOA</p>
+                                            <a href="">HELIOZOA</a>
                                             <ul>
                                                 <li>DESMOTHORACIDA</li>
                                                 <li>CILIOPHYIDA</li>
@@ -127,14 +129,14 @@
                             </ul>
                         </li> 
                         <li>
-                            <p>PORIFERA</p>
-                            <ul>
+                            <a href="?kingdom=porifera">PORIFERA</a>
+                            <ul id="porifera">
                                 <li>SYMPLASMA</li>
                                 <li>
-                                    <p>CELLULARIA</p>
+                                    <a href="">CELLULARIA</a>
                                     <ul>
                                         <li>
-                                            <p>DEMOSPONGIAE</p>
+                                            <a href="">DEMOSPONGIAE</a>
                                             <ul>
                                                 <li>HOMOSCLEROMORPHA</li>
                                                 <li>TETRACTIONOMORPHA</li>
@@ -142,7 +144,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>CALCAREA</p>
+                                            <a href="">CALCAREA</a>
                                             <ul>
                                                 <li>CALCINEA</li>
                                                 <li>CALCARONEA</li>
@@ -153,13 +155,13 @@
                             </ul>
                         </li>
                         <li>
-                            <p>CNIDARIA</p>
+                            <a href="">CNIDARIA</a>
                             <ul>
                                 <li>
-                                    <p>ANTHOZOA</p>
+                                    <a href="">ANTHOZOA</a>
                                     <ul>
                                         <li>
-                                            <p>ZOANTHARIA</p>
+                                            <a href="">ZOANTHARIA</a>
                                             <ul>
                                                 <li>ACTINIARIA</li>
                                                 <li>SCELERACTINA</li>
@@ -170,7 +172,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>ALCYONARIA</p>
+                                            <a href="">ALCYONARIA</a>
                                             <ul>
                                                 <li>STOLONIFERA</li>
                                                 <li>HELIOPORACEA</li>
@@ -183,10 +185,10 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>MEDUSOZOA</p>
+                                    <a href="">MEDUSOZOA</a>
                                     <ul>
                                         <li>
-                                            <p>SCYPHOZOA</p>
+                                            <a href="">SCYPHOZOA</a>
                                             <ul>
                                                 <li>SEMAEOSTOMEAE</li>
                                                 <li>RHIZOSTOMEAE</li>
@@ -198,10 +200,10 @@
                                     </ul>
                                     <ul>
                                         <li>
-                                            <p>HYDROZOA</p>
+                                            <a href="">HYDROZOA</a>
                                             <ul>
                                                 <li>
-                                                    <p>A-FORMS</p>
+                                                    <a href="">A-FORMS</a>
                                                     <ul>
                                                         <li>ANTHOATHECATAE</li>
                                                         <li>CAPITATA</li>
@@ -213,7 +215,7 @@
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <p>L-FORMS</p>
+                                                    <a href="">L-FORMS</a>
                                                     <ul>
                                                         <li>LEPTOTHEATAE</li>
                                                         <li>LIMNOMEDUSAE</li>
@@ -230,7 +232,7 @@
                             </ul>
                         </li>
                         <li>
-                            <p>CTENOPHORA</p>
+                            <a href="">CTENOPHORA</a>
                             <ul>
                                 <li>CYDIPPIDA</li>
                                 <li>PLATYCTENIDA</li>
@@ -242,10 +244,10 @@
                             </ul>
                         </li>
                         <li>
-                            <p>PLATYHELMINTHES</p>
+                            <a href="">PLATYHELMINTHES</a>
                             <ul>
                                 <li>
-                                    <p>TURBELLARIA</p>
+                                    <a href="">TURBELLARIA</a>
                                     <ul>
                                         <li>CATENULIDA</li>
                                         <li>EUPLATYHELMINTHES</li>
@@ -272,17 +274,17 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>NEORDERMATA</p>
+                                    <a href="">NEORDERMATA</a>
                                     <ul>
                                         <li>
-                                            <p>TREMATODA</p>
+                                            <a href="">TREMATODA</a>
                                             <ul>
                                                 <li>DIGENIA</li>
                                                 <li>ASPIDOGASTREA</li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>CERCOMEROMORPHA</p>
+                                            <a href="">CERCOMEROMORPHA</a>
                                             <ul>
                                                 <li>MONOGENEA</li>
                                                 <li>CESTODA</li>
@@ -291,18 +293,18 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>MESOZOA</p>
+                                    <a href="">MESOZOA</a>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <p>ORTHONECTIDA</p>
+                            <a href="">ORTHONECTIDA</a>
                         </li>
                         <li>
-                            <p>DICYEMIDA</p>
+                            <a href="">DICYEMIDA</a>
                         </li>
                         <li>
-                            <p>NEMERTEA</p>
+                            <a href="">NEMERTEA</a>
                             <ul>
                                 <li>ANOPLA</li>
                                 <li>PALAEONEMERTEA</li>
@@ -315,17 +317,17 @@
                             </ul>
                         </li>
                         <li>
-                            <p>MOLLUSCA</p>
+                            <a href="">MOLLUSCA</a>
                             <ul>
                                 <li>
-                                    <p>APLACOPHORA</p>
+                                    <a href="">APLACOPHORA</a>
                                     <ul>
                                         <li>NEOMENIOMORPHA</li>
                                         <li>CHAETODERMOMORPHA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>POLYPLACOPHORA</p>
+                                    <a href="">POLYPLACOPHORA</a>
                                     <ul>
                                         <li>PALEOLORICATA</li>
                                         <li>NEOLORICATA</li>
@@ -335,17 +337,17 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>MONOPLACOPHORA</p>
+                                    <a href="">MONOPLACOPHORA</a>
                                 </li>
                                 <li>
-                                    <p>GASTROPODA</p>
+                                    <a href="">GASTROPODA</a>
                                     <ul>
                                         <li>PATELLOGASTROPODA</li>
                                         <li>VETIGASTROPODA</li>
                                         <li>NERITIMORPHA</li>
                                         <li>CAENOGASTROPODA</li>
                                         <li>
-                                            <p>MESOGASTROPODA</p>
+                                            <a href="">MESOGASTROPODA</a>
                                             <ul>
                                                 <li>CERITHIOIDEA</li>
                                                 <li>VERMETOIDEA</li>
@@ -363,7 +365,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>NEOGASTROPODA</p>
+                                            <a href="">NEOGASTROPODA</a>
                                             <ul>
                                                 <li>MURICOIDEA</li>
                                                 <li>CANCELLARIOIDEA</li>
@@ -371,13 +373,13 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>HETEROSTROPHA</p>
+                                            <a href="">HETEROSTROPHA</a>
                                             <ul>
                                                 <li>PYRAMIDELLOIDEA</li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>OPISTHOBRANCHS</p>
+                                            <a href="">OPISTHOBRANCHS</a>
                                             <ul>
                                                 <li>CEPHALASPIDEA</li>
                                                 <li>ANASPIDEA</li>
@@ -394,7 +396,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>PULMONATES</p>
+                                            <a href="">PULMONATES</a>
                                             <ul>
                                                 <li>BASOMMATOPHORA</li>
                                                 <li>STYLOMMATOPHORA</li>
@@ -403,7 +405,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>CEPHALOPODA</p>
+                                    <a href="">CEPHALOPODA</a>
                                     <ul>
                                         <li>NAUTILOIDEA</li>
                                         <li>AMMONOIDEA</li>
@@ -426,7 +428,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>BIVALVIA</p>
+                                    <a href="">BIVALVIA</a>
                                     <ul>
                                         <li>BIVALVIA</li>
                                         <li>NUCULOIDA</li>
@@ -445,7 +447,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>SCAPHOPODA</p>
+                                    <a href="">SCAPHOPODA</a>
                                     <ul>
                                         <li>DENTALIIDA</li>
                                         <li>GADILIDA</li>
@@ -454,13 +456,13 @@
                             </ul>
                         </li>
                         <li>
-                            <p>ANNELIDA</p>
+                            <a href="">ANNELIDA</a>
                             <ul>
                                 <li>
-                                    <p>POLYCHAETA</p>
+                                    <a href="">POLYCHAETA</a>
                                     <ul>
                                         <li>
-                                            <p>SCOLECIDA</p>
+                                            <a href="">SCOLECIDA</a>
                                             <ul>
                                                 <li>ARENICOLIDAE</li>
                                                 <li>MALDANIDAE</li>
@@ -470,7 +472,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>PALPATA</p>
+                                            <a href="">PALPATA</a>
                                             <ul>
                                                 <li>PHYLLODOCIDA</li>
                                                 <li>TOMOPTERIDAE</li>
@@ -483,13 +485,13 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>MYZOSTOMIDA</p>
+                                            <a href="">MYZOSTOMIDA</a>
                                             <ul>
                                                 <li>MYZOSTOMIDAE</li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>EUNICIDA</p>
+                                            <a href="">EUNICIDA</a>
                                             <ul>
                                                 <li>EUNICIDAE</li>
                                                 <li>AMPHINOMIDAE</li>
@@ -501,7 +503,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>SPIONIODAE</p>
+                                            <a href="">SPIONIODAE</a>
                                             <ul>
                                                 <li>SPINIODAE</li>
                                                 <li>MAGELONIDAE</li>
@@ -509,7 +511,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>TEREBELLIDA</p>
+                                            <a href="">TEREBELLIDA</a>
                                             <ul>
                                                 <li>TEREBELLIDAE</li>
                                                 <li>AMPHARETIDAE</li>
@@ -519,7 +521,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>SABELLIDA</p>
+                                            <a href="">SABELLIDA</a>
                                             <ul>
                                                 <li>OWENIIDAE</li>
                                                 <li>SABELLARIIDAE</li>
@@ -527,15 +529,15 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>POGONOPHORA</p>
+                                            <a href="">POGONOPHORA</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>CLITELLATA</p>
+                                    <a href="">CLITELLATA</a>
                                     <ul>
                                         <li>
-                                            <p>OLIGOCHAETA</p>
+                                            <a href="">OLIGOCHAETA</a>
                                             <ul>
                                                 <li>AEOLOSOMATIDAE</li>
                                                 <li>NAIDIDAE</li>
@@ -544,11 +546,11 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>HIRUDINOMORPHA</p>
+                                            <a href="">HIRUDINOMORPHA</a>
                                             <ul>
                                                 <li>BRANCHIOBDELLIDA</li>
                                                 <li>
-                                                    <p>HIRUDINEA</p>
+                                                    <a href="">HIRUDINEA</a>
                                                     <ul>
                                                         <li>EUHIRUDINEA</li>
                                                         <li>RHYNCHOBDELLIDA</li>
@@ -564,7 +566,7 @@
                             </ul>
                         </li>
                         <li>
-                            <p>ECHIURA</p>
+                            <a href="">ECHIURA</a>
                             <ul>
                                 <li>ECHIURIDAE</li>
                                 <li>URECHIDAE</li>
@@ -574,31 +576,31 @@
                             </ul>
                         </li>
                         <li>
-                            <p>SIPUNCULA</p>
+                            <a href="">SIPUNCULA</a>
                             <ul>
                                 <li>SIPUNCULIDEA</li>
                                 <li>PHASCOLOSOMATIDEA</li>
                             </ul>
                         </li>
                         <li>
-                            <p>ONYCHOPHORA</p>
+                            <a href="">ONYCHOPHORA</a>
                             <ul>
                                 <li>PERIPATOPSIDAE</li>
                                 <li>PERIPATIDAE</li>
                             </ul>
                         </li>
                         <li>
-                            <p>TARDIGRADA</p>
+                            <a href="">TARDIGRADA</a>
                             <ul>
                                 <li>HETEROTARDIGRADA</li>
                                 <li>MESOTARDIGRADA</li>
                             </ul>
                         </li>
                         <li>
-                            <p>ARTHROPODA</p>
+                            <a href="">ARTHROPODA</a>
                             <ul>
                                 <li>
-                                    <p>TRILOBITOMORPHA</p>
+                                    <a href="">TRILOBITOMORPHA</a>
                                     <ul>
                                         <li>REDLICHIIDA</li>
                                         <li>AGNOSTIDA</li>
@@ -611,17 +613,17 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>CHELICERATA</p>
+                                    <a href="">CHELICERATA</a>
                                     <ul>
                                         <li>XIPHOSURA</li>
                                         <li>
-                                            <p>ARACHNIDA</p>
+                                            <a href="">ARACHNIDA</a>
                                             <ul>
                                                 <li>SCORPIONES</li>
                                                 <li>UROPYGI</li>
                                                 <li>AMBLYPYGI</li>
                                                 <li>
-                                                    <p>ARANAE</p>
+                                                    <a href="">ARANAE</a>
                                                     <ul>
                                                         <li>MESOTHELAE</li>
                                                         <li>MYGALOMORPHAE</li>
@@ -653,22 +655,22 @@
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <p>PALPIGRADI</p>
+                                                    <a href="">PALPIGRADI</a>
                                                 </li>
                                                 <li>
-                                                    <p>PSEUDOSCORPIONES</p>
+                                                    <a href="">PSEUDOSCORPIONES</a>
                                                 </li>
                                                 <li>
-                                                    <p>SOLIFUGAE</p>
+                                                    <a href="">SOLIFUGAE</a>
                                                 </li>
                                                 <li>
-                                                    <p>OPILIONES</p>
+                                                    <a href="">OPILIONES</a>
                                                 </li>
                                                 <li>
-                                                    <p>RICINULEI</p>
+                                                    <a href="">RICINULEI</a>
                                                 </li>
                                                 <li>
-                                                    <p>ACARI</p>
+                                                    <a href="">ACARI</a>
                                                     <ul>
                                                         <li>ACARIFORMES</li>
                                                         <li>OPILIOACARIDA</li>
@@ -678,24 +680,24 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>PYCNOGONIDA</p>
+                                            <a href="">PYCNOGONIDA</a>
                                         </li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>CRUSTACEA</p>
+                                    <a href="">CRUSTACEA</a>
                                     <ul>
                                         <li>REMIPEDIA</li>
                                         <li>CEPHALOCARIDA</li>
                                         <li>ANOSTRACA</li>
                                         <li>
-                                            <p>PHYLLOPODA</p>
+                                            <a href="">PHYLLOPODA</a>
                                             <ul>
                                                 <li>NOTOSTRACA</li>
                                                 <li>LAEVICAUDATA</li>
                                                 <li>SPINICAUDATA</li>
                                                 <li>
-                                                    <p>CLADOCERA</p>
+                                                    <a href="">CLADOCERA</a>
                                                     <ul>
                                                         <li>ANOMOPODA</li>
                                                         <li>CTENOPODA</li>
@@ -706,15 +708,15 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>MALACOSTRACA</p>
+                                            <a href="">MALACOSTRACA</a>
                                             <ul>
                                                 <li>LEPTOSTRACA</li>
                                                 <li>STOMATOPODA</li>
                                                 <li>
-                                                    <p>DECAPODA</p>
+                                                    <a href="">DECAPODA</a>
                                                     <ul>
                                                         <li>
-                                                            <p>SYNCARIDA</p>
+                                                            <a href="">SYNCARIDA</a>
                                                             <ul>
                                                                 <li>ANASPIDACEA</li>
                                                                 <li>BATHYNELLACEA</li>
@@ -723,14 +725,14 @@
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <p>EUPHAUSIACEA</p>
+                                                    <a href="">EUPHAUSIACEA</a>
                                                 </li>
                                                 <li>
-                                                    <p>PANCARIDA</p>
+                                                    <a href="">PANCARIDA</a>
                                                     <ul>
                                                         <li>MYSIDACEA</li>
                                                         <li>
-                                                            <p>AMPHIPODA</p>
+                                                            <a href="">AMPHIPODA</a>
                                                             <ul>
                                                                 <li>GAMMARIDEA</li>
                                                                 <li>HYPERIIDEA</li>
@@ -745,7 +747,7 @@
                                                 <li>TANAIDACEA</li>
                                                 <li>SPELAEOGRIPHACEA</li>
                                                 <li>
-                                                    <p>ISOPODA</p>
+                                                    <a href="">ISOPODA</a>
                                                     <ul>
                                                         <li>FLABELLIFERA</li>
                                                         <li>VALVIFERA</li>
@@ -761,20 +763,20 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>MAXILLOPODA</p>
+                                            <a href="">MAXILLOPODA</a>
                                             <ul>
                                                 <li>COPEPODA</li>
                                                 <li>MYSTACOCARIDA</li>
                                                 <li>TANTULOCARIDA</li>
                                                 <li>ASLOTHORACIDA</li>
                                                 <li>
-                                                    <p>CIRRIPEDIA</p>
+                                                    <a href="">CIRRIPEDIA</a>
                                                     <ul>
                                                         <li>
-                                                            <p>THORACILA</p>
+                                                            <a href="">THORACILA</a>
                                                             <ul>
                                                                 <li>
-                                                                    <p>LEPADOMORPHA</p>
+                                                                    <a href="">LEPADOMORPHA</a>
                                                                     <ul>
                                                                         <li>LEPADIDAE</li>
                                                                         <li>SCALPELLIDAE</li>
@@ -789,7 +791,7 @@
                                                 <li>RHIZOCEPHALA</li>
                                                 <li>ACROTHORACIA</li>
                                                 <li>
-                                                    <p>OSTRACODA</p>
+                                                    <a href="">OSTRACODA</a>
                                                     <ul>
                                                         <li>MYODOCOPA</li>
                                                         <li>PODOCOPA</li>
@@ -804,10 +806,10 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>MYRIAPODA</p>
+                                    <a href="">MYRIAPODA</a>
                                     <ul>
                                         <li>
-                                            <p>CHILOPODA</p>
+                                            <a href="">CHILOPODA</a>
                                             <ul>
                                                 <li>SCUTIGEROMORPHA</li>
                                                 <li>LITHOBIOMORPHA</li>
@@ -818,7 +820,7 @@
                                         </li>
                                         <li>SYMPHYLA</li>
                                         <li>
-                                            <p>DIPLOPODA</p>
+                                            <a href="">DIPLOPODA</a>
                                             <ul>
                                                 <li>PENICILLATA</li>
                                                 <li>PENTAZONIA</li>
@@ -832,7 +834,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>HEXAPODA</p>
+                                    <a href="">HEXAPODA</a>
                                     <ul>
                                         <li>ENTOGNATHA</li>
                                         <li>COLLEMBOLA</li>
@@ -842,14 +844,14 @@
                                         <li>INSECTA</li>
                                         <li>ARCHAEOGNATHA</li>
                                         <li>
-                                            <p>ZYGENTOMA</p>
+                                            <a href="">ZYGENTOMA</a>
                                             <ul>
                                                 <li>PTERYGOTA</li>
                                             </ul>
                                         </li>
                                         <li>EPHEMEROPTERA</li>
                                         <li>
-                                            <p>ODONATA</p>
+                                            <a href="">ODONATA</a>
                                             <ul>
                                                 <li>ANISOPTERA</li>
                                                 <li>ZYGOPTERA</li>
@@ -873,7 +875,7 @@
                                         <li>EUMETABOLA</li>
                                         <li>PSOCOPTERA</li>
                                         <li>
-                                            <p>PHTIRAPTERA</p>
+                                            <a href="">PHTIRAPTERA</a>
                                             <ul>
                                                 <li>ANOPLURA</li>
                                                 <li>MALLOPHAGA</li>
@@ -883,7 +885,7 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>THYSANOPTERA</p>
+                                            <a href="">THYSANOPTERA</a>
                                             <ul>
                                                 <li>HOLOMETABOLA</li>
                                             </ul>
@@ -904,31 +906,31 @@
                             </ul>
                         </li>
                         <li>
-                            <p>CYCLONEURALIA</p>
+                            <a href="">CYCLONEURALIA</a>
                             <ul>
                                 <li>
-                                    <p>GASTROTRICHA</p>
+                                    <a href="">GASTROTRICHA</a>
                                     <ul>
                                         <li>ADENOPHOREA</li>
                                         <li>CHAETONOTIDA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>NEMATODA</p>
+                                    <a href="">NEMATODA</a>
                                     <ul>
                                         <li>ADENOPHOREA</li>
                                         <li>SECERNENTEA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>NEMATOMORPHA</p>
+                                    <a href="">NEMATOMORPHA</a>
                                     <ul>
                                         <li>NECTONEMATOIDA</li>
                                         <li>GORDIOIDA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>PRIAPULIDA</p>
+                                    <a href="">PRIAPULIDA</a>
                                     <ul>
                                         <li>PRIAPULOMORPHA</li>
                                         <li>PRIAPULIDAE</li>
@@ -941,14 +943,14 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>LORICIFERA</p>
+                                    <a href="">LORICIFERA</a>
                                     <ul>
                                         <li>PLICILORICIDAE</li>
                                         <li>NANALORICIDAE</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>KINORHYNCHA</p>
+                                    <a href="">KINORHYNCHA</a>
                                     <ul>
                                         <li>CYCLORHAGIDA</li>
                                         <li>HOMALORHAGIDA</li>
@@ -957,10 +959,10 @@
                             </ul>
                         </li>
                         <li>
-                            <p>GNATHIFERA</p>
+                            <a href="">GNATHIFERA</a>
                             <ul>
                                 <li>
-                                    <p>GNATHOSTOMULIDA</p>
+                                    <a href="">GNATHOSTOMULIDA</a>
                                     <ul>
                                         <li>FILOSPERMOIDEA</li>
                                         <li>BURSOVAGINDIDEA</li>
@@ -968,10 +970,10 @@
                                 </li>
                                 <li>MICROGNATHOZOA</li>
                                 <li>
-                                    <p>SYNDERMATA</p>
+                                    <a href="">SYNDERMATA</a>
                                     <ul>
                                         <li>
-                                            <p>ROTIFERA</p>
+                                            <a href="">ROTIFERA</a>
                                             <ul>
                                                 <li>MONOGONONTA</li>
                                                 <li>PLOIMA</li>
@@ -980,7 +982,7 @@
                                                 <li>BDELLOIDEA</li>
                                                 <li>SEISONIDA</li>
                                                 <li>
-                                                    <p>ACANTHOCEPHALA</p>
+                                                    <a href="">ACANTHOCEPHALA</a>
                                                     <ul>
                                                         <li>ARCHIACANTHOCEPHALA</li>
                                                         <li>EOACANTHOCEPHALA</li>
@@ -994,7 +996,7 @@
                             </ul>
                         </li>
                         <li>
-                            <p>KAMPTOZOA</p>
+                            <a href="">KAMPTOZOA</a>
                             <ul>
                                 <li>LOXOSOMATIDAE</li>
                                 <li>LOXOKALYPODIDAE</li>
@@ -1003,20 +1005,20 @@
                             </ul>
                         </li>
                         <li>
-                            <p>CYCLIOPHORA</p>
+                            <a href="">CYCLIOPHORA</a>
                         </li>
                         <li>
-                            <p>LOPHOPHORATA</p>
+                            <a href="">LOPHOPHORATA</a>
                             <ul>
                                 <li>
-                                    <p>PHORONIDA</p>
+                                    <a href="">PHORONIDA</a>
                                     <ul>
                                         <li>PHORONIS</li>
                                         <li>PHORONOPSIS</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>BRACHIOPODA</p>
+                                    <a href="">BRACHIOPODA</a>
                                     <ul>
                                         <li>INARTICULATA</li>
                                         <li>LINGULIDA</li>
@@ -1028,7 +1030,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>BRYOZOA</p>
+                                    <a href="">BRYOZOA</a>
                                     <ul>
                                         <li>PHYLACTOLAEMATA</li>
                                         <li>GYMNOLAEMATA</li>
@@ -1046,20 +1048,20 @@
                             </ul>
                         </li>
                         <li>
-                            <p>CHAETOGNATHA</p>
+                            <a href="">CHAETOGNATHA</a>
                         </li>
                         <li>
-                            <p>HEMICHORDATA</p>
+                            <a href="">HEMICHORDATA</a>
                         </li>
                         <li>
-                            <p>ECHINODERMATA</p>
+                            <a href="">ECHINODERMATA</a>
                             <ul>
                                 <li>
-                                    <p>ELEUTHEROZOA</p>
+                                    <a href="">ELEUTHEROZOA</a>
                                     <ul>
                                         <li>ASTEROIDEA</li>
                                         <li>
-                                            <p>PAXILLOSIDA</p>
+                                            <a href="">PAXILLOSIDA</a>
                                             <ul>
                                                 <li>VALVATIDA</li>
                                                 <li>VELATIDA</li>
@@ -1069,10 +1071,10 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>CRYPTOSYRINGIDA</p>
+                                            <a href="">CRYPTOSYRINGIDA</a>
                                             <ul>
                                                 <li>
-                                                    <p>OPHIUROIDEA</p>
+                                                    <a href="">OPHIUROIDEA</a>
                                                     <ul>
                                                         <li>OEGOPHIURIDA</li>
                                                         <li>PHRYNOPHIUROIDA</li>
@@ -1080,10 +1082,10 @@
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <p>ECHINOZOA</p>
+                                                    <a href="">ECHINOZOA</a>
                                                     <ul>
                                                         <li>
-                                                            <p>ECHINOIDEA</p>
+                                                            <a href="">ECHINOIDEA</a>
                                                             <ul>
                                                                 <li>CIDAROIDA</li>
                                                                 <li>EUECHINOIDA</li>
@@ -1095,7 +1097,7 @@
                                                             </ul>
                                                         </li>
                                                         <li>
-                                                            <p>HOLOTHUROIDEA</p>
+                                                            <a href="">HOLOTHUROIDEA</a>
                                                             <ul>
                                                                 <li>DACTYLOCHIROTIDA</li>
                                                                 <li>DENDROCHIROTIDA</li>
@@ -1112,7 +1114,7 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>CRINOIDEA</p>
+                                    <a href="">CRINOIDEA</a>
                                     <ul>
                                         <li>ISOCRINIDA</li>
                                         <li>MILLERICRINIDA</li>
@@ -1124,16 +1126,16 @@
                             </ul>
                         </li>
                         <li>
-                            <p>CHORDATA</p>
+                            <a href="">CHORDATA</a>
                             <ul>
                                 <li>
-                                    <p>CEPHALOCHORDATA</p>
+                                    <a href="">CEPHALOCHORDATA</a>
                                     <ul>
                                         <li>
-                                            <p>TUNICATA</p>
+                                            <a href="">TUNICATA</a>
                                             <ul>
                                                 <li>
-                                                    <p>ASCIDIACEA</p>
+                                                    <a href="">ASCIDIACEA</a>
                                                     <ul>
                                                         <li>ENTEROGONA</li>
                                                         <li>APLONSOBRANCHIA</li>
@@ -1143,7 +1145,7 @@
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <p>THALIACEA</p>
+                                                    <a href="">THALIACEA</a>
                                                     <ul>
                                                         <li>PYROSOMIDA</li>
                                                         <li>DOLIOLIDA</li>
@@ -1161,39 +1163,8 @@
                 </aside>
 
                 <!-- IMAGE GRID -->
-                <main class="grid grid-6 module-6 gallery">
-                    <div>
-                        <img class="species-img" src="EUGLENOIDEA 03.1.1 (2).jpeg" alt="">
-                        <h2 class="type-monospaced monospaced-small"><strong>001</strong>Euglenoidea</h2>
-                    </div>
-                    <div>
-                        <img class="species-img" src="KINETOPLASTIDA 03.1.2.jpeg" alt="">
-                        <h2 class="type-monospaced monospaced-small"><strong>002</strong>Kinetoplastida</h2>
-                    </div>
-                    <div>
-                        <img class="species-img" src="VOLVOCIDA 03.2.1 (3).jpeg" alt="">
-                        <h2 class="type-monospaced monospaced-small"><strong>003</strong>Volvocida</h2>
-                    </div>
-                    <div>
-                        <img class="species-img" src="CHOANOFLAGELLATA 3.3.jpeg" alt="">
-                        <h2 class="type-monospaced monospaced-small"><strong>004</strong>Choanoflagellata</h2>
-                    </div>
-                    <div>
-                        <img class="species-img" src="DIPLOMONADEA 03.4.2.jpeg" alt="">
-                        <h2 class="type-monospaced monospaced-small"><strong>005</strong>Diplomonadea</h2>
-                    </div>
-                    <div>
-                        <img class="species-img" src="PARABASALEA 3.4.4 (2).jpeg" alt="">
-                        <h2 class="type-monospaced monospaced-small"><strong>006</strong>Parabasalea</h2>
-                    </div>
-                    <div>
-                        <img class="species-img" src="RETORTAMONADEA 03.4.1 (2).jpeg" alt="">
-                        <h2 class="type-monospaced monospaced-small"><strong>007</strong>Retortamonadea</h2>
-                    </div>
-                    <div>
-                        <img class="species-img" src="DINOFLAGELLATA 3.5.1.jpeg" alt="">
-                        <h2 class="type-monospaced monospaced-small"><strong>008</strong>Dinoflagellata</h2>
-                    </div>
+                <main id="image-grid" class="grid grid-6 module-6 gallery">
+                    <!-- Content is Being inserted in Javascript -->
                 </main>
             </div>
 
@@ -1204,8 +1175,9 @@
                 <a class="landing header-list">
                     <img src="landing page.svg" alt="landing page">
                 </a>
-                <a>SUBSCRIBE TO OUR NEWSLETTER</a>
+                <a href="">SUBSCRIBE TO OUR NEWSLETTER</a>
             </footer>
 
+            <script src="home.js"></script>
         </body>
     </html>
