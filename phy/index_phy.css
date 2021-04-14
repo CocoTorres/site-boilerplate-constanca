@@ -115,6 +115,7 @@ footer{
 
 .type-helvetica {
     font-family: Helvetica;
+    font-size: 12px;
 }
 
 .margin-main{
@@ -127,5 +128,10 @@ footer{
 }
 
 footer> a> img{
-    width: 5%;
+    width: 3%;
+    margin-right: 8%;
+}
+
+.list-nom{
+    list-style-position: inside;
 }

@@ -1,7 +1,7 @@
 const params = new URLSearchParams(window.location.search)
 
-for (let i = 0; i < databaseTechnique.length; i++) {
-    const specie = databaseTechnique[i];
+for (let i = 0; i < databaseSpecies.length; i++) {
+    const specie = databaseSpecies[i];
 
     // render GRID IMAGES (IF)
     if (params.has("subphylum")) {
