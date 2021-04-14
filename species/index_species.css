@@ -37,7 +37,7 @@ ul ul {
     padding-left: 44px;
 }
 
-li:hover > ul {
+ul.open {
     display: block;
 }
 
@@ -47,6 +47,11 @@ li {
 
 h2 >strong{
     margin-right: 5px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
 
 header{
@@ -75,7 +80,7 @@ footer{
 }
 
 .header-logo img{
-    width: 154px;
+    width: 100px;
 }
 
 .header-list {
@@ -149,6 +154,7 @@ footer{
 
 .type-helvetica {
     font-family: Helvetica;
+    font-size: 12px;
 }
 
 .type-monospaced {
@@ -160,14 +166,14 @@ footer{
 }
 
 .monospaced-medium{
-    font-size: 20px;
-    margin-bottom: 20px;
+    font-size: 12px;
+    margin-bottom: 12px;
     margin-top: 0;
 }
 
 .monospaced-big{
-    font-size: 25px;
-    margin-bottom: 20px;
+    font-size: 20px;
+    margin-bottom: 12px;
     margin-top: -4px;
 }
 
@@ -201,12 +207,17 @@ footer{
 }
 
 .margin-main{
-    margin-top: 78px;
-    margin-bottom: 78px;
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+
+.overflow{
+    overflow: scroll;
+    height: 85vh;
 }
 
 footer> a> img{
-    width: 5%;
+    width: 3%;
 }
 
 .numbers{

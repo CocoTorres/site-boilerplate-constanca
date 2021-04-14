@@ -3,6 +3,8 @@
 
 <head>
     <link rel="stylesheet" href="index_species.css">
+
+    <script src="../js/database_technique.js"></script>
 </head>
 
 <body class="color-white">
@@ -21,46 +23,48 @@
 
     <!-- SPECIES LIST -->
     <div class="flex margin-main">
-        <aside class="padding-small module-3">
+        <aside class="padding-small module-3 overflow">
             <ul class="type-helvetica">
                 <li>
-                    <p>PROTOZOA</p>
-                    <ul>
+                    <a href="?kingdom=protozoa">PROTOZOA</a>
+                    <ul id="protozoa">
                         <li>
-                            <p>EUGLENOZOA</p>
-                            <ul>
+                            <a href="?kingdom=protozoa&phylum=euglenozoa">EUGLENOZOA</a>
+                            <ul id="euglenozoa">
                                 <li>EUGLENOIDEA</li>
                                 <li>KINETOPLASTIDA</li>
                             </ul>
                         </li>
                         <li>
-                            <p>CHLOROPHYTA</p>
-                            <ul>
+                            <a href="?kingdom=protozoa&phylum=chlorophyta">CHLOROPHYTA</a>
+                            <ul id="chlorophyta">
                                 <li>VOLVOCIDA</li>
                             </ul>
                         </li>
-                        <li>CHOANOFLAGELLATA</li>
                         <li>
-                            <p>RETORTAMONADA</p>
-                            <ul>
+                            <a href="?kingdom=protozoa&phylum=choanoflagellata">CHOANOFLAGELLATA</a>
+                        </li>
+                        <li>
+                            <a href="?kingdom=protozoa&phylum=retortamonada">RETORTAMONADA</a>
+                            <ul id="retortamonada">
                                 <li>RETORTAMONADEA</li>
                                 <li>DIPLOMONADEA</li>
                             </ul>
                         </li>
                         <li>
-                            <p>AXOSTYLATA</p>
-                            <ul>
+                            <a href="?kingdom=protozoa&phylum=axostylata">AXOSTYLATA</a>
+                            <ul id="axostylata">
                                 <li>OXYMONADEA</li>
                                 <li>PARABASALEA</li>
                             </ul>
                         </li>
                         <li>
-                            <p>ALVEOLATA</p>
-                            <ul>
+                            <a href="?kingdom=protozoa&phylum=alveolata">ALVEOLATA</a>
+                            <ul id="alveolata">
                                 <li>DINOFLAGELLATA</li>
                                 <li>
-                                    <p>CILIOPHORA</p>
-                                    <ul>
+                                    <a href="?kingdom=protozoa&phylum=alveolata&subphylum=ciliophora">CILIOPHORA</a>
+                                    <ul id="ciliophora">
                                         <li>KARYORELICTEA</li>
                                         <li>SPIROTRICHEA</li>
                                         <li>LITOSTOMATEA</li>
@@ -72,8 +76,8 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>APICOMPLEXA</p>
-                                    <ul>
+                                    <a href="?kingdom=protozoa&phylum&=alveolatasubphylum=apicomplexa">APICOMPLEXA</a>
+                                    <ul id="apicomplexa">
                                         <li>GREGARINEA</li>
                                         <li>COCCIDIA</li>
                                         <li>HEMATOZOEA</li>
@@ -82,37 +86,38 @@
                             </ul>
                         </li>
                         <li>
-                            <p>AMEBOID PROTOZOA</p>
-                            <ul>
+                            <a href="?kingdom=protozoa&phylum=ameboid protozoa">AMEBOID PROTOZOA</a>
+                            <ul id="ameboid protozoa">
                                 <li>
-                                    <p>AMEBAS</p>
-                                    <ul>
+                                    <a href="?kingdom=protozoa&phylum=ameboid protozoa&subphylum=amebas">AMEBAS</a>
+                                    <ul id="amebas">
                                         <li>CARYOBLASTA</li>
                                         <li>HETEROLOBOSA</li>
                                         <li>AMOEBOZOA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>FORAMINIFEREA</p>
-                                    <ul>
+                                    <a
+                                        href="?kingdom=protozoa&phylum=ameboid protozoa&subphylum=foraminiferea">FORAMINIFEREA</a>
+                                    <ul id="foraminiferea">
                                         <li>ALLOGROMIINA</li>
                                         <li>TEXTURALIINA</li>
                                         <li>MILIOLINA</li>
                                         <li>ROTALIINA</li>
                                     </ul>
                                 </li>
-                                <li>ACTINOPODA</li>
+                                ! <li>ACTINOPODA</li>
                                 <li>
-                                    <p>RADIOLARIA</p>
-                                    <ul>
+                                    <a href="?kingdom=protozoa&phylum=ameboid protozoa&subphylum=radiolaria">RADIOLARIA</a>
+                                    <ul id="radiolaria">
                                         <li>POLYCYSTINEA</li>
                                         <li>PHAEODAREA</li>
                                     </ul>
                                 </li>
-                                <li>ACANTHAREA</li>
+                                ! <li>ACANTHAREA</li>
                                 <li>
-                                    <p>HELIOZOA</p>
-                                    <ul>
+                                    <a href="?kingdom=protozoa&phylum=ameboid protozoa&subphylum=heliozoa">HELIOZOA</a>
+                                    <ul id="heliozoa">
                                         <li>DESMOTHORACIDA</li>
                                         <li>CILIOPHYIDA</li>
                                         <li>TAXOPODIDA</li>
@@ -121,30 +126,29 @@
                                 </li>
                             </ul>
                         </li>
-
-                        <li>PLATYHELMINTHES</li>
-                        <li>PLACOZOA</li>
-                        <li>PLATYHELMINTHES</li>
+                        ! <li>PLATYHELMINTHES</li>
+                        ! <li>PLACOZOA</li>
+                        ! <li>PLATYHELMINTHES</li>
                     </ul>
                 </li>
                 <li>
-                    <p>PORIFERA</p>
-                    <ul>
+                    <a href="?kingdom=porifera">PORIFERA</a>
+                    <ul id="porifera">
                         <li>SYMPLASMA</li>
                         <li>
-                            <p>CELLULARIA</p>
-                            <ul>
+                            <a href="?kingdom=porifera&phylum=cellularia">CELLULARIA</a>
+                            <ul id="cellularia">
                                 <li>
-                                    <p>DEMOSPONGIAE</p>
-                                    <ul>
+                                    <a href="?kingdom=porifera&phylum=cellularia&subphylum=demospongiae">DEMOSPONGIAE</a>
+                                    <ul id="demospongiae">
                                         <li>HOMOSCLEROMORPHA</li>
                                         <li>TETRACTIONOMORPHA</li>
                                         <li>CERACTINOMORPHA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>CALCAREA</p>
-                                    <ul>
+                                    <a href="?kingdom=porifera&phylum=cellularia&subphylum=calcarea">CALCAREA</a>
+                                    <ul id="calcarea">
                                         <li>CALCINEA</li>
                                         <li>CALCARONEA</li>
                                     </ul>
@@ -154,14 +158,14 @@
                     </ul>
                 </li>
                 <li>
-                    <p>CNIDARIA</p>
-                    <ul>
+                    <a href="?kingdom=cnidaria">CNIDARIA</a>
+                    <ul id="cnidaria">
                         <li>
-                            <p>ANTHOZOA</p>
-                            <ul>
+                            <a href="?kingdom=cnidaria&phylum=anthozoa">ANTHOZOA</a>
+                            <ul id="anthozoa">
                                 <li>
-                                    <p>ZOANTHARIA</p>
-                                    <ul>
+                                    <a href="?kingdom=cnidaria&phylum=anthozoa&subphylum=zoantharia">ZOANTHARIA</a>
+                                    <ul id="zoantharia">
                                         <li>ACTINIARIA</li>
                                         <li>SCELERACTINA</li>
                                         <li>ZOANTHIDEA</li>
@@ -171,8 +175,8 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>ALCYONARIA</p>
-                                    <ul>
+                                    <a href="kingdom=cnidaria&phylum=anthozoa&subphylum=alcyonaria">ALCYONARIA</a>
+                                    <ul id="alcyonaria">
                                         <li>STOLONIFERA</li>
                                         <li>HELIOPORACEA</li>
                                         <li>TELESTACEA</li>
@@ -184,11 +188,11 @@
                             </ul>
                         </li>
                         <li>
-                            <p>MEDUSOZOA</p>
-                            <ul>
+                            <a href="?kingdom=cnidaria&phylum=medusozoa">MEDUSOZOA</a>
+                            <ul id="medusozoa">
                                 <li>
-                                    <p>SCYPHOZOA</p>
-                                    <ul>
+                                    <a href="?kingdom=cnidaria&phylum=medusozoa&subphylum=scyphozoa">SCYPHOZOA</a>
+                                    <ul id="scyphozoa">
                                         <li>SEMAEOSTOMEAE</li>
                                         <li>RHIZOSTOMEAE</li>
                                         <li>CUBOMEDUSAE</li>
@@ -199,11 +203,12 @@
                             </ul>
                             <ul>
                                 <li>
-                                    <p>HYDROZOA</p>
-                                    <ul>
+                                    <a href="?kingdom=cnidaria&phylum=medusozoa&subphylum=hydrozoa">HYDROZOA</a>
+                                    <ul id="hydrozoa">
                                         <li>
-                                            <p>A-FORMS</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=cnidaria&phylum=medusozoa&subphylum=hydrozoa&clade=a-forms">A-FORMS</a>
+                                            <ul id="a-forms">
                                                 <li>ANTHOATHECATAE</li>
                                                 <li>CAPITATA</li>
                                                 <li>FILIFERA</li>
@@ -214,8 +219,9 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>L-FORMS</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=cnidaria&phylum=medusozoa&subphylum=hydrozoa&clade=l-forms">L-FORMS</a>
+                                            <ul id="l-forms">
                                                 <li>LEPTOTHEATAE</li>
                                                 <li>LIMNOMEDUSAE</li>
                                                 <li>TRACHYLINA</li>
@@ -231,8 +237,8 @@
                     </ul>
                 </li>
                 <li>
-                    <p>CTENOPHORA</p>
-                    <ul>
+                    <a href="?kingdom=ctenophora">CTENOPHORA</a>
+                    <ul id="ctenophora">
                         <li>CYDIPPIDA</li>
                         <li>PLATYCTENIDA</li>
                         <li>LOBATA</li>
@@ -243,11 +249,11 @@
                     </ul>
                 </li>
                 <li>
-                    <p>PLATYHELMINTHES</p>
-                    <ul>
+                    <a href="?kingdom=platyhelminthes">PLATYHELMINTHES</a>
+                    <ul id="platyhelminthes">
                         <li>
-                            <p>TURBELLARIA</p>
-                            <ul>
+                            <a href="?kingdom=platyhelminthes&phylum=turbellaria">TURBELLARIA</a>
+                            <ul id="turbellaria">
                                 <li>CATENULIDA</li>
                                 <li>EUPLATYHELMINTHES</li>
                                 <li>ACOELOMORPHA</li>
@@ -273,18 +279,19 @@
                             </ul>
                         </li>
                         <li>
-                            <p>NEORDERMATA</p>
-                            <ul>
+                            <a href="?kingdom=platyhelminthes&phylum=neordermata">NEORDERMATA</a>
+                            <ul id="neordermata">
                                 <li>
-                                    <p>TREMATODA</p>
-                                    <ul>
+                                    <a href="?kingdom=platyhelminthes&phylum=neordermata&clade=trematoda">TREMATODA</a>
+                                    <ul id="trematoda">
                                         <li>DIGENIA</li>
                                         <li>ASPIDOGASTREA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>CERCOMEROMORPHA</p>
-                                    <ul>
+                                    <a
+                                        href="?kingdom=platyhelminthes&phylum=neordermata&clade=cercomeromorpha">CERCOMEROMORPHA</a>
+                                    <ul id="cercomeromorpha">
                                         <li>MONOGENEA</li>
                                         <li>CESTODA</li>
                                     </ul>
@@ -292,19 +299,19 @@
                             </ul>
                         </li>
                         <li>
-                            <p>MESOZOA</p>
+                            ! <a href="?kingdom=platyhelminthes&phylum=mesozoa">MESOZOA</a>
                         </li>
                     </ul>
                 </li>
                 <li>
-                    <p>ORTHONECTIDA</p>
+                    ! <a href="?kingdom=orthonectida">ORTHONECTIDA</a>
                 </li>
                 <li>
-                    <p>DICYEMIDA</p>
+                    ! <a href="?kingdom=dicyemida">DICYEMIDA</a>
                 </li>
                 <li>
-                    <p>NEMERTEA</p>
-                    <ul>
+                    <a href="?kingdom=nemertea">NEMERTEA</a>
+                    <ul id="nemertea">
                         <li>ANOPLA</li>
                         <li>PALAEONEMERTEA</li>
                         <li>HETERONEMERTEA</li>
@@ -316,18 +323,18 @@
                     </ul>
                 </li>
                 <li>
-                    <p>MOLLUSCA</p>
-                    <ul>
+                    <a href="?kingdom=mollusca">MOLLUSCA</a>
+                    <ul id="mollusca">
                         <li>
-                            <p>APLACOPHORA</p>
-                            <ul>
+                            <a href="?kingdom=mollusca&phylum=aplacophora">APLACOPHORA</a>
+                            <ul id="aplacophora">
                                 <li>NEOMENIOMORPHA</li>
                                 <li>CHAETODERMOMORPHA</li>
                             </ul>
                         </li>
                         <li>
-                            <p>POLYPLACOPHORA</p>
-                            <ul>
+                            <a href="?kingdom=mollusca&phylum=polyplacophora">POLYPLACOPHORA</a>
+                            <ul id="polyplacophora">
                                 <li>PALEOLORICATA</li>
                                 <li>NEOLORICATA</li>
                                 <li>LEPIDOPLEURINA</li>
@@ -336,18 +343,19 @@
                             </ul>
                         </li>
                         <li>
-                            <p>MONOPLACOPHORA</p>
+                            ! <a href="?kingdom=mollusca&phylum=monoplacophora">MONOPLACOPHORA</a>
                         </li>
                         <li>
-                            <p>GASTROPODA</p>
-                            <ul>
+                            <a href="?kingdom=mollusca&phylum=gastropoda">GASTROPODA</a>
+                            <ul id="gastropoda">
                                 <li>PATELLOGASTROPODA</li>
                                 <li>VETIGASTROPODA</li>
                                 <li>NERITIMORPHA</li>
                                 <li>CAENOGASTROPODA</li>
                                 <li>
-                                    <p>MESOGASTROPODA</p>
-                                    <ul>
+                                    <a
+                                        href="?kingdom=mollusca&phylum=gastropoda&subphylum=mesogastropoda">MESOGASTROPODA</a>
+                                    <ul id="mesogastropoda">
                                         <li>CERITHIOIDEA</li>
                                         <li>VERMETOIDEA</li>
                                         <li>LITTORINOIDEA</li>
@@ -364,22 +372,23 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>NEOGASTROPODA</p>
-                                    <ul>
+                                    <a href="?kingdom=mollusca&phylum=gastropoda&subphylum=neogastropoda">NEOGASTROPODA</a>
+                                    <ul id="neogastropoda">
                                         <li>MURICOIDEA</li>
                                         <li>CANCELLARIOIDEA</li>
                                         <li>CONOIDEA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>HETEROSTROPHA</p>
-                                    <ul>
+                                    <a href="?kingdom=mollusca&phylum=gastropoda&subphylum=heterostropha">HETEROSTROPHA</a>
+                                    <ul id="heterostropha">
                                         <li>PYRAMIDELLOIDEA</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>OPISTHOBRANCHS</p>
-                                    <ul>
+                                    <a
+                                        href="?kingdom=mollusca&phylum=gastropoda&subphylum=opisthobranchs">OPISTHOBRANCHS</a>
+                                    <ul id="opisthobranchs">
                                         <li>CEPHALASPIDEA</li>
                                         <li>ANASPIDEA</li>
                                         <li>THECOSOMATA</li>
@@ -395,8 +404,8 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>PULMONATES</p>
-                                    <ul>
+                                    <a href="?kingdom=mollusca&phylum=gastropoda&subphylum=pulmonates">PULMONATES</a>
+                                    <ul id="pulmonates">
                                         <li>BASOMMATOPHORA</li>
                                         <li>STYLOMMATOPHORA</li>
                                     </ul>
@@ -404,8 +413,8 @@
                             </ul>
                         </li>
                         <li>
-                            <p>CEPHALOPODA</p>
-                            <ul>
+                            <a href="?kingdom=mollusca&phylum=cephalopoda">CEPHALOPODA</a>
+                            <ul id="cephalopoda">
                                 <li>NAUTILOIDEA</li>
                                 <li>AMMONOIDEA</li>
                                 <li>COLEOIDEA</li>
@@ -427,8 +436,8 @@
                             </ul>
                         </li>
                         <li>
-                            <p>BIVALVIA</p>
-                            <ul>
+                            <a href="?kingdom=mollusca&phylum=bivalvia">BIVALVIA</a>
+                            <ul id="bivalvia">
                                 <li>BIVALVIA</li>
                                 <li>NUCULOIDA</li>
                                 <li>SOLEMYOIDA</li>
@@ -446,8 +455,8 @@
                             </ul>
                         </li>
                         <li>
-                            <p>SCAPHOPODA</p>
-                            <ul>
+                            <a href="?kingdom=mollusca&phylum=scaphopoda">SCAPHOPODA</a>
+                            <ul id="scaphopoda">
                                 <li>DENTALIIDA</li>
                                 <li>GADILIDA</li>
                             </ul>
@@ -455,14 +464,14 @@
                     </ul>
                 </li>
                 <li>
-                    <p>ANNELIDA</p>
-                    <ul>
+                    <a href="?kingdom=annelida">ANNELIDA</a>
+                    <ul id="annelida">
                         <li>
-                            <p>POLYCHAETA</p>
-                            <ul>
+                            <a href="?kingdom=annelida&phylum=polychaeta">POLYCHAETA</a>
+                            <ul id="polychaeta">
                                 <li>
-                                    <p>SCOLECIDA</p>
-                                    <ul>
+                                    <a href="?kingdom=annelida&phylum=polychaeta&subphylum=scolecida">SCOLECIDA</a>
+                                    <ul id="scolecida">
                                         <li>ARENICOLIDAE</li>
                                         <li>MALDANIDAE</li>
                                         <li>CAPITELLIDAE</li>
@@ -471,8 +480,8 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>PALPATA</p>
-                                    <ul>
+                                    <a href="?kingdom=annelida&phylum=polychaeta&subphylum=palpata">PALPATA</a>
+                                    <ul id="palpata">
                                         <li>PHYLLODOCIDA</li>
                                         <li>TOMOPTERIDAE</li>
                                         <li>ALCIOPIDAE</li>
@@ -484,14 +493,14 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>MYZOSTOMIDA</p>
-                                    <ul>
+                                    <a href="?kingdom=annelida&phylum=polychaeta&subphylum=myzostomida">MYZOSTOMIDA</a>
+                                    <ul id="myzostomida">
                                         <li>MYZOSTOMIDAE</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>EUNICIDA</p>
-                                    <ul>
+                                    <a href="?kingdom=annelida&phylum=polychaeta&subphylum=eunicida">EUNICIDA</a>
+                                    <ul id="eunicida">
                                         <li>EUNICIDAE</li>
                                         <li>AMPHINOMIDAE</li>
                                         <li>ONUPHIDAE</li>
@@ -501,16 +510,17 @@
                                         <li>ICHTHYOTOMIDAE</li>
                                     </ul>
                                 </li>
-                                    <p>SPIONIODAE</p>
-                                    <ul>
+                                <li>
+                                    <a href="?kingdom=annelida&phylum=polychaeta&subphylum=spioniodae">SPIONIODAE</a>
+                                    <ul id="spioniodae">
                                         <li>SPINIODAE</li>
                                         <li>MAGELONIDAE</li>
                                         <li>CHAETOPTERIDAE</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>TEREBELLIDA</p>
-                                    <ul>
+                                    <a href="?kingdom=annelida&phylum=polychaeta&subphylum=terebellida">TEREBELLIDA</a>
+                                    <ul id="terebellida">
                                         <li>TEREBELLIDAE</li>
                                         <li>AMPHARETIDAE</li>
                                         <li>CIRRATULIDAE</li>
@@ -519,24 +529,24 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>SABELLIDA</p>
-                                    <ul>
+                                    <a href="?kingdom=annelida&phylum=polychaeta&subphylum=sabellida">SABELLIDA</a>
+                                    <ul id="sabellida">
                                         <li>OWENIIDAE</li>
                                         <li>SABELLARIIDAE</li>
                                         <li>SABELLIDAE</li>
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>POGONOPHORA</p>
+                                    ! <a href="?kingdom=annelida&phylum=polychaeta&subphylum=pogonophora">POGONOPHORA</a>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <p>CLITELLATA</p>
-                            <ul>
+                            <a href="?kingdom=annelida&phylum=clitellata">CLITELLATA</a>
+                            <ul id="clitellata">
                                 <li>
-                                    <p>OLIGOCHAETA</p>
-                                    <ul>
+                                    <a href="?kingdom=annelida&phylum=polychaeta&subphylum=oligocheata">OLIGOCHAETA</a>
+                                    <ul id="oligocheata">
                                         <li>AEOLOSOMATIDAE</li>
                                         <li>NAIDIDAE</li>
                                         <li>TUBIFICIDAE</li>
@@ -544,12 +554,14 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>HIRUDINOMORPHA</p>
-                                    <ul>
+                                    <a
+                                        href="?kingdom=annelida&phylum=polychaeta&subphylum=hirudinomorpha">HIRUDINOMORPHA</a>
+                                    <ul id="hirudinomorpha">
                                         <li>BRANCHIOBDELLIDA</li>
                                         <li>
-                                            <p>HIRUDINEA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=annelida&phylum=polychaeta&subphylum=hirudinomorpha&clade=hirudinea">HIRUDINEA</a>
+                                            <ul id="hirudinea">
                                                 <li>EUHIRUDINEA</li>
                                                 <li>RHYNCHOBDELLIDA</li>
                                                 <li>ARHYNCHOBDELLIDA</li>
@@ -564,8 +576,8 @@
                     </ul>
                 </li>
                 <li>
-                    <p>ECHIURA</p>
-                    <ul>
+                    <a href="?kingdom=echiura">ECHIURA</a>
+                    <ul id="echiura">
                         <li>ECHIURIDAE</li>
                         <li>URECHIDAE</li>
                         <li>THALASSEMATIDAE</li>
@@ -574,32 +586,32 @@
                     </ul>
                 </li>
                 <li>
-                    <p>SIPUNCULA</p>
-                    <ul>
+                    <a href="?kingdom=sipuncula">SIPUNCULA</a>
+                    <ul id="sipuncula">
                         <li>SIPUNCULIDEA</li>
                         <li>PHASCOLOSOMATIDEA</li>
                     </ul>
                 </li>
                 <li>
-                    <p>ONYCHOPHORA</p>
-                    <ul>
+                    <a href="?kingdom=onychophora">ONYCHOPHORA</a>
+                    <ul id="onychophora">
                         <li>PERIPATOPSIDAE</li>
                         <li>PERIPATIDAE</li>
                     </ul>
                 </li>
                 <li>
-                    <p>TARDIGRADA</p>
-                    <ul>
+                    <a href="?kingdom=tardigrada">TARDIGRADA</a>
+                    <ul id="tardigrada">
                         <li>HETEROTARDIGRADA</li>
                         <li>MESOTARDIGRADA</li>
                     </ul>
                 </li>
                 <li>
-                    <p>ARTHROPODA</p>
-                    <ul>
+                    <a href="?kingdom=arthropoda">ARTHROPODA</a>
+                    <ul id="arthropoda">
                         <li>
-                            <p>TRILOBITOMORPHA</p>
-                            <ul>
+                            <a href="?kingdom=arthropoda&phylum=tribitomorpha">TRILOBITOMORPHA</a>
+                            <ul id="tribitomorpha">
                                 <li>REDLICHIIDA</li>
                                 <li>AGNOSTIDA</li>
                                 <li>CORYNEXOCHIDA</li>
@@ -611,18 +623,19 @@
                             </ul>
                         </li>
                         <li>
-                            <p>CHELICERATA</p>
-                            <ul>
+                            <a href="?kingdom=arthropoda&phylum=chelicerata">CHELICERATA</a>
+                            <ul id="chelicerata">
                                 <li>XIPHOSURA</li>
                                 <li>
-                                    <p>ARACHNIDA</p>
-                                    <ul>
+                                    <a href="?kingdom=arthropoda&phylum=tribitomorpha&subphylum=arachnida">ARACHNIDA</a>
+                                    <ul id="arachnida">
                                         <li>SCORPIONES</li>
                                         <li>UROPYGI</li>
                                         <li>AMBLYPYGI</li>
                                         <li>
-                                            <p>ARANAE</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=arthropoda&phylum=tribitomorpha&subphylum=arachnida&clade=aranae">ARANAE</a>
+                                            <ul id="aranae">
                                                 <li>MESOTHELAE</li>
                                                 <li>MYGALOMORPHAE</li>
                                                 <li>ARANEOORPHA</li>
@@ -653,23 +666,29 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>PALPIGRADI</p>
+                                            ! <a
+                                                href="?kingdom=arthropoda&phylum=tribitomorpha&subphylum=arachnida&clade=">PALPIGRADI</a>
                                         </li>
                                         <li>
-                                            <p>PSEUDOSCORPIONES</p>
+                                            ! <a
+                                                href="?kingdom=arthropoda&phylum=tribitomorpha&subphylum=arachnida&clade=">PSEUDOSCORPIONES</a>
                                         </li>
                                         <li>
-                                            <p>SOLIFUGAE</p>
+                                            ! <a
+                                                href="?kingdom=arthropoda&phylum=tribitomorpha&subphylum=arachnida&clade=">SOLIFUGAE</a>
                                         </li>
                                         <li>
-                                            <p>OPILIONES</p>
+                                            ! <a
+                                                href="?kingdom=arthropoda&phylum=tribitomorpha&subphylum=arachnida&clade=">OPILIONES</a>
                                         </li>
                                         <li>
-                                            <p>RICINULEI</p>
+                                            ! <a
+                                                href="?kingdom=arthropoda&phylum=tribitomorpha&subphylum=arachnida&clade=">RICINULEI</a>
                                         </li>
                                         <li>
-                                            <p>ACARI</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=arthropoda&phylum=tribitomorpha&subphylum=arachnida&clade=acari">ACARI</a>
+                                            <ul id="acari">
                                                 <li>ACARIFORMES</li>
                                                 <li>OPILIOACARIDA</li>
                                                 <li>PARASITIFORMES</li>
@@ -678,25 +697,27 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>PYCNOGONIDA</p>
+                                    ! <a
+                                        href="?kingdom=arthropoda&phylum=tribitomorpha&subphylum=pycnogonida">PYCNOGONIDA</a>
                                 </li>
                             </ul>
                         </li>
                         <li>
-                            <p>CRUSTACEA</p>
-                            <ul>
+                            <a href="?kingdom=arthropoda&phylum=crustacea">CRUSTACEA</a>
+                            <ul id="crustacea">
                                 <li>REMIPEDIA</li>
                                 <li>CEPHALOCARIDA</li>
                                 <li>ANOSTRACA</li>
                                 <li>
-                                    <p>PHYLLOPODA</p>
-                                    <ul>
+                                    <a href="?kingdom=arthropoda&phylum=crustacea&subphylum=phyllopoda">PHYLLOPODA</a>
+                                    <ul id="phyllopoda">
                                         <li>NOTOSTRACA</li>
                                         <li>LAEVICAUDATA</li>
                                         <li>SPINICAUDATA</li>
                                         <li>
-                                            <p>CLADOCERA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=arthropoda&phylum=crustacea&subphylum=phyllopoda&clade=cladocera">CLADOCERA</a>
+                                            <ul id="cladocera">
                                                 <li>ANOMOPODA</li>
                                                 <li>CTENOPODA</li>
                                                 <li>ONYCHOPORA</li>
@@ -706,16 +727,18 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>MALACOSTRACA</p>
-                                    <ul>
+                                    <a href="?kingdom=arthropoda&phylum=crustacea&subphylum=malacostraca">MALACOSTRACA</a>
+                                    <ul id="malacostraca">
                                         <li>LEPTOSTRACA</li>
                                         <li>STOMATOPODA</li>
                                         <li>
-                                            <p>DECAPODA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=arthropoda&phylum=crustacea&subphylum=malacostraca&clade=decapoda">DECAPODA</a>
+                                            <ul id="decapoda">
                                                 <li>
-                                                    <p>SYNCARIDA</p>
-                                                    <ul>
+                                                    <a
+                                                        href="?kingdom=arthropoda&phylum=crustacea&subphylum=malacostraca&clade=decapoda&subclade=syncarida">SYNCARIDA</a>
+                                                    <ul id="syncarida">
                                                         <li>ANASPIDACEA</li>
                                                         <li>BATHYNELLACEA</li>
                                                     </ul>
@@ -723,15 +746,18 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>EUPHAUSIACEA</p>
+                                            ! <a
+                                                href="?kingdom=arthropoda&phylum=crustacea&subphylum=malacostraca&clade=euphausiacea">EUPHAUSIACEA</a>
                                         </li>
                                         <li>
-                                            <p>PANCARIDA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=arthropoda&phylum=crustacea&subphylum=malacostraca&clade=pancarida">PANCARIDA</a>
+                                            <ul id="pancarida">
                                                 <li>MYSIDACEA</li>
                                                 <li>
-                                                    <p>AMPHIPODA</p>
-                                                    <ul>
+                                                    <a
+                                                        href="?kingdom=arthropoda&phylum=crustacea&subphylum=malacostraca&clade=pancarida&subclade=amphipoda">AMPHIPODA</a>
+                                                    <ul id="amphipoda">
                                                         <li>GAMMARIDEA</li>
                                                         <li>HYPERIIDEA</li>
                                                         <li>CAPRELIIDEA</li>
@@ -745,8 +771,9 @@
                                         <li>TANAIDACEA</li>
                                         <li>SPELAEOGRIPHACEA</li>
                                         <li>
-                                            <p>ISOPODA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=arthropoda&phylum=crustacea&subphylum=malacostraca&clade=isopoda">ISOPODA</a>
+                                            <ul id="isopoda">
                                                 <li>FLABELLIFERA</li>
                                                 <li>VALVIFERA</li>
                                                 <li>ASELLOTA</li>
@@ -761,21 +788,24 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>MAXILLOPODA</p>
-                                    <ul>
+                                    <a href="?kingdom=arthropoda&phylum=crustacea&subphylum=maxillopoda">MAXILLOPODA</a>
+                                    <ul id="maxillopoda">
                                         <li>COPEPODA</li>
                                         <li>MYSTACOCARIDA</li>
                                         <li>TANTULOCARIDA</li>
                                         <li>ASLOTHORACIDA</li>
                                         <li>
-                                            <p>CIRRIPEDIA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=arthropoda&phylum=crustacea&subphylum=maxillopoda&clade=cirripedia">CIRRIPEDIA</a>
+                                            <ul id="cirripedia">
                                                 <li>
-                                                    <p>THORACILA</p>
-                                                    <ul>
+                                                    <a
+                                                        href="?kingdom=arthropoda&phylum=crustacea&subphylum=maxillopoda&clade=cirripedia&subclade=thoracila">THORACILA</a>
+                                                    <ul id="thoracila">
                                                         <li>
-                                                            <p>LEPADOMORPHA</p>
-                                                            <ul>
+                                                            <a
+                                                                href="?kingdom=arthropoda&phylum=crustacea&subphylum=maxillopoda&clade=cirripedia&subclade=thoracila&order=lepadomorpha">LEPADOMORPHA</a>
+                                                            <ul id="lepadomorpha">
                                                                 <li>LEPADIDAE</li>
                                                                 <li>SCALPELLIDAE</li>
                                                             </ul>
@@ -789,8 +819,9 @@
                                         <li>RHIZOCEPHALA</li>
                                         <li>ACROTHORACIA</li>
                                         <li>
-                                            <p>OSTRACODA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=arthropoda&phylum=crustacea&subphylum=maxillopoda&clade=ostracoda">OSTRACODA</a>
+                                            <ul id="ostracoda">
                                                 <li>MYODOCOPA</li>
                                                 <li>PODOCOPA</li>
                                                 <li>PLATYCOPA</li>
@@ -804,11 +835,11 @@
                             </ul>
                         </li>
                         <li>
-                            <p>MYRIAPODA</p>
-                            <ul>
+                            <a href="?kingdom=arthropoda&phylum=myriapoda">MYRIAPODA</a>
+                            <ul id="myriapoda">
                                 <li>
-                                    <p>CHILOPODA</p>
-                                    <ul>
+                                    <a href="?kingdom=arthropoda&phylum=myriapoda&subphylum=chilopoda">CHILOPODA</a>
+                                    <ul id="chilopoda">
                                         <li>SCUTIGEROMORPHA</li>
                                         <li>LITHOBIOMORPHA</li>
                                         <li>GEOPHILOMORPHA</li>
@@ -818,8 +849,8 @@
                                 </li>
                                 <li>SYMPHYLA</li>
                                 <li>
-                                    <p>DIPLOPODA</p>
-                                    <ul>
+                                    <a href="?kingdom=arthropoda&phylum=myriapoda&subphylum=diplopoda">DIPLOPODA</a>
+                                    <ul id="diplopoda">
                                         <li>PENICILLATA</li>
                                         <li>PENTAZONIA</li>
                                         <li>COLOBOGNATHA</li>
@@ -832,8 +863,8 @@
                             </ul>
                         </li>
                         <li>
-                            <p>HEXAPODA</p>
-                            <ul>
+                            <a href="?kingdom=arthropoda&phylum=hexapoda">HEXAPODA</a>
+                            <ul id="hexapoda">
                                 <li>ENTOGNATHA</li>
                                 <li>COLLEMBOLA</li>
                                 <li>PROTURA</li>
@@ -842,15 +873,15 @@
                                 <li>INSECTA</li>
                                 <li>ARCHAEOGNATHA</li>
                                 <li>
-                                    <p>ZYGENTOMA</p>
-                                    <ul>
+                                    <a href="?kingdom=arthropoda&phylum=hexapoda&subphylum=zygentoma">ZYGENTOMA</a>
+                                    <ul id="zygentoma">
                                         <li>PTERYGOTA</li>
                                     </ul>
                                 </li>
                                 <li>EPHEMEROPTERA</li>
                                 <li>
-                                    <p>ODONATA</p>
-                                    <ul>
+                                    <a href="?kingdom=arthropoda&phylum=hexapoda&subphylum=odonata">ODONATA</a>
+                                    <ul id="odonata">
                                         <li>ANISOPTERA</li>
                                         <li>ZYGOPTERA</li>
                                     </ul>
@@ -873,8 +904,8 @@
                                 <li>EUMETABOLA</li>
                                 <li>PSOCOPTERA</li>
                                 <li>
-                                    <p>PHTIRAPTERA</p>
-                                    <ul>
+                                    <a href="?kingdom=arthropoda&phylum=hexapoda&subphylum=phtiraptera">PHTIRAPTERA</a>
+                                    <ul id="phtiraptera">
                                         <li>ANOPLURA</li>
                                         <li>MALLOPHAGA</li>
                                         <li>HEMIPTERA</li>
@@ -883,8 +914,8 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>THYSANOPTERA</p>
-                                    <ul>
+                                    <a href="?kingdom=arthropoda&phylum=hexapoda&subphylum=thysanoptera">THYSANOPTERA</a>
+                                    <ul id="thysanoptera">
                                         <li>HOLOMETABOLA</li>
                                     </ul>
                                 </li>
@@ -904,32 +935,32 @@
                     </ul>
                 </li>
                 <li>
-                    <p>CYCLONEURALIA</p>
-                    <ul>
+                    <a href="?kingdom=cycloneuralia">CYCLONEURALIA</a>
+                    <ul id="cycloneuralia">
                         <li>
-                            <p>GASTROTRICHA</p>
-                            <ul>
+                            <a href="?kingdom=cycloneuralia&phylum=gastrotricha">GASTROTRICHA</a>
+                            <ul id="gastrotricha">
                                 <li>ADENOPHOREA</li>
                                 <li>CHAETONOTIDA</li>
                             </ul>
                         </li>
                         <li>
-                            <p>NEMATODA</p>
-                            <ul>
+                            <a href="?kingdom=cycloneuralia&phylum=nematoda">NEMATODA</a>
+                            <ul id="nematoda">
                                 <li>ADENOPHOREA</li>
                                 <li>SECERNENTEA</li>
                             </ul>
                         </li>
                         <li>
-                            <p>NEMATOMORPHA</p>
-                            <ul>
+                            <a href="?kingdom=cycloneuralia&phylum=nematomorpha">NEMATOMORPHA</a>
+                            <ul id="nematomorpha">
                                 <li>NECTONEMATOIDA</li>
                                 <li>GORDIOIDA</li>
                             </ul>
                         </li>
                         <li>
-                            <p>PRIAPULIDA</p>
-                            <ul>
+                            <a href="?kingdom=cycloneuralia&phylum=priapulida">PRIAPULIDA</a>
+                            <ul id="priapulida">
                                 <li>PRIAPULOMORPHA</li>
                                 <li>PRIAPULIDAE</li>
                                 <li>TUBILUCHIDAE</li>
@@ -941,15 +972,15 @@
                             </ul>
                         </li>
                         <li>
-                            <p>LORICIFERA</p>
-                            <ul>
+                            <a href="?kingdom=cycloneuralia&phylum=loricifera">LORICIFERA</a>
+                            <ul id="loricifera">
                                 <li>PLICILORICIDAE</li>
                                 <li>NANALORICIDAE</li>
                             </ul>
                         </li>
                         <li>
-                            <p>KINORHYNCHA</p>
-                            <ul>
+                            <a href="?kingdom=cycloneuralia&phylum=kinorhyncha">KINORHYNCHA</a>
+                            <ul id="kinorhyncha">
                                 <li>CYCLORHAGIDA</li>
                                 <li>HOMALORHAGIDA</li>
                             </ul>
@@ -957,10 +988,10 @@
                     </ul>
                 </li>
                 <li>
-                    <p>GNATHIFERA</p>
-                    <ul>
+                    <a href="?kingdom=gnathifera">GNATHIFERA</a>
+                    <ul id="gnathifera">
                         <li>
-                            <p>GNATHOSTOMULIDA</p>
+                            <a href="">GNATHOSTOMULIDA</a>
                             <ul>
                                 <li>FILOSPERMOIDEA</li>
                                 <li>BURSOVAGINDIDEA</li>
@@ -968,11 +999,11 @@
                         </li>
                         <li>MICROGNATHOZOA</li>
                         <li>
-                            <p>SYNDERMATA</p>
-                            <ul>
+                            <a href="?kingdom=gnathifera&phylum=syndermata">SYNDERMATA</a>
+                            <ul id="syndermata">
                                 <li>
-                                    <p>ROTIFERA</p>
-                                    <ul>
+                                    <a href="?kingdom=gnathifera&phylum=syndermata&subphylum=rotifera">ROTIFERA</a>
+                                    <ul id="rotifera">
                                         <li>MONOGONONTA</li>
                                         <li>PLOIMA</li>
                                         <li>FLOSCULARIACEA</li>
@@ -980,8 +1011,9 @@
                                         <li>BDELLOIDEA</li>
                                         <li>SEISONIDA</li>
                                         <li>
-                                            <p>ACANTHOCEPHALA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=gnathifera&phylum=syndermata&subphylum=rotifera&clade=acanthocephala">ACANTHOCEPHALA</a>
+                                            <ul id="acanthocephala">
                                                 <li>ARCHIACANTHOCEPHALA</li>
                                                 <li>EOACANTHOCEPHALA</li>
                                                 <li>PALAEACANTHOCEPHALA</li>
@@ -994,8 +1026,8 @@
                     </ul>
                 </li>
                 <li>
-                    <p>KAMPTOZOA</p>
-                    <ul>
+                    <a href="?kingdom=kamptozoa">KAMPTOZOA</a>
+                    <ul id="kamptozoa">
                         <li>LOXOSOMATIDAE</li>
                         <li>LOXOKALYPODIDAE</li>
                         <li>PEDICELLINIDAE</li>
@@ -1003,21 +1035,21 @@
                     </ul>
                 </li>
                 <li>
-                    <p>CYCLIOPHORA</p>
+                    ! <a href="?kingdom=cycliophora">CYCLIOPHORA</a>
                 </li>
                 <li>
-                    <p>LOPHOPHORATA</p>
-                    <ul>
+                    <a href="?kingdom=lophophorata">LOPHOPHORATA</a>
+                    <ul id="lophophorata">
                         <li>
-                            <p>PHORONIDA</p>
-                            <ul>
+                            <a href="?kingdom=lophophorata&phylum=phoronida">PHORONIDA</a>
+                            <ul id="phoronida">
                                 <li>PHORONIS</li>
                                 <li>PHORONOPSIS</li>
                             </ul>
                         </li>
                         <li>
-                            <p>BRACHIOPODA</p>
-                            <ul>
+                            <a href="?kingdom=lophophorata&phylum=brachiopoda">BRACHIOPODA</a>
+                            <ul id="brachiopoda">
                                 <li>INARTICULATA</li>
                                 <li>LINGULIDA</li>
                                 <li>DISCINIDA</li>
@@ -1028,8 +1060,8 @@
                             </ul>
                         </li>
                         <li>
-                            <p>BRYOZOA</p>
-                            <ul>
+                            <a href="?kingdom=lophophorata&phylum=bryozoa">BRYOZOA</a>
+                            <ul id="bryozoa">
                                 <li>PHYLACTOLAEMATA</li>
                                 <li>GYMNOLAEMATA</li>
                                 <li>CLYCLOSTOMATA</li>
@@ -1046,21 +1078,22 @@
                     </ul>
                 </li>
                 <li>
-                    <p>CHAETOGNATHA</p>
+                    ! <a href="?kingdom=chaetognatha">CHAETOGNATHA</a>
                 </li>
                 <li>
-                    <p>HEMICHORDATA</p>
+                    ! <a href="?kingdom=hemichordata">HEMICHORDATA</a>
                 </li>
                 <li>
-                    <p>ECHINODERMATA</p>
-                    <ul>
+                    <a href="?kingdom=echinodermata">ECHINODERMATA</a>
+                    <ul id="echinodermata">
                         <li>
-                            <p>ELEUTHEROZOA</p>
-                            <ul>
+                            <a href="?kingdom=echinodermata&phylum=eleutherozoa">ELEUTHEROZOA</a>
+                            <ul id="eleutherozoa">
                                 <li>ASTEROIDEA</li>
                                 <li>
-                                    <p>PAXILLOSIDA</p>
-                                    <ul>
+                                    <a
+                                        href="?kingdom=echinodermata&phylum=eleutherozoa&subphylum=paxillosida">PAXILLOSIDA</a>
+                                    <ul id="paxillosida">
                                         <li>VALVATIDA</li>
                                         <li>VELATIDA</li>
                                         <li>SPINULOSIDA</li>
@@ -1069,22 +1102,26 @@
                                     </ul>
                                 </li>
                                 <li>
-                                    <p>CRYPTOSYRINGIDA</p>
-                                    <ul>
+                                    <a
+                                        href="?kingdom=echinodermata&phylum=eleutherozoa&subphylum=cryptosyringida">CRYPTOSYRINGIDA</a>
+                                    <ul id="cryptosyringida">
                                         <li>
-                                            <p>OPHIUROIDEA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=echinodermata&phylum=eleutherozoa&subphylum=cryptosyringida&clade=ophiuroidea">OPHIUROIDEA</a>
+                                            <ul id="ophiuroidea">
                                                 <li>OEGOPHIURIDA</li>
                                                 <li>PHRYNOPHIUROIDA</li>
                                                 <li>OPHIURIDA</li>
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>ECHINOZOA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=echinodermata&phylum=eleutherozoa&subphylum=cryptosyringida&clade=echinozoa">ECHINOZOA</a>
+                                            <ul id="echinozoa">
                                                 <li>
-                                                    <p>ECHINOIDEA</p>
-                                                    <ul>
+                                                    <a
+                                                        href="?kingdom=echinodermata&phylum=eleutherozoa&subphylum=cryptosyringida&clade=echinozoa&subclade=echinoidea">ECHINOIDEA</a>
+                                                    <ul id="echinoidea">
                                                         <li>CIDAROIDA</li>
                                                         <li>EUECHINOIDA</li>
                                                         <li>ECHINOTHUROIDA</li>
@@ -1095,8 +1132,9 @@
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <p>HOLOTHUROIDEA</p>
-                                                    <ul>
+                                                    <a
+                                                        href="?kingdom=echinodermata&phylum=eleutherozoa&subphylum=cryptosyringida&clade=echinozoa&subclade=holothuroidea">HOLOTHUROIDEA</a>
+                                                    <ul id="holothuroidea">
                                                         <li>DACTYLOCHIROTIDA</li>
                                                         <li>DENDROCHIROTIDA</li>
                                                         <li>ASPIDOCHIROTIDA</li>
@@ -1112,8 +1150,8 @@
                             </ul>
                         </li>
                         <li>
-                            <p>CRINOIDEA</p>
-                            <ul>
+                            <a href="?kingdom=echinodermata&phylum=crinoidea">CRINOIDEA</a>
+                            <ul id="crinoidea">
                                 <li>ISOCRINIDA</li>
                                 <li>MILLERICRINIDA</li>
                                 <li>CYRTOCRINIDA</li>
@@ -1124,17 +1162,18 @@
                     </ul>
                 </li>
                 <li>
-                    <p>CHORDATA</p>
-                    <ul>
+                    <a href="?kingdom=chordata">CHORDATA</a>
+                    <ul id="chordata">
                         <li>
-                            <p>CEPHALOCHORDATA</p>
-                            <ul>
+                            <a href="?kingdom=chordata&phylum=cephalochordata">CEPHALOCHORDATA</a>
+                            <ul id="cephalochordata">
                                 <li>
-                                    <p>TUNICATA</p>
-                                    <ul>
+                                    <a href="?kingdom=chordata&phylum=cephalochordata&subphylum=tunicata">TUNICATA</a>
+                                    <ul id="tunicata">
                                         <li>
-                                            <p>ASCIDIACEA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=chordata&phylum=cephalochordata&subphylum=tunicata&clade=ascidiacea">ASCIDIACEA</a>
+                                            <ul id="ascidiacea">
                                                 <li>ENTEROGONA</li>
                                                 <li>APLONSOBRANCHIA</li>
                                                 <li>PHLEBOBRANCHIA</li>
@@ -1143,8 +1182,9 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <p>THALIACEA</p>
-                                            <ul>
+                                            <a
+                                                href="?kingdom=chordata&phylum=cephalochordata&subphylum=tunicata&clade=thaliacea">THALIACEA</a>
+                                            <ul id="thaliacea">
                                                 <li>PYROSOMIDA</li>
                                                 <li>DOLIOLIDA</li>
                                                 <li>SALPIDA</li>
@@ -1161,43 +1201,14 @@
         </aside>
 
         <!-- IMAGE GRID -->
-        <main class="grid grid-6 module-6 gallery">
-            <div>
-                <div class="frame">
-                    <img class="species-img" src="EUGLENOIDEA 03.1.1 (2).jpeg" alt="">
-                </div>
-                <div class="frame">
-                    <img class="species-img" src="KINETOPLASTIDA 03.1.2.jpeg" alt="">
-                </div>
-            </div>
-            <div>
-                <div class="flex grid-row">
-                    <div class="numbers type-monospaced monospaced-medium">
-                        <strong>001</strong>
-                    </div>
-                    <div>
-                        <h1 class="type-monospaced monospaced-big">EUGLENOIDEA</h1>
-                        <h2 class="type-monospaced monospaced-medium">EUGLENOZOA</h2>
-                        <h3 class="type-helvetica">The euglenoid species of Peranema and Euglena are among the most familiar of all flagellates. The body is elongate with an invagination, the reservoir, at the anterior end. The cytostome lies at the base of the reservoir and joins a cytopharynx. A contractile vacuole discharges into the reservoir in freshwater species, and two flagella, each bearing arow of mastigonemes, arise from the reservoir wall.<p>In Euglena, one flagellum is very short and terminates at the base of the long flagellum. A pigmented eyespot, or stigma, shades a photosensitive bulge, the paraflagellar body, at the base of the long flagellum. In the colorless heterotroph Peranema, both flagella are long, but one trails backward and can be used to catch food or temporarily attach to something. The long locomotory flagellum is thickened, up to five times the normal flagellar diameter, and stiffened along most of its length by a paraxial rod located to one side of the axoneme. Only the mobile terminal end of the flagellum lacks the rod.</p></h3>
-                    </div>
-                </div>
-                <div class="flex grid-row">
-                    <div class="numbers type-monospaced monospaced-medium">
-                        <strong>002</strong>
-                    </div>
-                    <div>
-                        <h1 class="type-monospaced monospaced-big">KINETOPLASTIDA</h1>
-                        <h2 class="type-monospaced monospaced-medium">EUGLENOZOA</h2>
-                        <h3 class="type-helvetica">Kinetoplastid flagellates are colorless heterotrophs. A few of the 600 species are free living, but most are important parasites. All share the flagellar paraxial rod with their euglenoid relatives, but uniquely have a conspicuous mass of DNA, called a kinetoplast, located within a single, large mitochondrion. Most of the kinetoplast DNA sequences code for the morphogenesis of mitochondria. The large kinetoplast genome probably is related to the cyclical differentiation and regression of mitochondria as parasitic kinetoplastids adapt their energy metabolism to alternating aerobic and anaerobic host environments. The one or two flagella arise from a reservoir-like pit, which bears a cytostome that leads into a cytopharynx. Their basal bodies are located on or near the kinetoplast mitochondrion.</h3>
-                    </div>
-                </div>
-            </div>
+        <main class="grid grid-6 module-6 gallery overflow">
+            <!-- Content is Being inserted in Javascript -->
         </main>
     </div>
 
     <footer class="flex type-helvetica padding-small">
         <ul class="flex header-logo">
-            <li>GEOGRAPHIC DISTRIBITION</li>
+            <li>ABOUT</li>
         </ul>
         <a class="landing header-list">
             <img src="landing page.svg" alt="landing page">
@@ -1205,6 +1216,7 @@
         <a>SUBSCRIBE TO OUR NEWSLETTER</a>
     </footer>
 
+    <script src="species.js"></script>
 </body>
 
 </html>

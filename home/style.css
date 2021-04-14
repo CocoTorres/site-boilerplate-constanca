@@ -68,6 +68,7 @@ footer{
     bottom: 0;
     left: 0;
     right: 0;
+    align-items: flex-end;
 }
 
 /*
@@ -79,7 +80,7 @@ footer{
 }
 
 .header-logo img{
-    width: 154px;
+    width: 100px;
 }
 
 .header-list {
@@ -142,6 +143,7 @@ footer{
 
 .type-helvetica {
     font-family: Helvetica;
+    font-size: 12px;
 }
 
 .type-monospaced {
@@ -182,11 +184,15 @@ footer{
 }
 
 .margin-main{
-    margin-top: 82px;
-    margin-bottom: 82px;
+    margin-top: 65px;
+    margin-bottom: 65px;
 }
 
+.overflow{
+    overflow: scroll;
+    height: 80vh;
+}
 
 footer> a> img{
-    width: 5%;
+    width: 3%;
 }
