@@ -22,21 +22,23 @@
     </header>
 
     <main class="padding-small">
-        <div class="title-arch flex margin-title">
-            <div class="module-num">
-                <h1 class="type-monospaced monospaced-small"><strong>000</strong></h1>
-            </div>
-            <div class="grid grid-8 module">
-                <h1 class="type-monospaced monospaced-small"><strong>KINGDOM</strong></h1>
-                <h1 class="type-monospaced monospaced-small"><strong>PHYLUM</strong></h1>
-                <h1 class="type-monospaced monospaced-small"><strong>SUBPHYLUM</strong></h1>
-                <h1 class="type-monospaced monospaced-small"><strong>CLADE</strong></h1>
-                <h1 class="type-monospaced monospaced-small"><strong>SUBCLADE</strong></h1>
-                <h1 class="type-monospaced monospaced-small"><strong>ORDER</strong></h1>
-                <h1 class="type-monospaced monospaced-small"><strong>SUBORDER</strong></h1>
-                <h1 class="type-monospaced monospaced-small"><strong>FAMILY</strong></h1>
-            </div>
-        </div>
+        <table class="title-arch margin-title">
+            <thead>
+                <tr class="grid grid-9">
+                    <th class="type-monospaced monospaced-small"><strong>000</strong></th>
+                    <th class="type-monospaced monospaced-small"><strong>KINGDOM</strong></th>
+                    <th class="type-monospaced monospaced-small"><strong>PHYLUM</strong></th>
+                    <th class="type-monospaced monospaced-small"><strong>SUBPHYLUM</strong></th>
+                    <th class="type-monospaced monospaced-small"><strong>CLADE</strong></th>
+                    <th class="type-monospaced monospaced-small"><strong>SUBCLADE</strong></th>
+                    <th class="type-monospaced monospaced-small"><strong>ORDER</strong></th>
+                    <th class="type-monospaced monospaced-small"><strong>SUBORDER</strong></th>
+                    <th class="type-monospaced monospaced-small"><strong>FAMILY</strong></h1>
+                </tr>
+            </thead>
+            <tbody id="species-table">
+            </tbody>
+        </table>
     </main>
 
     <footer class="flex type-helvetica padding-small">
@@ -50,7 +52,6 @@
     </footer>
     
     <script src="archive.js"></script>
-    
 </body>
     
 </html>

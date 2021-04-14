@@ -1,24 +1,30 @@
 const params = new URLSearchParams(window.location.search)
 
-function renderGrid(archive) {
+
+
+for (let i = 0; i < databaseArchive.length; i++) {
+    const specie = databaseArchive[i];
+    
+    renderGrid(specie)
+}
+
+
+
+function renderGrid(specie) {
     const htmlTemplate = `
-        <div class="flex">
-            <div class="module-num2">
-                <h2 class="type-monospaced monospaced-small">${archive.NUMBER}</h2>
-            </div>
-            <div class="grid grid-8 module2">
-                <h2 class="type-monospaced monospaced-small">${archive.KINGDOM}</h2>
-                <h2 class="type-monospaced monospaced-small">${archive.PHYLUM}</h2>
-                <h2 class="type-monospaced monospaced-small">${archive.SUBPHYLUM}</h2>
-                <h2 class="type-monospaced monospaced-small">${archive.CLADE}</h2>
-                <h2 class="type-monospaced monospaced-small">${archive.SUBCLADE}</h2>
-                <h2 class="type-monospaced monospaced-small">${archive.ORDER}</h2>
-                <h2 class="type-monospaced monospaced-small">${archive.SUBORDER}</h2>
-                <h2 class="type-monospaced monospaced-small">${archive.FAMILY}</h2>
-            </div>
-        </div>
+        <tr class="grid grid-9">
+            <td class="type-monospaced monospaced-small">${specie.NUMBER}</td>
+            <td class="type-monospaced monospaced-small">${specie.KINGDOM}</td>
+            <td class="type-monospaced monospaced-small">${specie.PHYLUM}</td>
+            <td class="type-monospaced monospaced-small">${specie.SUBPHYLUM}</td>
+            <td class="type-monospaced monospaced-small">${specie.CLADE}</td>
+            <td class="type-monospaced monospaced-small">${specie.SUBCLADE}</td>
+            <td class="type-monospaced monospaced-small">${specie.ORDER}</td>
+            <td class="type-monospaced monospaced-small">${specie.SUBORDER}</td>
+            <td class="type-monospaced monospaced-small">${specie.FAMILY}</td>
+        </tr>
     `;
 
-    const gallery = document.getElementById("image-grid")
-    gallery.insertAdjacentHTML("beforeend", htmlTemplate);
+    const table = document.getElementById("species-table")
+    table.insertAdjacentHTML("beforeend", htmlTemplate);
 }

@@ -3,26 +3,6 @@ const params = new URLSearchParams(window.location.search)
 for (let i = 0; i < databaseSpecies.length; i++) {
     const specie = databaseSpecies[i];
 
-    // render GRID IMAGES (IF)
-    if (params.has("subphylum")) {
-        const subPhylum = params.get("subphylum")
-        if (specie.SUBPHYLUM.toLowerCase() == subPhylum) {
-            renderGrid(specie)
-        }
-    } else if (params.has("phylum")) {
-        const phylum = params.get("phylum")
-        if (specie.PHYLUM.toLowerCase() == phylum) {
-            renderGrid(specie)
-        }
-    } else if (params.has("kingdom")) {
-        const kingdom = params.get("kingdom")
-        if (specie.KINGDOM.toLowerCase() == kingdom) {
-            renderGrid(specie)
-        }
-    } else {
-        renderGrid(specie)
-    }
-
     // List (ELSE IF)
     if (params.has("subphylum")) {
         const subPhylum = params.get("subphylum")
@@ -39,10 +19,18 @@ for (let i = 0; i < databaseSpecies.length; i++) {
     }
 }
 
+for (let i = 0; i < databaseSpecies.length; i++) {
+    const specie = databaseSpecies[i];
+    
+    renderGrid(specie)
+}
+
+
+
 function renderGrid(specie) {
     const imageUrl = "../images/species/" + specie.NAME.toLowerCase() + ".jpeg"
     const htmlTemplate = `
-        <div class="frame">
+        <div class="frame" id="${specie.NAME.toLowerCase()}">
             <img class="species-img" src="${imageUrl}" alt="">
         </div>
         <div class="flex grid-row">
@@ -57,6 +45,6 @@ function renderGrid(specie) {
         </div>
     `;
 
-    const gallery = document.getElementById("image-grid")
-    gallery.insertAdjacentHTML("beforeend", htmlTemplate);
+    const container = document.getElementById("info-container")
+    container.insertAdjacentHTML("beforeend", htmlTemplate);
 }

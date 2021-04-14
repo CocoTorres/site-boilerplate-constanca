@@ -1,4 +1,4 @@
-﻿const databaseSpecies = [
+﻿const databaseArchive = [
   {
     "NUMBER": "001",
     "NAME": "EUGLENOIDEA",
