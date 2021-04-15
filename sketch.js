@@ -28,8 +28,8 @@ function draw() {
         const image = document.createElement("img");
         image.classList.add("image-follow")
         image.src = source;
-        image.style.left = mouseX + "px";
-        image.style.top = mouseY + "px";
+        image.style.left = mouseX + "100px";
+        image.style.top = mouseY + "100px";
         
         imageContainer.appendChild(image)
     }
