@@ -15,6 +15,7 @@ body, h1,h2,h3, h4, h5, h6, p {
     margin: 0;
 }
 
+
 h1,h2,h3{
     font-weight: 400;
     font-size: 16px;
@@ -61,6 +62,7 @@ footer{
     bottom: 0;
     left: 0;
     right: 0;
+    align-items: flex-end;
 }
 
 .header-logo {
@@ -73,6 +75,14 @@ footer{
 
 .header-list {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+    flex-grow: 1;
+}
+
+.footer-list {
+    list-style-type: circle;
+    list-style: disc;
     margin: 0;
     padding: 0;
     flex-grow: 1;
@@ -105,12 +115,35 @@ footer{
     height: 80vh;
 }
 
+
 /*
     Colors
 */
 
 .color-white {
     color: white;
+}
+
+.phylum{
+    color: rgb(20, 255, 15);
+}
+.subphylum{
+    color:rgb(160, 214, 180);
+}
+.order{
+    color: rgb(0, 255, 255);
+}
+.suborder{
+    color: rgb(230, 145, 255);
+}
+.clade{
+    color: rgb(245, 252, 197);
+}
+.subclade{
+    color: rgb(197, 245, 252);
+}
+.family{
+    color: rgb(197, 245, 0);
 }
 
 .type-helvetica {
@@ -130,8 +163,15 @@ footer{
 footer> a> img{
     width: 3%;
     margin-right: 8%;
+    align-items: flex-end;
 }
 
 .list-nom{
     list-style-position: inside;
+    align-items: flex-end;
+}
+
+a {
+    text-decoration: none;
+    color: white;
 }
