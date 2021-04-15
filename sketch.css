@@ -5,6 +5,33 @@
     position: fixed;
 }
 
+body{
+    background-color: black;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1{
+    align-content: center;
+}
+
+.type-helvetica {
+    font-family: Helvetica;
+    color: white;
+    font-weight: 400;
+}
+
+.main{
+    font-size: 34px;
+}
+
+.litle{
+   font-size: 12px; 
+}
+
 .full-link {
     position: fixed;
     align-items: flex-end;
