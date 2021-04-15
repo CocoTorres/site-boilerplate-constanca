@@ -1,0 +1,19 @@
+.image-follow {
+    width: 128px;
+    height: 128px;
+    object-fit: cover;
+    position: fixed;
+}
+
+.full-link {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
+
+.center {
+    margin: auto;
+}
