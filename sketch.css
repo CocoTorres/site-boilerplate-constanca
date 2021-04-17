@@ -1,5 +1,5 @@
 .main{
-    font-size: 34px;
+    font-size: 24px;
     text-align: center;
 }
 
@@ -31,21 +31,13 @@ h1{
     text-align: center;
     z-index: 200;
     position: relative;
+    top: 400px;
 }
 
 .type-helvetica {
     font-family: Helvetica;
     color: white;
     font-weight: 400;
-}
-
-.main{
-    position: fixed;
-    font-size: 34px;
-}
-
-.litle{
-   font-size: 12px; 
 }
 
 .full-link {
