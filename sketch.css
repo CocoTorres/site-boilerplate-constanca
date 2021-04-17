@@ -1,3 +1,15 @@
+.main{
+    font-size: 34px;
+    text-align: center;
+}
+
+.litle{
+   font-size: 12px;
+   text-align: center;
+   position: relative;
+   top: 800px;
+
+}
 .image-follow {
     width: 128px;
     height: 128px;
@@ -16,6 +28,9 @@ a {
 
 h1{
     align-content: center;
+    text-align: center;
+    z-index: 200;
+    position: relative;
 }
 
 .type-helvetica {
@@ -35,13 +50,13 @@ h1{
 
 .full-link {
     position: fixed;
-    align-items: flex-end;
     align-items: center;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
     z-index: 100;
+
 }
 
 .center {
