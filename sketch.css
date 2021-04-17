@@ -25,6 +25,7 @@ h1{
 }
 
 .main{
+    position: fixed;
     font-size: 34px;
 }
 
