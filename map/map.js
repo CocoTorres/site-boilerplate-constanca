@@ -34,7 +34,7 @@ function renderGrid(maps) {
             <h1 class="type-helvetica">${maps.text}</h1>
         </div>
     </div>
-    <h2 class="type-helvetica grid-row map">Geographical distribution: ${maps.map}</h2>
+    <h2 class="type-helvetica grid-row map">Geographical distribution: ${maps.map.toUpperCase()}</h2>
     <div class="grid-row map id="${maps.map.toUpperCase()}"">
         <img class="maps-img" src="${imageUrl}" alt=""">
     </div>

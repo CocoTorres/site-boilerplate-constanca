@@ -6,25 +6,7 @@ html{
     background-color: black;
 }
 
-body, h1,h2,h3, h4, h5, h6, p {
-    margin: 0;
-}
 
-h1,h2,h3{
-    font-weight: 400;
-    font-size: 16px;
-    justify-content: flex-start;
-}
-
-h4{
-    font-weight: 400;
-    font-size: 16px;
-}
-
-h5{
-    font-weight: 400;
-    font-size: 16px;
-}
 
 ul {
     list-style-type: none;
@@ -45,9 +27,6 @@ li {
     margin-bottom: 4px;
 }
 
-h2 >strong{
-    margin-right: 5px;
-}
 
 a {
     color: white;
@@ -129,7 +108,7 @@ footer{
 
 .grid-row{
     margin-bottom: 22px;
-    padding-left: 9px;
+    margin-left: 33%;
 }
 
 /*
@@ -148,27 +127,21 @@ footer{
 .type-helvetica {
     font-family: Helvetica;
     font-size: 12px;
+    font-weight: 100;
 }
 
-.type-monospaced {
-    font-family: monospace;
+.type-helvetica-big{
+    font-family: Helvetica;
+    font-size: 13px;
 }
 
-.monospaced-small{
-    font-size: 10px;
+h2{
+    display: flex;
+    justify-content: flex-end;
+    font-family: Helvetica;
+    font-size: 22px;
 }
 
-.monospaced-medium{
-    font-size: 12px;
-    margin-bottom: 12px;
-    margin-top: 0;
-}
-
-.monospaced-big{
-    font-size: 20px;
-    margin-bottom: 12px;
-    margin-top: -4px;
-}
 
 .container{
     display: flex;

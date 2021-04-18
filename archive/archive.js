@@ -12,7 +12,7 @@ for (let i = 0; i < databaseArchive.length; i++) {
 
 function renderGrid(specie) {
     const htmlTemplate = `
-        <tr class="grid grid-9">
+        <tr class="grid grid-9 margin">
             <td class="type-monospaced monospaced-small">${specie.NUMBER}</td>
             <td class="type-monospaced monospaced-small">${specie.KINGDOM}</td>
             <td class="type-monospaced monospaced-small">${specie.PHYLUM}</td>
