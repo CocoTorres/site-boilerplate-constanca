@@ -11,7 +11,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "The euglenoid species of Peranema and Euglena are among the most familiar of all flagellates. The body is elongate with an invagination, the reservoir, at the anterior end. The cytostome lies at the base of the reservoir and joins a cytopharynx."
+    "LEGENDA": "The euglenoid species of Peranema and Euglena are among the most familiar of all flagellates. The body is elongate with an invagination, the reservoir, at the anterior end. The cytostome lies at the base of the reservoir and joins a cytopharynx.        "
   },
   {
     "NUMBER": "002",
@@ -25,7 +25,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Kinetoplastid flagellates are colorless heterotrophs. A few of the 600 species are free living, but most are important parasites. All share the flagellar paraxial rod with their euglenoid relatives, but uniquely have a conspicuous mass of DNA, called a kinetoplast, located within a single, large mitochondrion."
+    "LEGENDA": "Kinetoplastid flagellates are colorless heterotrophs. A few of the 600 species are free living, but most are important parasites. All share the flagellar paraxial rod with their euglenoid relatives, but uniquely have a conspicuous mass of DNA, called a kinetoplast, located within a single, large mitochondrion. "
   },
   {
     "NUMBER": "003",
@@ -39,7 +39,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Volvocida is a taxon of green algae (Chlorophyta), in which the large, cup-shaped chloroplasts contain chlorophylls a and b and a pyrenoid that synthesizes starch (amylopectin) as a food storage product. Many chlorophytes are nonmotile marine and freshwater algae, such as the filamentous Spirogyra of fresh water."
+    "LEGENDA": "Volvocida is a taxon of green algae (Chlorophyta), in which the large, cup-shaped chloroplasts contain chlorophylls a and b and a pyrenoid that synthesizes starch (amylopectin) as a food storage product. Many chlorophytes are nonmotile marine and freshwater algae, such as the filamentous Spirogyra of fresh water. "
   },
   {
     "NUMBER": "004",
@@ -67,7 +67,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Two or four anterior flagella, one of which is associated with the cytostome, which is elongate longitudinally as a body furrow; mitochondria are absent. Chilomastix sp. (plural, spp.) cause diarrhea in humans, poultry; Retortamonas."
+    "LEGENDA": "Two or four anterior flagella, one of which is associated with the cytostome, which is elongate longitudinally as a body furrow; mitochondria are absent. Chilomastix sp. (plural, spp.) cause diarrhea in humans, poultry; Retortamonas. "
   },
   {
     "NUMBER": "006",
@@ -95,7 +95,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Four posterior flagella; no cytostome, mitochondria, or Golgi bodies. Undulatory axostyle, with intra-cellular bacteria and surface-attached spirochetes. Anaerobes in the gut of termites and wood roaches. Oxymonas, Pyrsonympha."
+    "LEGENDA": "Four posterior flagella; no cytostome, mitochondria, or Golgi bodies. Undulatory axostyle, with intra-cellular bacteria and surface-attached spirochetes. Anaerobes in the gut of termites and wood roaches. Oxymonas, Pyrsonympha. "
   },
   {
     "NUMBER": "008",
@@ -123,7 +123,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBPHYLUM",
-    "LEGENDA": "Approximately one-half of the 4000 marine and freshwater species of dinoflagellates have chloroplasts and are important primary producers, especially in the sea. The xanthophyll pigment peridinin colors themred-brown or golden brown.Their chloroplasts are surrounded by three membranes and have chlorophylls a and c, but lack chlorophyll b. Dinoflagellate chloroplasts are diverse, having originated as endosymbionts from at least three different taxa of photosynthetic cells."
+    "LEGENDA": "Approximately one-half of the 4000 marine and freshwater species of dinoflagellates have chloroplasts and are important primary producers, especially in the sea. The xanthophyll pigment peridinin colors themred-brown or golden brown.Their chloroplasts are surrounded by three membranes and have chlorophylls a and c, but lack chlorophyll b. "
   },
   {
     "NUMBER": "010",
@@ -151,7 +151,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Ciliates with oral membranelles (polykinetids) that wind clockwise to the cytostome; somatic dikinetids or polykinetids. Includes Heterotrichias, the contractile Blepharisma, Folliculina, Spirostomum, Stentor; Hgotrichias, the tintinnids, Halteria with somatic cirri; Stichotrichias, with ventral cirri, such as the dorsoventrally flattened Stylonychia; Hypotrichia, which are flattened with cirri on the ventral surface and have postciliary microtubule ribbons, such as bacterivorous Aspidisca and Euplotes."
+    "LEGENDA": "Ciliates with oral membranelles (polykinetids) that wind clockwise to the cytostome; somatic dikinetids or polykinetids. Includes Heterotrichias, the contractile Blepharisma, Folliculina, Spirostomum, Stentor; Hgotrichias, the tintinnids, Halteria with somatic cirri; Stichotrichias, with ventral cirri, such as the dorsoventrally flattened Stylonychia; "
   },
   {
     "NUMBER": "012",
@@ -165,7 +165,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Somatic monokinetids; MTs from circumcytostomal dikinetids form basketlike cytopharynx and have a transverse ribbon of MTs from ciliary basal bodies and laterally directed kinetodesmal fibers. Includes HaptoriasC, mostly predators with lateral, ventral, or posterior cytostome and toxicysts, Didinium, Dileptus, Mesodinium (with endosymbiotic dinoflagellates); and TrichostomatiasC, mutualists in the gut of ruminants that assist in breakdown of cellulose, Balantidium and Entodinium."
+    "LEGENDA": "Somatic monokinetids; MTs from circumcytostomal dikinetids form basketlike cytopharynx and have a transverse ribbon of MTs from ciliary basal bodies and laterally directed kinetodesmal fibers. Includes Haptorias, mostly predators with lateral, ventral, or posterior cytostome and toxicysts, Didinium, Dileptus, Mesodinium (with endosymbiotic dinoflagellates)."
   },
   {
     "NUMBER": "013",
@@ -179,7 +179,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Oral region similar to that of litostomates, but some polykinetids are also present; have somatic monokinetids with radially arranged MT ribbons and a cytostome at the anterior end of the cell; toxicysts are common. Marine and fresh water Coleps, Prorodon."
+    "LEGENDA": "Oral region similar to that of litostomates, but some polykinetids are also present; have somatic monokinetids with radially arranged MT ribbons and a cytostome at the anterior end of the cell; toxicysts are common. Marine and fresh water Coleps, Prorodon.  "
   },
   {
     "NUMBER": "014",
@@ -193,7 +193,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Leaflike ribbons of MTs surrounded by longitudinal bundles of MTs that form a basket-shaped cytopharynx (cyrtos); somatic monokinetids. PhyllopharyngiasC, of which Chilodonella is flattened, ciliated ventrally, and found in sewage; ChonotrichiasG, which are sessile, noncili- ated filter feeders with a spiral oral end that attach to crus- taceans; SuctoriasC, which are sessile, cilia-free predators with prey-catching tentacles, resemble miniature sundews and include Allantosoma (in horse colon), Ephelota, Heliophrya, Tokophrya. Marine and fresh water."
+    "LEGENDA": "Leaflike ribbons of MTs surrounded by longitudinal bundles of MTs that form a basket-shaped cytopharynx (cyrtos); somatic monokinetids. Phyllopharyngias, of which Chilodonella is flattened, ciliated ventrally, and found in sewage; Chonotrichias, which are sessile, nonciliated filter feeders with a spiral oral end that attach to crustaceans; Suctorias, which are sessile, cilia-free predators with prey-catching tentacles, resemble miniature sundews. Marine and fresh water."
   },
   {
     "NUMBER": "015",
@@ -207,7 +207,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Transverse MT ribbons tangential to the basal bodies; well-developed kinetodesma; MT bundles form a complex, basket-shaped cytopharynx (nasse); somatic mono- or dikinetids. Peniculida has an oral apparatus that is an elastics lit and three oral membranelles (peniculus) on its left side and an undulating membrane on the right; a nasse is absent; includes the slipper ciliate, Paramecium."
+    "LEGENDA": "Transverse MT ribbons tangential to the basal bodies; well-developed kinetodesma; MT bundles form a complex, basket-shaped cytopharynx (nasse); somatic mono- or dikinetids. Peniculida has an oral apparatus that is an elastics lit and three oral membranelles (peniculus) on its left side and an undulating membrane on the right; a nasse is absent; includes the slipper ciliate, Paramecium. "
   },
   {
     "NUMBER": "016",
@@ -221,7 +221,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "A few oral polykinetids, usually three, on left side of the cytostome; somatic mono kinetid swith MT ribbons that radiate from the basal bodies. Hymenos- tomatiasC, oral apparatus like that of Nassophorea. The best- known ciliate is the free-living Tetrahymena; Ichthyophthirius, the cause of “ich” disease of freshwater fishes; Pleuronema, Uronema. PeritrichiasC, a ciliary ring on its oral rim that winds helically counterclockwise to the cytostome and then splits into three membranelles; somatic cilia are reduced; often have contractile stalks (or bodies) and are mosdy sessile and attached, but some can detach and swim: Carchesium, Epistylis, Trichodina, Urceolaria, Varticella."
+    "LEGENDA": "A few oral polykinetids, usually three, on left side of the cytostome; somatic mono kinetid swith MT ribbons that radiate from the basal bodies. Hymenostomatias, oral apparatus like that of Nassophorea. The best known ciliate is the free-living Tetrahymena; Ichthyophthirius, the cause of “ich” disease of freshwater fishes; somatic cilia are reduced; often have contractile stalks (or bodies) and are mostly sessile and attached, but some can detach and swim."
   },
   {
     "NUMBER": "017",
@@ -249,7 +249,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Life cycle with one host; multiple fission by both male and female gamonts; constriction separates gamont body into anterior protomerite and posterior deutomerite, with epimerite (such as hooks) at tip of protomerite; gamontcellsunite(syzygy)before encystment and move by gliding; most stages are extracellular parasites of echinoderms, molluscs, annelids, and especially arthro- pods. Species identification based on epimerite structure. Gregarina, Monocystis."
+    "LEGENDA": "Life cycle with one host; multiple fission by both male and female gamonts; constriction separates gamont body into anterior protomerite and posterior deutomerite, with epimerite (such as hooks) at tip of protomerite; gamontcells unite before encystment and move by gliding; most stages are extracellular parasites of echinoderms, molluscs, annelids, and especially arthropods. Species identification based on epimerite structure."
   },
   {
     "NUMBER": "019",
@@ -263,7 +263,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Each macrogamont forms but one macrogamete; gamonts encyst; most species are intracellular parasites of invertebrates and vertebrates in one or two hosts. Cryp- tosporidium, Eimeria (in poultry), Haemogregarina, Toxoplasma (causes toxoplasmosis in cats and sometimes in humans)."
+    "LEGENDA": "Each macrogamont forms but one macrogamete; gamonts encyst; most species are intracellular parasites of invertebrates and vertebrates in one or two hosts. Cryptosporidium, Eimeria, Haemogregarina, Toxoplasma (causes toxoplasmosis in cats and sometimes in humans)."
   },
   {
     "NUMBER": "020",
@@ -277,7 +277,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Blood parasites that alternate between vertebrate(intermediate) and arthropod (final) hosts; sporozoites infect vertebrates and motile micro- and macrogametes are transferred to arthropods; gamonts do not pair or encyst. Haemoproteus, Leucocytozoon (causes turkey malaria), Plasmod- ium (causesmalaria)."
+    "LEGENDA": "Blood parasites that alternate between vertebrate and arthropod hosts; sporozoites infect vertebrates and motile micro- and macrogametes are transferred to arthropods; gamonts do not pair or encyst. Haemoproteus, Leucocytozoon, Plasmodium.. "
   },
   {
     "NUMBER": "021",
@@ -291,7 +291,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "PHYLUM",
-    "LEGENDA": "Cell has one to several non motile flagella, each with a basal body from which MTs radiate and surround a nucleus; mitochondria and Golgi bodies are absent, respiratory organelles are endosymbiotic bacteria. Pelomyxapalustris is 1 to 5 mm in diameter with hundreds of nuclei and several flagella; Mastigamoeba and Mastigel'la have one flagellum and one nucleus. In microoxic freshwater sediments. Some systematists regard caryoblasts as premitochondrial eukaryotes, and thus among the most primitive of living protists."
+    "LEGENDA": "Cell has one to several non motile flagella, each with a basal body from which MTs radiate and surround a nucleus; mitochondria and Golgi bodies are absent, respiratory organelles are endosymbiotic bacteria. Pelomyxapalustris is 1 to 5 mm in diameter with hundreds of nuclei and several flagella; Mastigamoeba and Mastigel'la have one flagellum and one nucleus."
   },
   {
     "NUMBER": "022",
@@ -305,7 +305,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "PHYLUM",
-    "LEGENDA": "Cells have an inducible flagellated stage with two to four functional flagella; lobopodia seem to erupt during ameboid movement. Encystment occurs under adverse conditions. Freshwater and marine sediments. Naegleria (two flagella; cause of primary amebic meningoencephalitis), Tetramitus (fourflagella). Contemporary systematists include this taxon with the flagellates."
+    "LEGENDA": "Cells have an inducible flagellated stage with two to four functional flagella; lobopodia seem to erupt during ameboid movement. Encystment occurs under adverse conditions. Freshwater and marine sediments. Naegleria (cause of primary amebic) Tetramitus. Contemporary systematists include this taxon with the flagellates. "
   },
   {
     "NUMBER": "023",
@@ -319,7 +319,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "PHYLUM",
-    "LEGENDA": "Polyphyletictaxon: cells with pseudopodia that lack MTs. MTs are associated only with the mitotic spindle; fla- gella and centrioles are absent; freshwater, marine, terrestrial, and symbiotic habitats. “Lobosea,” with lobopodia, includes the naked (atestate) amebas—Acanthamoeba, Amoeba, Chaos, Entamoeba, Vannella—and the testate amebas—Arcella, Difflu- gia. “Filosea,” with rapidly forming filopodia, includes testate and atestate species: Euglypha, Gromia, Vampyrella."
+    "LEGENDA": "Polyphyletictaxon: cells with pseudopodia that lack MTs. MTs are associated only with the mitotic spindle; fla- gella and centrioles are absent; freshwater, marine, terrestrial, and symbiotic habitats. “Lobosea,” with lobopodia, includes the naked (atestate) amebas and the testate amebas."
   },
   {
     "NUMBER": "024",
@@ -333,7 +333,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Organic test is flexible and sometimes has attached foreign matter. India, Myxotheca, Nemogullmia."
+    "LEGENDA": "Organic test is flexible and sometimes has attached foreign matter. India, Myxotheca, Nemogullmia. "
   },
   {
     "NUMBER": "025",
@@ -347,7 +347,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Organic test made rigid by adding foreign particles. Allogromia, Ammodiscus, Astrorhiza, Clavulina, Textularia."
+    "LEGENDA": "Organic test made rigid by adding foreign particles. Allogromia, Ammodiscus, Astrorhiza, Clavulina, Textularia. "
   },
   {
     "NUMBER": "026",
@@ -361,7 +361,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Calcareous test resembles porcelain. Amphisorus (mermaid’s penny), Pyrgo (ooze former), Quinqueloculina, Sorites."
+    "LEGENDA": "Calcareous test resembles porcelain. Amphisorus (mermaid’s penny), Pyrgo (ooze former), Quinqueloculina, Sorites. "
   },
   {
     "NUMBER": "027",
@@ -403,7 +403,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Taxon of deep-sea radiolarians having a siliceous test with hollow spines and incorporated organic matter. Central capsule has three openings, one oral and two for axopods. Yellow-brown pigment mass (phaeodium) near the oral opening. Astracantha, Coelodendrum, Phaeodina."
+    "LEGENDA": "Taxon of deep-sea radiolarians having a siliceous test with hollow spines and incorporated organic matter. Central capsule has three openings, one oral and two for axopods. Yellow-brown pigment mass (phaeodium) near the oral opening. Astracantha, Coelodendrum, Phaeodina. "
   },
   {
     "NUMBER": "030",
@@ -417,7 +417,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Acanthareans are planktonic marine actinopods that superficially resemble radiolarians. The cell is a radially symmetric sphere from which project slender axopodia and 10 to 20 stout skeletal spines. The intracellular spines unite in the center of the medulla, radiate outward, and project beyond the periphery of the cell. Myonemes attach to the spine bases and, on contraction, expand the cortex to the tips of the spines. Acantharean spines are composed of strontium sulfate and not the silica of radiolarians. Strontium sulfate is soluble in seawater and, after cell death, the skeleton soon dissolves and leaves no trace either as a bottom ooze or in the fossil record. The cell is divided by a perforated organic test into a medulla and vacuolated cortex. The cortex is overlaid with a flexible extracellular cuticle. The medulla contains several nuclei and, often, zooxanthellae."
+    "LEGENDA": "Acanthareans are planktonic marine actinopods that superficially resemble radiolarians. The cell is a radially symmetric sphere from which project slender axopodia and 10 to 20 stout skeletal spines. The intracellular spines unite in the center of the medulla, radiate outward, and project beyond the periphery of the cell. Myonemes attach to the spine bases and, on contraction, expand the cortex to the tips of the spines. "
   },
   {
     "NUMBER": "031",
@@ -445,7 +445,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Sessile, mostly stalked species; irregularly arranged axopod MTs; filopodia are present. Clathrulina, Hedriocystis, Orbulinellci."
+    "LEGENDA": "Sessile, mostly stalked species; irregularly arranged axopod MTs; filopodia are present. Clathrulina, Hedriocystis, Orbulinellci. "
   },
   {
     "NUMBER": "033",
@@ -473,7 +473,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Bilaterally symmetric with stout siliceous spines in rosettes; axopodal MTs in a hexagonal pattern; marine. Sticholonche."
+    "LEGENDA": "Bilaterally symmetric with stout siliceous spines in rosettes; axopodal MTs in a hexagonal pattern; marine. Sticholonche. "
   },
   {
     "NUMBER": "035",
@@ -487,7 +487,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Numerous slender and long axopods arise from a central point (centroplast); axopods bear extru- somes used in prey capture; often have surface covering of extracellular siliceous scales or spinelets; axopod MTs in hexagonal or triangular arrays. Acanthocystis, Gymnosphaera, Hedraiophrys, Heterophrys."
+    "LEGENDA": "Numerous slender and long axopods arise from a central point; axopods bear extru- somes used in prey capture; often have surface covering of extracellular siliceous scales or spinelets; axopod MTs in hexagonal or triangular arrays. Acanthocystis, Gymnosphaera, Hedraiophrys, Heterophrys. "
   },
   {
     "NUMBER": "036",
@@ -501,7 +501,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBPHYLUM",
-    "LEGENDA": "Glass sponges; have syncytial tissues; spicules are siliceous triaxonal hexactines that form intracellularly (sclerocytes are cellular, not syncytial). Many species have elongate bundle (“root”) of monaxons that anchor the sponge in mud bottoms; trichimella larva resembles modified parenchymella. Marine; approximately 400 extant species. EuplecteUa, Dactylocalyx, Hyalonema, Monoraphis, Rhabdocalyptus."
+    "LEGENDA": "Glass sponges; have syncytial tissues; spicules are siliceous triaxonal hexactines that form intracellularly (sclerocytes are cellular, not syncytial). Many species have elongate bundle (“root”) of monaxons that anchor the sponge in mud bottoms; trichimella larva resembles modified parenchymella. Marine; approximately 400 extant species."
   },
   {
     "NUMBER": "037",
@@ -515,7 +515,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBCLADE",
-    "LEGENDA": "Demospongiae lacking distinction between mega- and microscleres. Spicule types not localized in body; siliceous spicules are di-, tri-, and tetractines; spongin mostly absent. Larviparous with coeloblastula larva. Octavella and Oscarella have only mesohylar skeleton, lack spongin and spicules. Plakina (syconoid)."
+    "LEGENDA": "Demospongiae lacking distinction between mega and microscleres. Spicule types not localized in body; siliceous spicules are di-, tri-, and tetractines; spongin mostly absent. Larviparous with coeloblastula larva. Octavella and Oscarella have only mesohylar skeleton, lack spongin and spicules. Plakina (syconoid). "
   },
   {
     "NUMBER": "038",
@@ -529,7 +529,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBCLADE",
-    "LEGENDA": "Demospongiae with tetraxons, aster- ose microscleres, and mostly without spongin. Oviparous. Acanthochaetes, Ceratoporella, Merlia, all “scelerosponges” with a basal calcareous exoskeleton as well as siliceous spicules; Chondrilla nucula (chicken-liver sponge of West Indies); Cliona spp. (boring sponges); Geodia; Suberites ficus (fig sponge); Tethya actinia (tangerina sponge); Tetilla."
+    "LEGENDA": "Demospongiae with tetraxons, aster- ose microscleres, and mostly without spongin. Oviparous. Acanthochaetes, Ceratoporella, Merlia, all “scelerosponges” with a basal calcareous exoskeleton as well as siliceous spicules; Chondrilla nucula; Cliona spp.; Geodia; Suberites ficus; Tethya actinia; Tetilla. "
   },
   {
     "NUMBER": "039",
@@ -543,7 +543,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBCLADE",
-    "LEGENDA": "Demospongiae with distinct mega- and mi- croscleres, if microscleres are present; spongin is often  species. CalcineasC: Calcarea with a choanocytic flagellum not in close association with the nucleus; nucleus in base of cell; triaxons have equiangular rays of equal length. Coeloblastula larva. Clathrina (asconoid) forms tubular network; Murray well developed and several taxa (“keratosa”) have spongin only; spicule types localized to specific tissues or regions."
+    "LEGENDA": "Demospongiae with distinct mega- and mi- croscleres, if microscleres are present; spongin is often  species. CalcineasC: Calcarea with a choanocytic flagellum not in close association with the nucleus; nucleus in base of cell; triaxons have equiangular rays of equal length. Coeloblastula larva. "
   },
   {
     "NUMBER": "040",
@@ -571,7 +571,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBCLADE",
-    "LEGENDA": "Calcarea with a choanocyte flagellum close to the nucleus; nucleus is apical in cell; triaxons are inequiangular, one ray longer than other two. Amphiblastula larva. Grantia; Leucandra (leuconoid); Leucosolenia (asconoid), single tubes or tube cluster from a stolon, among algae; Minchinella, rigid skeleton of fused spicules and cement; Petrobiona, skeleton is a solid calcareous mass; Sycon or Scypha (syconoid), cylindrical to nearly spherical body, com- mon under rocks."
+    "LEGENDA": "Calcarea with a choanocyte flagellum close to the nucleus; nucleus is apical in cell; triaxons are inequiangular, one ray longer than other two. Amphiblastula larva. Grantia; Leucandra (leuconoid); Leucosolenia (asconoid), single tubes or tube cluster from a stolon, among algae; Minchinella, rigid skeleton of fused spicules and cement."
   },
   {
     "NUMBER": "042",
@@ -599,7 +599,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Sea anemones are generally large, solitary polyps. Most range from 1.5 to 10 cm in length and from 1 to 5 cm in diameter, but Tealia columbiana on the North  Pacific coast of the United States and Stichodactyla mertensii and Heteractis magnified on the Great Barrier Reef of Australia may exceed a diameter of 1 m at the oral end. The height record of 1 m is held by Metridium farcimen of the Pacific Northwest coast of the United States. Sea anemones are often brightly colored white, green, blue, orange, red, or an entire palette of colors."
+    "LEGENDA": "Sea anemones are generally large, solitary polyps. Most range from 1.5 to 10 cm in length and from 1 to 5 cm in diameter, but Tealia columbiana on the North  Pacific coast of the United States and Stichodactyla mertensii and Heteractis magnified on the Great Barrier Reef of Australia may exceed a diameter of 1 m at the oral end. "
   },
   {
     "NUMBER": "044",
@@ -613,7 +613,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Closely related to sea anemones (Actiniaria) are the stony, or scleractinian, corals (also called madreporarian corals), which constitute the largest taxon of anthozoans with approximately 3600 species. In contrast to anemones, stony corals produce a calcium carbonate exoskeleton. Some corals, such as the Indo-Pacific reef-inhabiting Fungia and some deep-sea species, are solitary and have polyps as large as 50 cm in diameter, but the majority are colonial, with small polyps averaging 1 to 3 mm in diameter."
+    "LEGENDA": "Closely related to sea anemones (Actiniaria) are the stony, or scleractinian, corals (also called madreporarian corals), which constitute the largest taxon of anthozoans with approximately 3600 species. In contrast to anemones, stony corals produce a calcium carbonate exoskeleton."
   },
   {
     "NUMBER": "045",
@@ -641,7 +641,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Coral anemones; 50 species, all solitary;  lack calcareous exoskeleton; most are broad, squat polyps, often larger than dinner plates (up to 1m diameter); on coral reefs; expanded oral disc, with many short tentacles or no tentacles; tentacles usually house zooxanthellae, but polyps also feed on large prey such as fish, sea urchins; prey enveloped by muscular oral disc, similar to prey capture by Venus’s flytrap."
+    "LEGENDA": "Coral anemones; 50 species, all solitary;  lack calcareous exoskeleton; most are broad, squat polyps, often larger than dinner plates (up to 1m diameter); on coral reefs; expanded oral disc, with many short tentacles or no tentacles; tentacles usually house zooxanthellae, but polyps also feed on large prey such as fish, sea urchins."
   },
   {
     "NUMBER": "047",
@@ -655,7 +655,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Feed by casting plankton-trapping mucous strings, reeled in by cilia. Collected commercially for black skeleton, pieces polished and worn as jewelry. Antipathes, Dendrobrachia, Schizopathes."
+    "LEGENDA": "Feed by casting plankton-trapping mucous strings, reeled in by cilia. Collected commercially for black skeleton, pieces polished and worn as jewelry. Antipathes, Dendrobrachia, Schizopathes. "
   },
   {
     "NUMBER": "048",
@@ -669,7 +669,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "All septa complete, unpaired, lack retractor muscles, thus cerianthids cannot invaginate oral disc and tentacles into the column for protection; single siphonoglyph and corresponding hyposulculus. Cerianthus, Ceriantheopsis, Pachycerianthus."
+    "LEGENDA": "All septa complete, unpaired, lack retractor muscles, thus cerianthids cannot invaginate oral disc and tentacles into the column for protection; single siphonoglyph and corresponding hyposulculus. Cerianthus, Ceriantheopsis, Pachycerianthus. "
   },
   {
     "NUMBER": "049",
@@ -739,7 +739,7 @@ const databaseProcessing = [
     "SUBORDER": "HOLAXONIA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Large, plantlike, often colorful sea plumes, sea fans, sea whips that sway gracefully in currents on coral reefs and elsewhere."
+    "LEGENDA": "Large, plantlike, often colorful sea plumes, sea fans, sea whips that sway gracefully in currents on coral reefs and elsewhere. "
   },
   {
     "NUMBER": "054",
@@ -851,7 +851,7 @@ const databaseProcessing = [
     "SUBORDER": "FILIFERA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Filiform tentacles lacking terminal knobs: Bougainvillea, Clava, Eudendrium, Turritopsis. Snail fur, Hydractinia spp."
+    "LEGENDA": "Filiform tentacles lacking terminal knobs: Bougainvillea, Clava, Eudendrium, Turritopsis. Snail fur, Hydractinia spp. "
   },
   {
     "NUMBER": "062",
@@ -949,7 +949,7 @@ const databaseProcessing = [
     "SUBORDER": "NARCOMEDUSAE",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Medusae relatively flat with thin, lobed margin; central part of the bell thick and lenslike, whorl of thick, solid tentacles usually on exumbrellar surface; tentacles held stiffly, often above bell rim."
+    "LEGENDA": "Medusae relatively flat with thin, lobed margin; central part of the bell thick and lenslike, whorl of thick, solid tentacles usually on exumbrellar surface; tentacles held stiffly, often above bell rim. "
   },
   {
     "NUMBER": "069",
@@ -1075,7 +1075,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Small body usually long and slender. Density of epidermal cilia low (two percell) as compared with remaining turbellarians. Head commonly has a statocyst (Catenula) with one statolith (uniquely behind brain), two ciliated pits, and often two colorless eyes."
+    "LEGENDA": "Small body usually long and slender. Density of epidermal cilia low (two percell) as compared with remaining turbellarians. Head commonly has a statocyst (Catenula) with one statolith (uniquely behind brain), two ciliated pits, and often two colorless eyes. "
   },
   {
     "NUMBER": "078",
@@ -1131,7 +1131,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBCLADE",
-    "LEGENDA": "Sister taxon of Acoelomorpha. With rhabciites and duo-gland adhesive structures, piimitive with simple pharynx surrounded by nerve ring near mouth. Includes all remaining turbellarians."
+    "LEGENDA": "Sister taxon of Acoelomorpha. With rhabciites and duo-gland adhesive structures, piimitive with simple pharynx surrounded by nerve ring near mouth. Includes all remaining turbellarians. "
   },
   {
     "NUMBER": "082",
@@ -1187,7 +1187,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Sister taxon of Polycladida. Flatworms (including parasitic platyhelminths) with heterocellular ovary. Ovary divided into two regions, egg-producing germarium (ovary) and yolk-cell- (vitellocyte-) producing vitellarium; ectolecithal “eggs” with some egg-capsule components contributed by glands associated with egg-laying duct."
+    "LEGENDA": "Sister taxon of Polycladida. Flatworms with heterocellular ovary. Ovary divided into two regions, egg-producing germarium and yolk-cell producing vitellarium; ectolecithal “eggs” with some egg-capsule components contributed by glands associated with egg-laying duct."
   },
   {
     "NUMBER": "086",
@@ -1229,7 +1229,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Small; statocyst with one statolith. Pharynx plicate and tubular, but gut unbranched. Mostly marine, many interstitial."
+    "LEGENDA": "Small; statocyst with one statolith. Pharynx plicate and tubular, but gut unbranched. Mostly marine, many interstitial. "
   },
   {
     "NUMBER": "089",
@@ -1299,7 +1299,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBCLADE",
-    "LEGENDA": "Digeneans, known as flukes, are common endoparasites of all major vertebrate taxa: fishes, amphibians, reptiles, birds, and mammals. Some flukes cause debilitating disease in livestock and humans. With some 11,000 species, more than all other flatworms combined, digeneans are second in diversity only to the roundworms (Nematoda) among metazoan parasites."
+    "LEGENDA": "Digeneans, known as flukes, are common endoparasites of all major vertebrate taxa: fishes, amphibians, reptiles, birds, and mammals. Some flukes cause debilitating disease in livestock and humans. With some 11,000 species, more than all other flatworms combined, digeneans are second in diversity only to the roundworms (Nematoda) among metazoan parasites. "
   },
   {
     "NUMBER": "094",
@@ -1327,7 +1327,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "The approximately 1100 species of monogeneans are chiefly host-specific ectoparasites, or occasionally endoparasites, of aquatic vertebrates, especially fishes, but amphibians and reptiles are also hosts. Because most attach to the skin of a fast-moving host, monogeneans are dorsoventrally flattened and have a large, posterior attachment organ, the haptor, that bears hooks and suckers, allowing the parasite to cling tenaciously to the host."
+    "LEGENDA": "The approximately 1100 species of monogeneans are chiefly host-specific ectoparasites, or occasionally endoparasites, of aquatic vertebrates, especially fishes, but amphibians and reptiles are also hosts. "
   },
   {
     "NUMBER": "096",
@@ -1355,7 +1355,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "PHYLUM",
-    "LEGENDA": "The 20-some species of orthonectids are endoparasites of turbellarians, nemerteans, polychaetes, gastropod and bivalve molluscs, brittle stars, and tunicates. The tiny adults, less than 1mm in length bear a series of epidermal ciliary rings that encircle the body. These rings alternate with rings of nonciliated cells in a species-specific fashion. The ciliary rootlets of adjacent cilia are interjoined in an intracellular network. A thin cuticle covers the body. Below the cuticle and epidermis are an extra cellular matrix and myocytes containing very thick, longitudinally oriented filaments composed of the protein paramyosin. Internal to the muscle sheath is a mass of gametes, either sperm or eggs."
+    "LEGENDA": "The 20-some species of orthonectids are endoparasites of turbellarians, nemerteans, polychaetes, gastropod and bivalve molluscs, brittle stars, and tunicates. The tiny adults, less than 1mm in length bear a series of epidermal ciliary rings that encircle the body. These rings alternate with rings of nonciliated cells in a species-specific fashion. The ciliary rootlets of adjacent cilia are interjoined in an intracellular network. A thin cuticle covers the body. "
   },
   {
     "NUMBER": "098",
@@ -1369,7 +1369,7 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "PHYLUM",
-    "LEGENDA": "The 75 species of dicyemids are delicate, slender worms that parasitise the kidneys of octopuses and cuttlefishes, but usually not squids. They occur, typically in high densities, in the renal sac and pericardial cavity, both of which are urine-containing compartments. One end of the parasite attaches to the nephridium’s absorptive lining while the body endocytoses low-molecular-weight nutrients from the primary urine. It thus competes with the reabsorptive epithelium of the nephridium (and host)."
+    "LEGENDA": "The 75 species of dicyemids are delicate, slender worms that parasitise the kidneys of octopuses and cuttlefishes, but usually not squids. They occur, typically in high densities, in the renal sac and pericardial cavity, both of which are urine-containing compartments. One end of the parasite attaches to the nephridium’s absorptive lining while the body endocytoses low-molecular-weight nutrients from the primary urine"
   },
   {
     "NUMBER": "099",
@@ -1386,7 +1386,7 @@ const databaseProcessing = [
     "LEGENDA": "100 marine species. Body-wall musculature arranged in outer circular, inner longitudinal layers."
   },
   {
-    "NUMBER": 100,
+    "NUMBER": "100",
     "NAME": "HETERONEMERTEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "NEMERTEA",
@@ -1400,7 +1400,7 @@ const databaseProcessing = [
     "LEGENDA": "Approximately 400 common and familiar species; majority are marine, but 3 species in fresh water. Four layers of body-wall muscles: an outer, weakly developed circular layer; a powerful longitudinal layer; another circular layer; and an innermost longitudinal layer. Nerve cords in the innermost circular muscle layer."
   },
   {
-    "NUMBER": 101,
+    "NUMBER": "101",
     "NAME": "BDELLONEMERTEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "NEMERTEA",
@@ -1414,7 +1414,7 @@ const databaseProcessing = [
     "LEGENDA": "Seven species of Malacobdella, six commensals in mantle cavity of large marine clams, including Macoma, Mercenaria, Mya, and Siliqua, one in mantle cavity of freshwater snail. Steal food from filter-feeding host. Short, wide, flat, leechlike."
   },
   {
-    "NUMBER": 102,
+    "NUMBER": "102",
     "NAME": "MONOSTILIFERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "NEMERTEA",
@@ -1428,7 +1428,7 @@ const databaseProcessing = [
     "LEGENDA": "500 benthic species. Proboscis with stylet bulb and single central stylet. Emplectonema, Nemertopsis: nearshore marine; individuals aggregate, intertwine threadlike bodies in a Gordian knot that only they can untie."
   },
   {
-    "NUMBER": 103,
+    "NUMBER": "103",
     "NAME": "POLYSTILIFERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "NEMERTEA",
@@ -1442,7 +1442,7 @@ const databaseProcessing = [
     "LEGENDA": "About 100 pelagic and 50 benthic marine species. Instead of stylet bulb and stylet, have padlike structure that bears many thorny stylets. Nectonemertes: pelagic, gelatinous, buoyant, at depths of 650-1700 m."
   },
   {
-    "NUMBER": 104,
+    "NUMBER": "104",
     "NAME": "NEOMENIOMORPHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1456,7 +1456,7 @@ const databaseProcessing = [
     "LEGENDA": "The larger taxon. Reduced foot consists of mid ventral ridge in a longitudinal groove. Pedal pit present at anterior end of foot. Gills lost. Creep over hydroids and alcyonarian corals or across the sea bottom by using their narrow foot. Carnivores feed on the cnidarians on which they live."
   },
   {
-    "NUMBER": 105,
+    "NUMBER": "105",
     "NAME": "CHAETODERMOMORPHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1470,7 +1470,7 @@ const databaseProcessing = [
     "LEGENDA": "Small taxon of three families. Foot completely lost. A pair of gills in the posterior mantle cavity. Oral shield partly or completely encircles the mouth. Selective deposit feeders or carnivores burrowing in soft substrates."
   },
   {
-    "NUMBER": 106,
+    "NUMBER": "106",
     "NAME": "PAEOLORICATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1484,7 +1484,7 @@ const databaseProcessing = [
     "LEGENDA": "Extinct. Shell plates lack articulamentum."
   },
   {
-    "NUMBER": 107,
+    "NUMBER": "107",
     "NAME": "LEPIDOPLEURINA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1498,7 +1498,7 @@ const databaseProcessing = [
     "LEGENDA": "Small, mostly deepwater chitons less than 50 mm in length. Articulamenta lack or have poorly developed insertion plates. Gills relatively few in number and confined to the posterior ends of the pallial grooves."
   },
   {
-    "NUMBER": 108,
+    "NUMBER": "108",
     "NAME": "ISCHNOCHITONINA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1512,7 +1512,7 @@ const databaseProcessing = [
     "LEGENDA": "Most chitons belong to this taxon. Much of the shell plate (tegmentum) is exposed."
   },
   {
-    "NUMBER": 109,
+    "NUMBER": "109",
     "NAME": "ACANTHOCHITONINA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1526,7 +1526,7 @@ const databaseProcessing = [
     "LEGENDA": "Toothed insertion plates. Relatively small part, sometimes none, of tegmentum is exposed. Last (eighth) plate has large insertion plates."
   },
   {
-    "NUMBER": 110,
+    "NUMBER": "110",
     "NAME": "MONOPLACOPHORA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1537,10 +1537,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Monoplacophorans resemble the generalized mollusc and are small, flattened, marine molluscs that inhabit deep water. Living representatives are 3 mm to little more than 3 cm long and are bilaterally symmetrical. They were known from Cambrian to Devonian fossils but were thought to be extinct until 1952, when 10 living specimens of Neopilina galatheae were dredged from a deep ocean trench off the Pacific coast of Costa Rica. Since this discovery, specimens belonging to about 20 species and three genera have been collected from waters 1800 to 7000 m deep in the northern and southern Atlantic, Indian, and eastern Pacific Oceans. The only known shallow-water species was found off the California coast at about 200 m. The modern species are thought to be the remnants of a formerly large and abundant taxon of molluscs."
+    "LEGENDA": "Monoplacophorans resemble the generalized mollusc and are small, flattened, marine molluscs that inhabit deep water. Living representatives are 3 mm to little more than 3 cm long and are bilaterally symmetrical. They were known from Cambrian to Devonian fossils but were thought to be extinct until 1952, when 10 living specimens of Neopilina galatheae were dredged from a deep ocean trench off the Pacific coast of Costa Rica. "
   },
   {
-    "NUMBER": 111,
+    "NUMBER": "111",
     "NAME": "PATELLOGASTROPODA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1554,7 +1554,7 @@ const databaseProcessing = [
     "LEGENDA": "Also called Docoglossa. The largest assemblage of limpets. Found from shallow water to the deep sea; many are common in the rocky intertidal areas. Evolved independently of keyhole limpets. Shell a noncoiled, symmetrical cone; symmetry may be primary."
   },
   {
-    "NUMBER": 112,
+    "NUMBER": "112",
     "NAME": "VETIGASTROPODA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1568,7 +1568,7 @@ const databaseProcessing = [
     "LEGENDA": "Archaeogastropods sensu lato. Primitive diotocardians, two nephridia and bipectinate gills. Right gill may be reduced or absent, osphradium is a simple ridge. Fissurellidae (keyhole limpets): secondarily symmetrical conical shell with a single anal aperture and two bipectinate gills."
   },
   {
-    "NUMBER": 113,
+    "NUMBER": "113",
     "NAME": "NERITIMORPHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1582,7 +1582,7 @@ const databaseProcessing = [
     "LEGENDA": "Includes many common, rocky intertidal species, such as the semitropical and tropical species of Nerita. Diotocardian, but have either a single monopectinate gill or no gill. Eye with lens, penis present. Some have invaded fresh water (Theodoxus) and, perhaps from some freshwater ancestor, there arose a family of tropical land snails, the Heiicinidae."
   },
   {
-    "NUMBER": 114,
+    "NUMBER": "114",
     "NAME": "CAENOGASTROPODA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1593,10 +1593,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Includes the mesogastropods and neogastropods and thus most living prosobranchs. The great adaptive diversity of these two grades is in part due to the evolution of the monopectinate gill, which may have facilitated expansion from the ancestral rocky coasts into silty, especially soft-bottom, habitats. The dorsal and ventral membranes that suspend the archaeogastropod bipectinate gill are easily fouled by developed shell (Atlanta, Oxygyrus); Carinariidae has small sediment carried by the respiratory current."
+    "LEGENDA": "Includes the mesogastropods and neogastropods and thus most living prosobranchs. The great adaptive diversity of these two grades is in part due to the evolution of the monopectinate gill, which may have facilitated expansion from the ancestral rocky coasts into silty, especially soft-bottom, habitats. The dorsal and ventral membranes that suspend the archaeogastropod bipectinate gill are easily fouled by developed shell; Carinariidae has small sediment carried by the respiratory current."
   },
   {
-    "NUMBER": 115,
+    "NUMBER": "115",
     "NAME": "CERITHIOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1607,10 +1607,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "CERITHIOIDEA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Marine and freshwater snails with high spires; Turritellidae (turret snails; Turritella), Batillariidae (Batillaria), Cerithiidae (ceriths; Bittium, Cerithium), Siliquariidae (Siliquaria), Pleuroceridae (Elimia, Pleurocera)."
+    "LEGENDA": "Marine and freshwater snails with high spires; Turritellidae (turret snails; Turritella), Batillariidae (Batillaria), Cerithiidae (ceriths; Bittium, Cerithium), Siliquariidae (Siliquaria), Pleuroceridae (Elimia, Pleurocera). "
   },
   {
-    "NUMBER": 116,
+    "NUMBER": "116",
     "NAME": "VERMETOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1624,7 +1624,7 @@ const databaseProcessing = [
     "LEGENDA": "Worm snails, with long, loosely, irregularly coiled shells and no operculum; Vermetidae."
   },
   {
-    "NUMBER": 117,
+    "NUMBER": "117",
     "NAME": "LITTORINOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1638,7 +1638,7 @@ const databaseProcessing = [
     "LEGENDA": "Littorinidae (intertidal periwinkles; Lacuna, Littorina, Tectarius)."
   },
   {
-    "NUMBER": 118,
+    "NUMBER": "118",
     "NAME": "RISSOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1652,7 +1652,7 @@ const databaseProcessing = [
     "LEGENDA": "Large assemblage of several families of small marine, freshwater, and terrestrial snails, including Caecidae (Caecum), Hydrobiidae (Hydrobia), Truncatellidae (Truncatella), Vitrinellidae (Cochliolepis, Cyclostremiscus, Vitrinella)."
   },
   {
-    "NUMBER": 119,
+    "NUMBER": "119",
     "NAME": "STROMBOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1666,7 +1666,7 @@ const databaseProcessing = [
     "LEGENDA": "Mostly large gastropods having shells with siphonal canals and a flaring lip; Strombidae (conchs; Larnbis, Strombus, Tibia), Aporrhaidae (pelicanfoot snails; Aporrhais), Struthiolariidae (ostrich-foot snails, Struthiolaria)."
   },
   {
-    "NUMBER": 120,
+    "NUMBER": "120",
     "NAME": "XENOPHOROIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1676,11 +1676,11 @@ const databaseProcessing = [
     "ORDER": "MESOGASTROPODS",
     "SUBORDER": "----------------------------",
     "FAMILY": "XENOPHOROIDEA",
-    "LEVEL": "FAMILY",
+    "LEVEL": "FAMILY ",
     "LEGENDA": "Most attach stones or shells to the shell. Xenophoridae (carriersnails; Xenophora)."
   },
   {
-    "NUMBER": 121,
+    "NUMBER": "121",
     "NAME": "CALYPTRAEDOIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1694,7 +1694,7 @@ const databaseProcessing = [
     "LEGENDA": "Filter-feeding, protandric snails with mostly caplike or limpetlike shells; Calyptraeidae (slipper snails and shelf limpets; Calyptraea, Crepidula; Capulidae (cap snails; Capulus)."
   },
   {
-    "NUMBER": 122,
+    "NUMBER": "122",
     "NAME": "CYPRAEOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1705,10 +1705,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "CYPRAEOIDEA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Spire enclosed within the last whorl of the shell; Cypraeidae (cowries; Cypraea), Ovulidae (egg snails; Cyphoma, Simnia)."
+    "LEGENDA": "Spire enclosed within the last whorl of the shell; Cypraeidae (cowries; Cypraea), Ovulidae (egg snails; Cyphoma, Simnia). "
   },
   {
-    "NUMBER": 123,
+    "NUMBER": "123",
     "NAME": "VELUTINOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1722,7 +1722,7 @@ const databaseProcessing = [
     "LEGENDA": "Velutinidae (Velutina), Triviidae (trivias; Trivia, Erato)."
   },
   {
-    "NUMBER": 124,
+    "NUMBER": "124",
     "NAME": "NATICOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1736,7 +1736,7 @@ const databaseProcessing = [
     "LEGENDA": "Burrowing moon snails with globose shell sand a drilling radula; (Naticidae; Natica, Polinices, Sinum)."
   },
   {
-    "NUMBER": 125,
+    "NUMBER": "125",
     "NAME": "TONNOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1750,7 +1750,7 @@ const databaseProcessing = [
     "LEGENDA": "Marine snails with heavy, often large shells; Cassidae (helmet snails; Cassidarius, Cassis, bonnets; Phalium), Bursidae (frogsnails; Bofonaria), Ranellidae (tritons; Cymatium), Tonnidae (tuns; Tonna, Malea), Ficidae (fig snails; Ficus)."
   },
   {
-    "NUMBER": 126,
+    "NUMBER": "126",
     "NAME": "CARINARIOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1764,7 +1764,7 @@ const databaseProcessing = [
     "LEGENDA": "Pelagic snails with finlike foot and reduced or absent shell; Atlantidae has well developed shell (Atlanta, Oxygyrus); Carinariidae has small shell (Carinaria, Pterosoma); Pterotracheidae has no shell (Pterotrachea)."
   },
   {
-    "NUMBER": 127,
+    "NUMBER": "127",
     "NAME": "EPITONIOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1778,7 +1778,7 @@ const databaseProcessing = [
     "LEGENDA": "Janthinidae, pelagic (violet snails, Janthina, Recluzia), Epitoniidae (wentletraps, Epitonium, Opalia)."
   },
   {
-    "NUMBER": 128,
+    "NUMBER": "128",
     "NAME": "EULIMOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1792,7 +1792,7 @@ const databaseProcessing = [
     "LEGENDA": "Predators, commensals, and echinoderm parasites; Eulimidae, (Eulima, Melanella, Stilifer); Entoconchidae, (sea cucumber endoparasites; Enteroxenos, Entocolax, Entoconcha)."
   },
   {
-    "NUMBER": 129,
+    "NUMBER": "129",
     "NAME": "MURICOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1806,7 +1806,7 @@ const databaseProcessing = [
     "LEGENDA": "Radula with three teeth. Heavy, conical, sculptured shells with long siphonal canal; Muricidae, Buccinidae, Melongenidae, Columbellidae, Fasciolariidae, Marginellidae, Mitridae, Nassariidae, Olividae, Harpidae, Volutidae, Turbinellidae."
   },
   {
-    "NUMBER": 130,
+    "NUMBER": "130",
     "NAME": "CANCELLARIOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1820,7 +1820,7 @@ const databaseProcessing = [
     "LEGENDA": "Radula has only the central tooth, which is used to suck fluid from prey; Cancellariidae (nutmeg snails; Admete, Cancellaria, Sveltia)."
   },
   {
-    "NUMBER": 131,
+    "NUMBER": "131",
     "NAME": "CONOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1831,10 +1831,10 @@ const databaseProcessing = [
     "SUBORDER": "NESOGASTROPODA",
     "FAMILY": "CONOIDEA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Predatory snails with poison gland and highly modified toxoglossate radula having only one tooth per row (or radula absent). Conidae (cone snails; Conus), Turridae, the largest mollusc family, with several thousand species (turret snails; Mangelia, Polystira, Turns), Terebridae (Terebra)."
+    "LEGENDA": "Predatory snails with poison gland and highly modified toxoglossate radula having only one tooth per row (or radula absent). Conidae (cone snails; Conus), Turridae, the largest mollusc family, with several thousand species (turret snails; Mangelia, Polystira, Turns), Terebridae (Terebra). "
   },
   {
-    "NUMBER": 132,
+    "NUMBER": "132",
     "NAME": "PYRAMIDEILOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1848,7 +1848,7 @@ const databaseProcessing = [
     "LEGENDA": "A large taxon of small carnivorous ectoparasites of bivalve molluscs and polychaetes."
   },
   {
-    "NUMBER": 133,
+    "NUMBER": "133",
     "NAME": "CEPHALASPIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1859,10 +1859,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Largest, most primitive taxon. The ancestors of most other opisthobranchs probably were cephalaspidean-like. In general, they are specialized for burrowing in soft sediments, and detorsion has moved the mantle cavity to the right or even the posterior end. The shell is usually reduced (as in Bulla), but primitive genera such as Acteon and Hydatina more closely resemble their prosobranch ancestors and have not yet become fully adapted to burrowing."
+    "LEGENDA": "Largest, most primitive taxon. The ancestors of most other opisthobranchs probably were cephalaspidean-like. In general, they are specialized for burrowing in soft sediments, and detorsion has moved the mantle cavity to the right or even the posterior end. "
   },
   {
-    "NUMBER": 134,
+    "NUMBER": "134",
     "NAME": "ANASPIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1876,7 +1876,7 @@ const databaseProcessing = [
     "LEGENDA": "The largest (60 cm in length and 2 kg) opisthobranchs. Feed on seaweeds in shallow water. Shell reduced, buried in the mantle, or completely lost. Body secondarily and imperfectly bilaterally symmetrical."
   },
   {
-    "NUMBER": 135,
+    "NUMBER": "135",
     "NAME": "THECOSOMATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1887,10 +1887,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Pteropods (wing-foot) are two taxa of small, swimming opisthobranchs specialized for a pelagic life. Shelled pteropods have a shell, often have an operculum, and swim using large parapodia. Spiratellidae (Limacina, Spiratella), Cavoliniidae (Cavolinia, Clio), Cymbullidae (Cymbulia, Gleba)."
+    "LEGENDA": "Pteropods (wing-foot) are two taxa of small, swimming opisthobranchs specialized for a pelagic life. Shelled pteropods have a shell, often have an operculum, and swim using large parapodia. Spiratellidae, Cavoliniidae, Cymbullidae."
   },
   {
-    "NUMBER": 136,
+    "NUMBER": "136",
     "NAME": "GYMNOSOMATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1904,7 +1904,7 @@ const databaseProcessing = [
     "LEGENDA": "Shell-less carnivores that specialise in eating thecosomes. Gill is absent in most. Mantle cavity is absent. Gas exchange occurs across the general body surface. Cliopsis, Pneumoderma."
   },
   {
-    "NUMBER": 137,
+    "NUMBER": "137",
     "NAME": "DORIDOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1918,7 +1918,7 @@ const databaseProcessing = [
     "LEGENDA": "Gills encircle anus on posterior dorsum; 26 families, including Chromodoris, Dendrodoris, Doris, Glossodoris, Onchidoris."
   },
   {
-    "NUMBER": 138,
+    "NUMBER": "138",
     "NAME": "DENDRONOTOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1932,7 +1932,7 @@ const databaseProcessing = [
     "LEGENDA": "Simple or branched nematocyst sequestering cerata, secondary gills; 10 families, including Dendronotus, Doto, Hancockia, Scyllaea, Tethys, Tritonia."
   },
   {
-    "NUMBER": 139,
+    "NUMBER": "139",
     "NAME": "ARMINOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1946,7 +1946,7 @@ const databaseProcessing = [
     "LEGENDA": "Platelike gills beneath mantle edge; nine families, including Armina, Piero."
   },
   {
-    "NUMBER": 140,
+    "NUMBER": "140",
     "NAME": "AEOLIDOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1960,7 +1960,7 @@ const databaseProcessing = [
     "LEGENDA": "Simple dorsal, nematocyst-sequestering cerata; 21 families, including Aeolidia, Berghia, Coryphella, Cuthonci, Eubranchus, Facelina, Fiona, Flabellina, Glaucus, Spurilla."
   },
   {
-    "NUMBER": 141,
+    "NUMBER": "141",
     "NAME": "SACOGLOSSA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1974,7 +1974,7 @@ const databaseProcessing = [
     "LEGENDA": "Herbivores that feed on cytoplasm sucked from macroalgae. Shell may or may not be present; a few (Juliidae: Berthelinia, Julia) have a bivalved, clamlike shell, but inside the two valves resides a typical snail. These are the only bivalved gastropods. Others are Elysiidae (Elysia, Tridachia), Stiligeridae (Alderia, Hermaea, Stiliger)."
   },
   {
-    "NUMBER": 142,
+    "NUMBER": "142",
     "NAME": "ACOCHLIDIACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1985,10 +1985,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Small, shell-less, gill-less, interstitial opisthobranchs that live in coarse sediments, sometimes in low salinities or fresh water. Includes Acochlidiidae (Acochlidium, Microhedyle)."
+    "LEGENDA": "Small, shell-less, gill-less, interstitial opisthobranchs that live in coarse sediments, sometimes in low salinities or fresh water. Includes Acochlidiidae (Acochlidium, Microhedyle). "
   },
   {
-    "NUMBER": 143,
+    "NUMBER": "143",
     "NAME": "NOTASPIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -1999,10 +1999,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Diverse group of epifaunal carnivores, many of which feed on sponges or sea squirts. Shell may be present or absent, internal or external. Bilateral symmetry is superficial, a bipectinate gill is present, and the rhinophores have a longitudinal slit. Includes Umbraculidae (Umbraculum), Tylodinidae (Tylodina), Pleurobranchidae (Berthella, Berthellina, Pleurobranchus)."
+    "LEGENDA": "Diverse group of epifaunal carnivores, many of which feed on sponges or sea squirts. Shell may be present or absent, internal or external. Bilateral symmetry is superficial, a bipectinate gill is present, and the rhinophores have a longitudinal slit. Includes Umbraculidae, Tylodinidae, Pleurobranchidae."
   },
   {
-    "NUMBER": 144,
+    "NUMBER": "144",
     "NAME": "BASOMMATOPHORA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -2016,7 +2016,7 @@ const databaseProcessing = [
     "LEGENDA": "Have one pair of tentacles with an eye situated laterally at the base of each. Aquatic. Includes all marine and freshwater pulmonates."
   },
   {
-    "NUMBER": 145,
+    "NUMBER": "145",
     "NAME": "STYLOMMATOPHORA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -2030,7 +2030,7 @@ const databaseProcessing = [
     "LEGENDA": "Including al- most all terrestrial species, this is a far larger taxon than the aquatic Basommatophora. Two pairs of tentacles, although the anterior, lower pair may be inconspicuous. The two eyes are located at the distal tips of the posterior, upper pair."
   },
   {
-    "NUMBER": 146,
+    "NUMBER": "146",
     "NAME": "NAUTILOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -2041,10 +2041,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBCLADE",
-    "LEGENDA": "Small taxon with Nautilus being the only living genus. Soft anatomy of fossil nautiloids is unknown. The four living species have two pairs of gills (tetrabranchiate), two pairs of nephridia, an external (ectocochleate) straight or planispiral chambered shell, abundant arms, pinhole camera eye with no lens, no ink sac, no chromatophores. Shell sutures simple and the many arms lack suckers. Shells of all Recent nautiloids are planispiral. Nautilus, Plectronoceras."
+    "LEGENDA": "Small taxon with Nautilus being the only living genus. Soft anatomy of fossil nautiloids is unknown. The four living species have two pairs of gills (tetrabranchiate), two pairs of nephridia, an external (ectocochleate) straight or planispiral chambered shell, abundant arms, pinhole camera eye with no lens, no ink sac, no chromatophores. "
   },
   {
-    "NUMBER": 147,
+    "NUMBER": "147",
     "NAME": "AMMONOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -2058,7 +2058,7 @@ const databaseProcessing = [
     "LEGENDA": "Extinct and known solely from their shells, which are coiled and external (ectocochleate), with complex interlocking sutures. Ammonoids appeared in the seas of the Silurian period and persisted to the Cretaceous. Ancyloceras, Ceratites, Pachydiscus, Scaphites, Turrilites."
   },
   {
-    "NUMBER": 148,
+    "NUMBER": "148",
     "NAME": "BELEMNOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -2072,77 +2072,77 @@ const databaseProcessing = [
     "LEGENDA": "Extinct. The first known cephalopods with an internal, three-part shell. Soft anatomy unknown. May have been early coleoids or coleoid ancestors."
   },
   {
-    "NUMBER": 149,
+    "NUMBER": "149",
     "NAME": "SPIRULIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
     "CLADE": "CEPHALOPODA",
     "SUBCLADE": "COLEOIDEA",
-    "ORDER": "DECABRANCHIA",
+    "ORDER": "DECABRANCHIA ",
     "SUBORDER": "SEPIOIDEA",
     "FAMILY": "SPIRULIDA",
     "LEVEL": "FAMILY",
     "LEGENDA": "Only one species, Spirula spirula, with internal, calcified, chambered, planispiral shell. Sometimes included in Sepiida."
   },
   {
-    "NUMBER": 150,
+    "NUMBER": "150",
     "NAME": "SEPIIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
     "CLADE": "CEPHALOPODA",
     "SUBCLADE": "COLEOIDEA",
-    "ORDER": "DECABRANCHIA",
+    "ORDER": "DECABRANCHIA ",
     "SUBORDER": "SEPIOIDEA",
     "FAMILY": "SEPIIDA",
     "LEVEL": "FAMILY",
     "LEGENDA": "Cuttlefish. Calcified, internal, chambered, straight, septate shell, or it may be reduced or lost. Body usually is short and broad or saclike. Benthic or pelagic. Sepiidae is the only family, with about 100 species, including Metasepia, Sepia, Sepiella."
   },
   {
-    "NUMBER": 151,
+    "NUMBER": "151",
     "NAME": "SEPIOLIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
     "CLADE": "CEPHALOPODA",
     "SUBCLADE": "COLEOIDEA",
-    "ORDER": "DECABRANCHIA",
+    "ORDER": "DECABRANCHIA ",
     "SUBORDER": "SEPIOIDEA",
     "FAMILY": "SEPIOLIDA",
     "LEVEL": "FAMILY",
     "LEGENDA": "Three families and about 40 species of benthic bobtailed squids with small internal, chitinous pens. Idiosepius, Rossia, Sepiola."
   },
   {
-    "NUMBER": 152,
+    "NUMBER": "152",
     "NAME": "MYOPSIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
     "CLADE": "CEPHALOPODA",
     "SUBCLADE": "COLEOIDEA",
-    "ORDER": "DECABRANCHIA",
+    "ORDER": "DECABRANCHIA ",
     "SUBORDER": "TEUTHOIDEA",
     "FAMILY": "MYOPSIDA",
     "LEVEL": "FAMILY",
     "LEGENDA": "Transparent corneal membrane over eye. Although there are relatively few species, most are coastal and as a consequence tend to be more familiar than the deep-sea oegopsids. Two families. Alloteuthis, Loligo, Lolliguncula, Sepioteuthis."
   },
   {
-    "NUMBER": 153,
+    "NUMBER": "153",
     "NAME": "OEGOPSIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
     "CLADE": "CEPHALOPODA",
     "SUBCLADE": "COLEOIDEA",
-    "ORDER": "DECABRANCHIA",
+    "ORDER": "DECABRANCHIA ",
     "SUBORDER": "TEUTHOIDEA",
     "FAMILY": "OEGOPSIDA",
     "LEVEL": "FAMILY",
     "LEGENDA": "Eyelids and circular pupil, but no corneal membrane. Most squids, and hence most cephalopods, are oegopsids. Eargely pelagic in deep water. Twenty-three families."
   },
   {
-    "NUMBER": 154,
+    "NUMBER": "154",
     "NAME": "VAMPYROMORPHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -2153,10 +2153,10 @@ const databaseProcessing = [
     "SUBORDER": "VAMPYROMORPHA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Characteristics are intermediate between squids and octopods and taxon has been classified with both. Represented in fossil record by several species, but only one, the deep-sea Vampyroteuthis infernalis, is alive today. Small, deep water octopod-like cephalopods with eight arms united by an interbrachial web and two reduced, retractable tentacles. Ink sac and chromatophores have been lost."
+    "LEGENDA": "Characteristics are intermediate between squids and octopods and taxon has been classified with both. Represented in fossil record by several species, but only one, the deep-sea Vampyroteuthis infernalis, is alive today. Small, deep water octopod-like cephalopods with eight arms united by an interbrachial web and two reduced, retractable tentacles."
   },
   {
-    "NUMBER": 155,
+    "NUMBER": "155",
     "NAME": "CIRRATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -2170,7 +2170,7 @@ const databaseProcessing = [
     "LEGENDA": "Small taxon of finned octopods in three families; pelagic, deepwater octopods with gelatinous fins and arms with cirri; arms joined by a broad interbrachial web; ink sac and chromatophores lost and radula reduced. Cirrothauma, Cirroteuthis, and Opisthoteuthis."
   },
   {
-    "NUMBER": 156,
+    "NUMBER": "156",
     "NAME": "INCIRRATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -2184,12 +2184,12 @@ const databaseProcessing = [
     "LEGENDA": "Includes most octopods (eight families). Web and fins lost. Most are benthic. Amphitretus, Argonauta, Eledonella, Enteroctopus, Hapalochlama, Octopus, Ozaena, Vitrelodonella."
   },
   {
-    "NUMBER": 157,
+    "NUMBER": "157",
     "NAME": "NUCULOIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
-    "CLADE": "BIVALVIA",
+    "CLADE": "BIVALVIA ",
     "SUBCLADE": "PROTOBRANCHIA",
     "ORDER": "----------------------------",
     "SUBORDER": "NUCULOIDA",
@@ -2198,12 +2198,12 @@ const databaseProcessing = [
     "LEGENDA": "Nut clams. Equivalve shells with a row of short, similar teeth (taxodont) along the hinge. Nuculidae (Nucula), Nuculanidae (Nuculana, Yoldia), Malletiidae (Malletia)."
   },
   {
-    "NUMBER": 158,
+    "NUMBER": "158",
     "NAME": "SOLEMYOIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
-    "CLADE": "BIVALVIA",
+    "CLADE": "BIVALVIA ",
     "SUBCLADE": "PROTOBRANCHIA",
     "ORDER": "----------------------------",
     "SUBORDER": "SOLEMYOIDA",
@@ -2212,12 +2212,12 @@ const databaseProcessing = [
     "LEGENDA": "Valves thin, equivalve, elongate. Periostracum extends well beyond the edges of the valves and is responsible for the common name, awning clam. No hinge teeth. Solemyidae (awning clams; Solemya)"
   },
   {
-    "NUMBER": 159,
+    "NUMBER": "159",
     "NAME": "TRIGONIOIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
-    "CLADE": "BIVALVIA",
+    "CLADE": "BIVALVIA ",
     "SUBCLADE": "METABRANCHIA",
     "ORDER": "FILIBRANCHIA",
     "SUBORDER": "TRIGONIOIDA",
@@ -2226,40 +2226,40 @@ const databaseProcessing = [
     "LEGENDA": "Small taxon with five species in a single genus, Trigonia (formerly Neotrigonia), in Trigoniidae. Valves triangular. Hinge teeth strong, consisting of one long, grooved tooth anterior and one posterior to the beak."
   },
   {
-    "NUMBER": 160,
+    "NUMBER": "160",
     "NAME": "PTERIOMORPHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
-    "CLADE": "BIVALVIA",
+    "CLADE": "BIVALVIA ",
     "SUBCLADE": "METABRANCHIA",
     "ORDER": "FILIBRANCHIA",
     "SUBORDER": "PTERIOMORPHA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Large taxon of epibenthic bivalves attached by byssusorcementation. Mantle margins not fused. Mytilidae (marine mussels; Bathymodiolus, Brachidontes, Geukensia, Lithophaga, Modiolus, Mytilus), Arcidae (arks; Anadara, Area, Barbatia, Glycymeris, Noetia), Pectinidae (scallops; Aequipecten, Argopecten, Chlamys, Pecten, Placopecten), Ostreidae (oysters; Crassostrea, Lopha, Ostrea), Anomiidae (jingles; Anomia), Pinnidae (pen clams; Pinna, Atrina), Pteriidae (winged oysters; Isognomon, Malleus, Pinctada, Pteria), Limidae (file clams; Lima)."
+    "LEGENDA": "Large taxon of epibenthic bivalves attached by byssusorcementation. Mantle margins not fused. Mytilidae , Arcidae, Pectinidae, Ostreidae, Anomiidae, Pinnidae, Pteriidae, Limidae."
   },
   {
-    "NUMBER": 161,
+    "NUMBER": "161",
     "NAME": "UNIONIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
-    "CLADE": "BIVALVIA",
+    "CLADE": "BIVALVIA ",
     "SUBCLADE": "METABRANCHIA",
     "ORDER": "EULAMELLIBRANCHIA",
     "SUBORDER": "UNIONIDA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Important freshwater bivalves. Shells are equivalve, have few hinge teeth. A nacreous layer covers the interior of the shell and the siphons are usually poorly developed. Unionidae (pearly mussels; Anodonta, Elliptio, Lampsilis, Unio), Margaritiferidae (freshwater pearl mussels; Cumberlandia, Margaritifera), Mutelidae (African; Mutela), Etheriidae (freshwater oysters), and Hydriidae (Australasian; Hydridella, Velesunio)."
+    "LEGENDA": "Important freshwater bivalves. Shells are equivalve, have few hinge teeth. A nacreous layer covers the interior of the shell and the siphons are usually poorly developed. Unionidae, Margaritiferidae, Mutelidae, Etheriidae, and Hydriidae."
   },
   {
-    "NUMBER": 162,
+    "NUMBER": "162",
     "NAME": "VENEROIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
-    "CLADE": "BIVALVIA",
+    "CLADE": "BIVALVIA ",
     "SUBCLADE": "METABRANCHIA",
     "ORDER": "EULAMELLIBRANCHIA",
     "SUBORDER": "VENEROIDA",
@@ -2268,12 +2268,12 @@ const databaseProcessing = [
     "LEGENDA": "Shell usually is equivalve and lacks a nacreous layer. Most are burrowers with siphons. Lasaeidae, Chamidae, Cardiidae, Tridacnidae, Mactridae, Solenidae, Tellinidae, Semelidae, Vescomyidae, Donacidae, Solecurtidae, Sphaeriidae, Dreissenidae, Veneridae, Petricolidae, and Corbiculidae."
   },
   {
-    "NUMBER": 163,
+    "NUMBER": "163",
     "NAME": "LUCINOIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
-    "CLADE": "BIVALVIA",
+    "CLADE": "BIVALVIA ",
     "SUBCLADE": "METABRANCHIA",
     "ORDER": "EULAMELLIBRANCHIA",
     "SUBORDER": "LUCINOIDA",
@@ -2282,12 +2282,12 @@ const databaseProcessing = [
     "LEGENDA": "Specialized bivalves similar to veneroids. Inhalant siphon lost, foot used to con- struct a substitute siphon of mucus. Anterior adductor muscle scar has a distinctive fingerlike ventral extension lying beside pallial line. Hinge has two cardinal teeth. Pallial sinus absent. Valves circular or oval. Lucinidae."
   },
   {
-    "NUMBER": 164,
+    "NUMBER": "164",
     "NAME": "MYOIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
-    "CLADE": "BIVALVIA",
+    "CLADE": "BIVALVIA ",
     "SUBCLADE": "METABRANCHIA",
     "ORDER": "EULAMELLIBRANCHIA",
     "SUBORDER": "MYOIDA",
@@ -2296,12 +2296,12 @@ const databaseProcessing = [
     "LEGENDA": "Most are thin-shelled borers with well-developed siphons. Hinge with one or two cardinal teeth but no laterals. Mantle margins fused and shell has no nacreous layer. Myidae, Corbulidae, Hiatellidae, Gastrochaenidae, Pholadidae, Teredinidae."
   },
   {
-    "NUMBER": 165,
+    "NUMBER": "165",
     "NAME": "ANOMALODESMATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
-    "CLADE": "BIVALVIA",
+    "CLADE": "BIVALVIA ",
     "SUBCLADE": "METABRANCHIA",
     "ORDER": "EULAMELLIBRANCHIA",
     "SUBORDER": "ANOMALODESMATA",
@@ -2310,12 +2310,12 @@ const databaseProcessing = [
     "LEGENDA": "Small group with no hinge teeth. Adductor muscles are isomyarian. Shell has a nacreous layer. Pandoridae, Lyonsiidae, Pholadomyidae."
   },
   {
-    "NUMBER": 166,
+    "NUMBER": "166",
     "NAME": "SEPTIBRANCHIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
     "SUBPHYLUM": "CONCHIERA",
-    "CLADE": "BIVALVIA",
+    "CLADE": "BIVALVIA ",
     "SUBCLADE": "METABRANCHIA",
     "ORDER": "EULAMELLIBRANCHIA",
     "SUBORDER": "SEPTIBRANCHIA",
@@ -2324,7 +2324,7 @@ const databaseProcessing = [
     "LEGENDA": "Carnivorous with septate gills and enlarged inhalant siphon. Poromyidae."
   },
   {
-    "NUMBER": 167,
+    "NUMBER": "167",
     "NAME": "DENTALIIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -2338,7 +2338,7 @@ const databaseProcessing = [
     "LEGENDA": "Shell is tusk shaped, reaching its maximum diameter at the anterior aperture. Foot is conical. Two digestive ceca. Anulidentalium, Dentalium, Ebisiphon rustiaria."
   },
   {
-    "NUMBER": 168,
+    "NUMBER": "168",
     "NAME": "GADILIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "MOLLUSCA",
@@ -2352,7 +2352,7 @@ const databaseProcessing = [
     "LEGENDA": "Shell usually resembles a canine tooth, with its greatest diameter posterior to the anterior aperture, although some are tusklike. Foot is vermiform and capable of distal expansion to form a terminal disc. Only one digestive cecum. Cadulus, Costentalina, Entalina, Gaaila, Polyschides, Pulsellum, Solenoxiphus."
   },
   {
-    "NUMBER": 169,
+    "NUMBER": "169",
     "NAME": "ARENICOLIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2363,10 +2363,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "ARENICOLIDEA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Lugworms are common direct deposit feeders. Arenicola (and Abarenicold) lives in an L-shaped burrow that opens to the surface on the long side. The head of the worm is situated at the blind end of the horizontal part of the burrow, where sand is continually ingested by means of a simple pharynx. The ingested sand is rich in surface organic material, which tumbles into the surface depression above the animal’s head and slumps downward to the worm. Cilia in the everted pharynx drive loose particles into the gut, and some particle sorting occurs."
+    "LEGENDA": "Lugworms are common direct deposit feeders. Arenicola (and Abarenicold) lives in an L-shaped burrow that opens to the surface on the long side. The head of the worm is situated at the blind end of the horizontal part of the burrow, where sand is continually ingested by means of a simple pharynx. "
   },
   {
-    "NUMBER": 170,
+    "NUMBER": "170",
     "NAME": "MALDANIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2377,10 +2377,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "MALDANIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Bamboo worms, such as Clymenella and Axiothella, are deposit-feeding tube dwellers. Their sand-grain tubes, which resemble beverage straws, are common in the intertidal zone. Bamboo worms have wedge like heads; long, distinct segments and segment joints that have the appearance of bamboo cane and its joints; and parapodia reduced to low ridges. The worms live upside down in their tubes and ingest the substratum from below."
+    "LEGENDA": "Bamboo worms, such as Clymenella and Axiothella, are deposit-feeding tube dwellers. Their sand-grain tubes, which resemble beverage straws, are common in the intertidal zone. Bamboo worms have wedge like heads; long, distinct segments and segment joints that have the appearance of bamboo cane and its joints."
   },
   {
-    "NUMBER": 171,
+    "NUMBER": "171",
     "NAME": "CAPITELLIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2391,10 +2391,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "CAPITELLIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Earthwormlike with reduced parapodia and no head appendages. Like earthworms, most feed on sediment as they burrow through it. Most capitellids are red because of abundant hemoglobin in the coelomic fluid. Pressurized coelomic fluid everts the thin-walled pharynx, which in living animals resembles a blood blister. Most capitellids are small, but one, the giant (80 cm) Notomastus lobatus (maitre d’worm), lives in clayey sediment along the southeastern coast of the United States. It occupies a permanent helical burrow that it shares with no fewer than eight species of commensals, including one scaleworm and two other polychaetes, three clams, acrab, and anamphipod. Capitella."
+    "LEGENDA": "Earthwormlike with reduced parapodia and no head appendages. Like earthworms, most feed on sediment as they burrow through it. Most capitellids are red because of abundant hemoglobin in the coelomic fluid. Pressurized coelomic fluid everts the thin-walled pharynx, which in living animals resembles a blood blister. "
   },
   {
-    "NUMBER": 172,
+    "NUMBER": "172",
     "NAME": "ORBINIIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2408,7 +2408,7 @@ const databaseProcessing = [
     "LEGENDA": "Earthwormlike in form and habits. They are often red or orange, depending on species. The prostomium lacks appendages. Proceeding from anterior to posterior along the body, the parapodia shift from lateral to dorsal. The eversible pharynx resembles that of capitellids, but orbiniids such as Orbinia ornata and Scoloplos rubra have paired comblike gills, derived from dorsal cirri, that arch over their backs."
   },
   {
-    "NUMBER": 173,
+    "NUMBER": "173",
     "NAME": "OPHELIIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2419,10 +2419,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "OPHELIIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Includes burrowers that ingest sediment with an eversible bulbous pharynx. They often have lateral gills, and sometimes lateral eyes. Some, such as Travisia, resemble short, fat, sluggish grubs. Ophelia and Armandia are fishlike, streamlined, and fast, being adapted to live in current-swept sand. They move like fish, too, swimming rapidly through either loose sand or water. Among other adaptations for swimming, their pygiclium is modified into a tail fin. They so closely resemble amphioxus (Chordata) that collectors often mistake the annelid for the chordate. Euzonus."
+    "LEGENDA": "Includes burrowers that ingest sediment with an eversible bulbous pharynx. They often have lateral gills, and sometimes lateral eyes. Some, such as Travisia, resemble short, fat, sluggish grubs. Ophelia and Armandia are fishlike, streamlined, and fast, being adapted to live in current-swept sand. "
   },
   {
-    "NUMBER": 174,
+    "NUMBER": "174",
     "NAME": "PHYLLODOCIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2436,7 +2436,7 @@ const databaseProcessing = [
     "LEGENDA": "Paddleworms such as Eteone, Eulalia, and Phyllodoce have greatly flattened, paddlelike notopodia that are used as gills. Carnivores; actively crawl and seize prey with an eversible, muscular, unarmed pharynx. Eteone species find food by tracking the mucous trails laid down by prey on the surface of the mudflat."
   },
   {
-    "NUMBER": 175,
+    "NUMBER": "175",
     "NAME": "TOMOPTERIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2450,7 +2450,7 @@ const databaseProcessing = [
     "LEGENDA": "Pelagic, transparent carnivores. Tomopteris is dorsoventrally flattened, lacks chaetae, and has very long cirri on segment."
   },
   {
-    "NUMBER": 176,
+    "NUMBER": "176",
     "NAME": "ALCIOPIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2464,7 +2464,7 @@ const databaseProcessing = [
     "LEGENDA": "Pelagic, transparent carnivores. Vanadis and Rhynchonerella resemble paddleworms (Phyllodocidae), but have enormous, bulging eyes with which to locate prey."
   },
   {
-    "NUMBER": 177,
+    "NUMBER": "177",
     "NAME": "NEREIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2475,10 +2475,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "NEREIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Ragworms such as Nereis (and other genera) actively crawl, burrow, and occasionally swim. Pharynx is muscular, eversible, and has a pair of stout jaws. Head has two antennae, two palps, four eyes, and four pairs of tentacular cirri. Some, such as Nereispelagicct, Nereis virens, and Nereis diversicolor, are omnivores that feed on algae, other invertebrates, and even detritus. Nereis succinea and Nereis longissima feed primarily on detritus in the sediments. Nereisfucata, a commensal with the hermit crab, is carnivorous. Nereis brandti, of the northwest coast of the United States, reaches 1.8 m in length and feeds primarily on green algae. Ceratonereis, Platynereis."
+    "LEGENDA": "Ragworms such as Nereis (and other genera) actively crawl, burrow, and occasionally swim. Pharynx is muscular, eversible, and has a pair of stout jaws. Head has two antennae, two palps, four eyes, and four pairs of tentacular cirri. Some, such as Nereispelagicct, Nereis virens, and Nereis diversicolor, are omnivores that feed on algae, other invertebrates, and even detritus. "
   },
   {
-    "NUMBER": 178,
+    "NUMBER": "178",
     "NAME": "GLYCERIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2492,7 +2492,7 @@ const databaseProcessing = [
     "LEGENDA": "Glycera (the bloodworm) and other genera occupy a subsurface gallery excavated in muddy bottoms. The gallery contains numerous loops that open to the surface. Lying in wait at the bottom of a loop, the worm uses its four tiny, vibration-sensitive antennae to detect surface movements of prey, such as small crustaceans. It then moves to the burrow opening and seizes the prey with its pharynx."
   },
   {
-    "NUMBER": 179,
+    "NUMBER": "179",
     "NAME": "NEPHTYIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2503,10 +2503,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "NEPHTYIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Similar to bloodworms (Glyceridae). Have a long, eversible pharynx, but only two jaws instead of four; carnivores of worms and small crustaceans. Nephtys and other nephtyids are called shimmy worms for their rapid, almost vibratory lateral undulations of the body while swimming or burrowing in loose sand; some- times called cat worms because the anterior prostomial margin bears two triangular palps that resemble a cat’s ears."
+    "LEGENDA": "Similar to bloodworms (Glyceridae). Have a long, eversible pharynx, but only two jaws instead of four; carnivores of worms and small crustaceans. Nephtys and other nephtyids are called shimmy worms for their rapid, almost vibratory lateral undulations of the body while swimming or burrowing in loose sand."
   },
   {
-    "NUMBER": 180,
+    "NUMBER": "180",
     "NAME": "APHRODITIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2517,10 +2517,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "APHRODITIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Scaleworms, called such because of two rows of overlapping scales on the dorsal surface resembling fish scales. Each scale is a highly modified dorsal cirrus called an elytron (pi., elytra) that is borne on a short stalk.   Because most live in tight quarters, the scales may channel the ventilating water current between the scales and body wall. Elytra also bear a variety of sensory structures. In the scaleworm Aphrodite (the sea mouse), the entire dorsal surface, including the elytra, is covered with hairlike “felt” composed of long notopodial chaetae that trail back over the dorsal surface of the animal. Scale worms are considered to be carnivores, but little is known about the feeding habits of commensal species. Aphroditidae: Aphrodite, Laetmonice; Polynoidae: Arctonoe, Halosynda, Harmothoe, Lepidasthenia, Lepidonotus; Polyodontidae: Polyodontes; Sigalionidae: Sthenelais. May also include Thalanessa."
+    "LEGENDA": "Scaleworms, called such because of two rows of overlapping scales on the dorsal surface resembling fish scales. Each scale is a highly modified dorsal cirrus called an elytron (pi., elytra) that is borne on a short stalk.   Because most live in tight quarters, the scales may channel the ventilating water current between the scales and body wall. Elytra also bear a variety of sensory structures. "
   },
   {
-    "NUMBER": 181,
+    "NUMBER": "181",
     "NAME": "POLYNOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2531,10 +2531,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "POLYNOIDEA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Scaleworms, called such because of two rows of overlapping scales on the dorsal surface resembling fish scales. Each scale is a highly modified dorsal cirrus called an elytron (pi., elytra) that is borne on a short stalk. These scaleworms are secretive and occupy tight crevices beneath stones (polynoids)"
+    "LEGENDA": "Scaleworms, called such because of two rows of overlapping scales on the dorsal surface resembling fish scales. Each scale is a highly modified dorsal cirrus called an elytron that is borne on a short stalk. These scaleworms are secretive and occupy tight crevices beneath stones (polynoids)"
   },
   {
-    "NUMBER": 182,
+    "NUMBER": "182",
     "NAME": "POLYODONTIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2545,10 +2545,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "POLYODONTIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Scaleworms, called such because of two rows of overlapping scales on the dorsal surface resembling fish scales. Each scale is a highly modified dorsal cirrus called an elytron (pi., elytra) that is borne on a short stalk.  a few scaleworms live in secreted tubes (polyodontids)"
+    "LEGENDA": "Scaleworms, called such because of two rows of overlapping scales on the dorsal surface resembling fish scales. Each scale is a highly modified dorsal cirrus called an elytron that is borne on a short stalk.  a few scaleworms live in secreted tubes (polyodontids)"
   },
   {
-    "NUMBER": 183,
+    "NUMBER": "183",
     "NAME": "SIGALIONIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2562,7 +2562,7 @@ const databaseProcessing = [
     "LEGENDA": "Scaleworms, called such because of two rows of overlapping scales on the dorsal surface resembling fish scales. Each scale is a highly modified dorsal cirrus called an elytron (pi., elytra) that is borne on a short stalk. A few scaleworms burrow (sigalionids)."
   },
   {
-    "NUMBER": 184,
+    "NUMBER": "184",
     "NAME": "HESIONIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2573,10 +2573,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "HESIONIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Active commensals or free living (Ophiodromus, Podarke) and a few tiny species in the interstitial habitat, the labyrinthine water-filled spaces between grains of sand. Of the latter, Hesionides crawls in typical polychaete fashion using parapodia, but interstitial polychaetes of Saccocirridae, Protodrilidae, Polygordiidae (Polygordius), and Diurodrilidae have lost the parapodia and rely on cilia for locomotion. Although previously classified as Archiannelida because of their simple body design (and small size), Diurodrilidae is now considered to be a member of Eunicida (discussed below), whereas the remaining families are tentatively placed within Canalipalpata (also discussed below)."
+    "LEGENDA": "Active commensals or free living (Ophiodromus, Podarke) and a few tiny species in the interstitial habitat, the labyrinthine water-filled spaces between grains of sand. Of the latter, Hesionides crawls in typical polychaete fashion using parapodia, but interstitial polychaetes of Saccocirridae, Protodrilidae, Polygordiidae (Polygordius), and Diurodrilidae have lost the parapodia and rely on cilia for locomotion. "
   },
   {
-    "NUMBER": 185,
+    "NUMBER": "185",
     "NAME": "MYZOSTOMIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2587,10 +2587,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "MYZOSTOMIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Commensals on sea lilies and feather stars or internal parasites of sea stars (Echinodermata). Myzostoma and relatives are little worms that rarely exceed 5 mm in length and superficially resemble flatworms, but when disturbed they scoot rapidly away on stubby legs, each one terminating in a hooked chaeta. Oval body is greatly flattened; five pairs of parapodia on the undersurfacc. Parapodia, chaetae, and segmented nervous system indicate that Myzostomida belongs to Polychaeta, but its sister taxon is unknown; placement in Aciculata is provisional."
+    "LEGENDA": "Commensals on sea lilies and feather stars or internal parasites of sea stars (Echinodermata). Myzostoma and relatives are little worms that rarely exceed 5 mm in length and superficially resemble flatworms, but when disturbed they scoot rapidly away on stubby legs, each one terminating in a hooked chaeta."
   },
   {
-    "NUMBER": 186,
+    "NUMBER": "186",
     "NAME": "EUNICIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2601,10 +2601,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "EUNICIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Members have a muscular, eversible pharynx that bears two stout mandibles and other accessory teeth. Includes the longest polychaete, Eunice aphroditois, a 3-m-long carnivorore from the tropical Indo-Pacific. Palola, some species of which are known as palolo worms, are famous for epitokal swarming and their savory flavor. Marphysa burrows in fine muddy sands, and Lysidice, like Palola, occurs in coralline rock."
+    "LEGENDA": "Members have a muscular, eversible pharynx that bears two stout mandibles and other accessory teeth. Includes the longest polychaete, Eunice aphroditois, a 3-m-long carnivorore from the tropical Indo-Pacific. Palola, some species of which are known as palolo worms, are famous for epitokal swarming and their savory flavor. "
   },
   {
-    "NUMBER": 187,
+    "NUMBER": "187",
     "NAME": "AMPHINOMIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2615,10 +2615,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "AMPHINOMIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Mostly large, chiefly tropical, often beautifully colored, caterpillar-like fireworms are carnivores living on corals and driftwood, beneath stones, occasionally in sediment. Eat coral polyps, anemones, stalked barnacles, and other sessile invertebrates by prying them loose with a muscular lower lip and sucking them in whole. Goose barnacles (Lepas) ingested whole and later defecated as museum-quality barnacle shells. Fireworms are notorious for their defensive chaetae, which are uniquely calcified, brittle, and toxic. When bare skin brushes against the chaetae, they penetrate the skin, break free of the worm, and create a burning pain. Avoided by fish and experienced scuba divers. Amphinome, Chloeia, Eurythoe, Hermodice."
+    "LEGENDA": "Mostly large, chiefly tropical, often beautifully colored, caterpillar-like fireworms are carnivores living on corals and driftwood, beneath stones, occasionally in sediment. Eat coral polyps, anemones, stalked barnacles, and other sessile invertebrates by prying them loose with a muscular lower lip and sucking them in whole. "
   },
   {
-    "NUMBER": 188,
+    "NUMBER": "188",
     "NAME": "ONUPHIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2629,10 +2629,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "ONUPHIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Tube-dwelling aciculates; tubes are protective retreats and the occupants crawl actively within them by using well-developed parapodia. Diopatra, Onuphis, and Americonuphis build tough, conspicuous, membranous tubes that project vertically above the surface of the sand. The tube’s chimney is crooked and flared like a ship’s ventilator funnel. The chimneys are covered with bits of shell, seaweed, and other debris that the worm collects and positions with its jaws. Such ornamentation provides camouflage, and some worms graze on the algae planted on their own as well as their neighbors’ chimneys."
+    "LEGENDA": "Tube-dwelling aciculates; tubes are protective retreats and the occupants crawl actively within them by using well-developed parapodia. Diopatra, Onuphis, and Americonuphis build tough, conspicuous, membranous tubes that project vertically above the surface of the sand. "
   },
   {
-    "NUMBER": 189,
+    "NUMBER": "189",
     "NAME": "SYLLIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2643,10 +2643,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "SYLLIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "The tiny, abundant, diverse syllids are the polychaete answer to mosquitoes. They pierce prey with a pharyngeal tooth and then suck out the contents with a specialized, muscular part of the pharynx, the proventriculus. Mostly in shallow water and common on coral reefs, in fouling communities. Typical prey are hydroids, sponges, bryozoans, and other sessile invertebrates. Autolytus, Odontosyllis, Myrianida, Plakosyllis, Proceraea, Syllis, Typosyllis, Trypanosyllis, and many others."
+    "LEGENDA": "The tiny, abundant, diverse syllids are the polychaete answer to mosquitoes. They pierce prey with a pharyngeal tooth and then suck out the contents with a specialized, muscular part of the pharynx, the proventriculus. Mostly in shallow water and common on coral reefs, in fouling communities."
   },
   {
-    "NUMBER": 190,
+    "NUMBER": "190",
     "NAME": "OENONIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2657,10 +2657,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "OENONIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Includes Arabella tricolor (the opalworm) and Drilonereis (the threadworms). Slender, often threadlike burrowers; some are direct deposit feeders, others are carnivores with well- developed pharyngeal jaws. Cuticle usually is glossy and iridescent. Curiously, juveniles of several species are endoparasites in the coelomic cavities of other polychaetes and echiurans. Labrorostratus."
+    "LEGENDA": "Includes Arabella tricolor (the opalworm) and Drilonereis (the threadworms). Slender, often threadlike burrowers; some are direct deposit feeders, others are carnivores with well- developed pharyngeal jaws. Cuticle usually is glossy and iridescent. "
   },
   {
-    "NUMBER": 191,
+    "NUMBER": "191",
     "NAME": "LUMBRINERIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2674,7 +2674,7 @@ const databaseProcessing = [
     "LEGENDA": "Slender burrowers with reduced head appendages, well-developed pharynx and jaws. Carnivores. Lumbrineris."
   },
   {
-    "NUMBER": 192,
+    "NUMBER": "192",
     "NAME": "ICHTHYOTOMIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2688,7 +2688,7 @@ const databaseProcessing = [
     "LEGENDA": "Ectoparasitic on eel fins. Ichthyotomus."
   },
   {
-    "NUMBER": 193,
+    "NUMBER": "193",
     "NAME": "SPIONIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2699,10 +2699,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "SPIONIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Tube-dwelling palp worms are either surface deposit feeders or suspension feeders; some may be both. Two long peristomial palps project from the tube opening and extend over the bottom. Particles that ad here to the surface are transported to the mouth in a ciliated channel along the length of each palp. Tubes of Spio, Scolelepis, and Streblospio generally are soft, straight, and cylindrical and have incorporated sand or mud, but the suspension-feeding Polydora bores into calcareous substrates, including the shells of living oysters, in which they form unsightly shell “blisters.”"
+    "LEGENDA": "Tube-dwelling palp worms are either surface deposit feeders or suspension feeders; some may be both. Two long peristomial palps project from the tube opening and extend over the bottom. Particles that ad here to the surface are transported to the mouth in a ciliated channel along the length of each palp. "
   },
   {
-    "NUMBER": 194,
+    "NUMBER": "194",
     "NAME": "MAGELONIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2713,10 +2713,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "MAGELONIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Shovel-headed borrowers that have a stiff, flat, spatulate prostomium that over hangs the mouth. The long peristomial palps are covered with short, sticky papillae that collect and pass deposited organic particles to the mouth. The threadlike worms are violet because of hemerythrin-containing hemocytes, unique among polychaetes. Magelonids such as Magelona are the only polychaetes with cross-striated muscles, the significance of which has yet to be determined."
+    "LEGENDA": "Shovel-headed borrowers that have a stiff, flat, spatulate prostomium that over hangs the mouth. The long peristomial palps are covered with short, sticky papillae that collect and pass deposited organic particles to the mouth. "
   },
   {
-    "NUMBER": 195,
+    "NUMBER": "195",
     "NAME": "CHAETOPRIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2727,10 +2727,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "CHAETOPRIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Filter feeders that have straight (vertical) or U-shaped tubes partially buried in sand on protected beaches. Chaetopterus, Mesochaetopterus, Spiochaetopterus filter feed with one or more mucous nets suspended inside of the tube. As the water passes through, plankton are strained out and periodically the net and food are rolled up into a ball and swallowed."
+    "LEGENDA": "Filter feeders that have straight (vertical) or U-shaped tubes partially buried in sand on protected beaches. Chaetopterus, Mesochaetopterus, Spiochaetopterus filter feed with one or more mucous nets suspended inside of the tube. "
   },
   {
-    "NUMBER": 196,
+    "NUMBER": "196",
     "NAME": "TEREBELLIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2741,10 +2741,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "TEREBELLIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Spaghetti worms occupy tubes or simple vertical or U-shaped burrows in the sediment. Prostomial sensory appendages are absent, but clusters of highly extensible tentacles are borne on the head. Movement through the burrow usually is by peristaltic contractions. The parapodia are greatly reduced and are in part represented by transverse ridges provided with uncini, which grip the sides of the burrow. In terebellids such as Amphitrite, which occupies a U-shaped burrow, the hooks are oriented oppositely on the anterior and posterior ends of the animal. As a result, attempts to pull the worm from either the head or tail end of its burrow are opposed by the uncini. Other common genera include Lanice, Lysilla, Terebella, Thelepus."
+    "LEGENDA": "Spaghetti worms occupy tubes or simple vertical or U-shaped burrows in the sediment. Prostomial sensory appendages are absent, but clusters of highly extensible tentacles are borne on the head. Movement through the burrow usually is by peristaltic contractions. The parapodia are greatly reduced and are in part represented by transverse ridges provided with uncini."
   },
   {
-    "NUMBER": 197,
+    "NUMBER": "197",
     "NAME": "AMPHARETIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2758,7 +2758,7 @@ const databaseProcessing = [
     "LEGENDA": "Ampharete and Melinna (spaghetti-mouth worms) are surface deposit feeders similar to terebellids that use extensible tentacles. Unlike terebellids, however, the tentacles originate from the roof of the mouth and can be withdrawn into it. Ampharetids occupy straight, vertical tubes, from which they emerge head first to feed on detritus."
   },
   {
-    "NUMBER": 198,
+    "NUMBER": "198",
     "NAME": "CIRRATILIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2772,7 +2772,7 @@ const databaseProcessing = [
     "LEGENDA": "Fringed worms, such as Cirratulus and Cirriformia, are burrowers that deposit feed with a single pair, or two anterior clusters, of long feeding palps. A pair of long gill filaments, similar in appearance to the palps, occurs on each of many body segments. Dodecaceria."
   },
   {
-    "NUMBER": 199,
+    "NUMBER": "199",
     "NAME": "PECTINARIIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2783,10 +2783,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "PECTINARIIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Amphictene, Cistenides, and Pectinaria (scaphopod like ice cream cone worms) construct a conical, one-layer-thick tube of cemented sand grains. The tube is open at its base and apex and the worm occupies it with its head at the broad basal end. Tube and worm are oriented head down in fine sand; the tube apex projects just above the sediment surface. Organics-rich sand is shoveled into the mouth with short, stout, golden chaetae (paleae), which together function as an operculum to close the tube aperture when the worm withdraws. Feces are released to the surface of the beach through the tube apex, which also provides an inlet for ventilating the gill surfaces."
+    "LEGENDA": "Amphictene, Cistenides, and Pectinaria (scaphopod like ice cream cone worms) construct a conical, one-layer-thick tube of cemented sand grains. The tube is open at its base and apex and the worm occupies it with its head at the broad basal end. Tube and worm are oriented head down in fine sand."
   },
   {
-    "NUMBER": 200,
+    "NUMBER": "200",
     "NAME": "FLABELLIGERIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2800,7 +2800,7 @@ const databaseProcessing = [
     "LEGENDA": "Burrowers with cephalic gills that can be retracted with the prostomium into the anterior segments. Extended gills and feeding palps are enclosed in a “cage” of long anterior chaetae. Cuticle has embedded sand grains. Hemocytes have chlorocruorin. Flabelligera, Piromis."
   },
   {
-    "NUMBER": 201,
+    "NUMBER": "201",
     "NAME": "OWENIIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2811,10 +2811,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "OWENIIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Owenia fusiformis (shingle-tube worm; builds a cylindrical tube of flat shell fragments incorporated into the organic tube fabric like overlapping roof tiles or shingles. The tube, head-end up, is oriented vertically in the beach and projects slightly above the sediment surface. The free edges of the shell shingles are oriented upward, making it difficult for a bird or current to dislodge the tube from the sand. The overlapping arrangement of the shell fragments also allows the tube to elongate, shorten, and bend as the worm within it moves."
+    "LEGENDA": "Owenia fusiformis (shingle-tube worm; builds a cylindrical tube of flat shell fragments incorporated into the organic tube fabric like overlapping roof tiles or shingles. The tube, head-end up, is oriented vertically in the beach and projects slightly above the sediment surface. The free edges of the shell shingles are oriented upward, making it difficult for a bird or current to dislodge the tube from the sand. "
   },
   {
-    "NUMBER": 202,
+    "NUMBER": "202",
     "NAME": "SABELLARIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2825,10 +2825,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "SABELLARIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Sabellaria and Phragmatopoma (mason worms) build straight or curved cylindrical sand-grain tubes with walls more than one grain thick. The worms typically aggregate, sometimes by the millions, and cement their tubes together to form hard crusts or boulder-size mounds that resemble giant honeycombs. In warm-water areas such as the eastern coast of southern Florida and parts of England, these shallow-water structures form reefs that often are degraded by storms but quickly rebuilt. Anteriorly, two fused segments have grown forward and dorsally to form an operculum for blocking the tube entrance."
+    "LEGENDA": "Sabellaria and Phragmatopoma (mason worms) build straight or curved cylindrical sand-grain tubes with walls more than one grain thick. The worms typically aggregate, sometimes by the millions, and cement their tubes together to form hard crusts or boulder-size mounds that resemble giant honeycombs."
   },
   {
-    "NUMBER": 203,
+    "NUMBER": "203",
     "NAME": "SABELLIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2839,10 +2839,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "SABELLIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Among the most beautiful of the sedentary polychaetes are the fan worms, feather duster worms, or Christmas-tree worms. These families have prostomial palps that form a funnel shaped or spiral crown of from a few to many bipinnate tentacles called radioles; the side branches of each are the pinnules. The radioles are rolled up or folded together as the worm withdraws into its protective tube. Sabellids build membranous or sand-grain tubes. Because serpulids and spirorbids secrete calcareous tubes attached to rocks, shells, or algae, they can live protected on more or less exposed substrata."
+    "LEGENDA": "Among the most beautiful of the sedentary polychaetes are the fan worms, feather duster worms, or Christmas-tree worms. These families have prostomial palps that form a funnel shaped or spiral crown of from a few to many bipinnate tentacles called radioles; the side branches of each are the pinnules."
   },
   {
-    "NUMBER": 204,
+    "NUMBER": "204",
     "NAME": "SERPULIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2853,10 +2853,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "SERPULIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Among the most beautiful of the sedentary polychaetes are the fan worms, feather duster worms, or Christmas-tree worms. These families have prostomial palps that form a funnel shaped or spiral crown of from a few to many bipinnate tentacles called radioles; the side branches of each are the pinnules. The radioles are rolled up or folded together as the worm withdraws into its protective tube. Sabellids build membranous or sand-grain tubes. Because serpulids and spirorbids secrete calcareous tubes attached to rocks, shells, or algae, they can live protected on more or less exposed substrata."
+    "LEGENDA": "Among the most beautiful of the sedentary polychaetes are the fan worms, feather duster worms, or Christmas-tree worms. These families have prostomial palps that form a funnel shaped or spiral crown of from a few to many bipinnate tentacles called radioles; the side branches of each are the pinnules. "
   },
   {
-    "NUMBER": 205,
+    "NUMBER": "205",
     "NAME": "SPIRORBIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2867,10 +2867,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "SPIRORBIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Among the most beautiful of the sedentary polychaetes are the fan worms, feather duster worms, or Christmas-tree worms. These families have prostomial palps that form a funnel shaped or spiral crown of from a few to many bipinnate tentacles called radioles; the side branches of each are the pinnules. The radioles are rolled up or folded together as the worm withdraws into its protective tube. Sabellids build membranous or sand-grain tubes. Because serpulids and spirorbids secrete calcareous tubes attached to rocks, shells, or algae, they can live protected on more or less exposed substrata."
+    "LEGENDA": "Among the most beautiful of the sedentary polychaetes are the fan worms, feather duster worms, or Christmas-tree worms. These families have prostomial palps that form a funnel shaped or spiral crown of from a few to many bipinnate tentacles called radioles; the side branches of each are the pinnules. "
   },
   {
-    "NUMBER": 206,
+    "NUMBER": "206",
     "NAME": "POGONOPHORA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2881,10 +2881,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBCLADE",
-    "LEGENDA": "The 80-plus species of beard worms are remarkable deepwater polychaetes associated with continental slopes and hydrothermal vents. All are slender (some threadlike), sedentary worms that occupy chitin-protein tubes. The smallest is approximately 5 cm in length and Riftia pachyptila of the Galapagos Rift is the giant, measuring up to 1.5 m in length and almost 4 cm in diameter."
+    "LEGENDA": "The 80-plus species of beard worms are remarkable deepwater polychaetes associated with continental slopes and hydrothermal vents. All are slender (some threadlike), sedentary worms that occupy chitin-protein tubes."
   },
   {
-    "NUMBER": 207,
+    "NUMBER": "207",
     "NAME": "AEOLOSOMATIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2895,10 +2895,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "AEOLOSOMATIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Aeolosomci: small interstitial worms, usually less than 5 mm in length. Ventrally ciliated prostomium for gliding over and through substratum and for sweeping food particles into mouth. Chaetae on most segments, including anterior segments, but segmental septa are absent. One pair of testes and ovaries. Sexual reproduction is rare; clonal reproduction, by paratomy, is common. Encystment of adults occurs under adverse conditions. Although included here among oligochaetes, aeolosomatids may actually be polychaetes. The chief argument in favor of a polychaete alliance is the occurrence of nuchal organs on the prostomium (as “ciliated pits”), a polychaete autapomorphy. The brain of Aeolosoma is in the prostomium, as it is in polychaetes, not in an anterior segment. Aeolosoma also lacks a clitellum, the hallmark of clitellates."
+    "LEGENDA": "Aeolosomci: small interstitial worms, usually less than 5 mm in length. Ventrally ciliated prostomium for gliding over and through substratum and for sweeping food particles into mouth. Chaetae on most segments, including anterior segments, but segmental septa are absent."
   },
   {
-    "NUMBER": 208,
+    "NUMBER": "208",
     "NAME": "NAIDIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2909,10 +2909,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "NAIDIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Small, aquatic, predominantly freshwater oligohaetes similar to tubificids (below), but differing in living on submerged vegetation and having ocelli. Like the aeolosomatids, naidids have few segments, not more than 40. Prostomium lacks cilia, chaetae are absent from anterior segments, but segmental septa are present. Some have a long proboscis. As in aeolosomatids, there is one pair each of testes and ovaries; sexual reproduction has been infrequently observed. Paratomy is common: under ideal conditions, a new zooid is released every two or three days. Aulophorus: a pair of long gills on posterior end. Branchiura: a dorsal and a ventral gill filament on each posterior segment. Chaetogaster: a rudimentary prostomium, large mouth and large muscular pharynx for engulfing prey; carnivores of other worms, crustaceans, and insect larvae; parasites (in snails). Dero: makes sand-grain tubes and has small posterior gills. Stylaria: prostomium drawn out into a long process. Nais, Slavina."
+    "LEGENDA": "Small, aquatic, predominantly freshwater oligohaetes similar to tubificids (below), but differing in living on submerged vegetation and having ocelli. Like the aeolosomatids, naidids have few segments, not more than 40. Prostomium lacks cilia, chaetae are absent from anterior segments, but segmental septa are present. Some have a long proboscis. "
   },
   {
-    "NUMBER": 209,
+    "NUMBER": "209",
     "NAME": "TUBIFICIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2923,10 +2923,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "TUBIFICIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Small to large, reddish burrowers in marine and freshwater sediments. The most common oligochaetes in deep freshwater sediments. Body composed of 40 to 200 distinctsegments, the number depending on species. Some, such as Tubifex, build and occupy vertical tubes from which they extend and wave their tails for gas exchange. Tubifex tubifex and Limnodrilus spp. thrive on organic pollution and tolerate low oxygen concentrations in the water. In highly polluted lakes and streams, tubificids are the only animals in the benthic sediments, where they form dense, waving beds. The marine Phallodrilus albidus lacks a gut and derives its nutrition in association with bacteria that oxidize reduced inorganic compounds. One pair of testes and one pair of ovaries; sexual reproduction is common, clonal reproduction is not."
+    "LEGENDA": "Small to large, reddish burrowers in marine and freshwater sediments. The most common oligochaetes in deep freshwater sediments. Body composed of 40 to 200 distinctsegments, the number depending on species. Some, such as Tubifex, build and occupy vertical tubes from which they extend and wave their tails for gas exchange."
   },
   {
-    "NUMBER": 210,
+    "NUMBER": "210",
     "NAME": "LUMBRICILIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2937,10 +2937,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "LUMBRICILIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Freshwater worms, small (not exceeding 14 cm in length), but having many segments, each with four pairs of chaetae. Clonal reproduction by fragmentation dominates. The educationally useful California blackworm, Lumbriculus variegatus, is the best-known lumbriculid. In the laboratory, this easily cultured species, with its transparent body wall and rapid rate of asexual reproduction, is used to study functional morphology, regeneration, segment differentiation, locomotion, and other behaviors."
+    "LEGENDA": "Freshwater worms, small (not exceeding 14 cm in length), but having many segments, each with four pairs of chaetae. Clonal reproduction by fragmentation dominates. The educationally useful California blackworm, Lumbriculus variegatus, is the best-known lumbriculid."
   },
   {
-    "NUMBER": 211,
+    "NUMBER": "211",
     "NAME": "BRANCHIOBDELLIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2951,10 +2951,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "The taxon includes 150 species of tiny (1 to 10 mm) ectocommensals or ectoparasites on the surfaces of crayfishes and fresh-water crabs. On crayfishes, some are ectoparasites on the gills, whereas others live on the exoskeletal surface and graze on organic debris and microorganisms. Often the crustacean’s head, carapace, and other parts are covered with these whitish worms. Chaetae, prostomium, and pygidium usually are absent. Body has 15 segments, the last forming a sucker. Head (peristomium plus three segments) is modified into a sucker with the mouth at its center. Buccalcavity contains two teeth, one dorsal and one ventral. Dorsal anus is on segment 14. Segmented coelom, more or less typical annelidan hemal system, two pairs of metanephridia. Hermaphrodites with internal fertilization. Zygotes deposited in cocoons attached to host. Embryos develop into crypcolarvae, as in arhychobdellid leeches. Branchiobdella."
+    "LEGENDA": "The taxon includes 150 species of tiny (1 to 10 mm) ectocommensals or ectoparasites on the surfaces of crayfishes and fresh-water crabs. On crayfishes, some are ectoparasites on the gills, whereas others live on the exoskeletal surface and graze on organic debris and microorganisms. Often the crustacean’s head, carapace, and other parts are covered with these whitish worms. "
   },
   {
-    "NUMBER": 212,
+    "NUMBER": "212",
     "NAME": "HIRUDINEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2965,10 +2965,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Sister taxon of Branchiobdellida. Includes typical leeches (Euhirudinea) with anterior and posterior suckers; also Acanthobdella peledina, a primitive leech with only a posterior sucker and several plesiomorphic traits not inherited by euhirudineans. All hirudineans have crossed-helical (diagonal) body wall muscles, sperm packaged in spermatophores, an unpaired female gonopore, and sperm storage that does not include seminal receptacles."
+    "LEGENDA": "Sister taxon of Branchiobdellida. Includes typical leeches (Euhirudinea) with anterior and posterior suckers; also Acanthobdella peledina, a primitive leech with only a posterior sucker and several plesiomorphic traits not inherited by euhirudineans. "
   },
   {
-    "NUMBER": 213,
+    "NUMBER": "213",
     "NAME": "GLOSSOSIPHONIIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2979,10 +2979,10 @@ const databaseProcessing = [
     "SUBORDER": "RHYNCHOBDELLIDA",
     "FAMILY": "GLOSSOSIPHONIIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Some, such as Glossiphonia and Helobdella (Glossosiphoniidae), feed only on invertebrates, (snails, oligochaetes, crustaceans, insects), but vertebrates (amphibians, turtles, snakes, alligators, crocodiles) are hosts for most species."
+    "LEGENDA": "Some, such as Glossiphonia and Helobdella (Glossosiphoniidae), feed only on invertebrates, (snails, oligochaetes, crustaceans, insects), but vertebrates (amphibians, turtles, snakes, alligators, crocodiles) are hosts for most species. "
   },
   {
-    "NUMBER": 214,
+    "NUMBER": "214",
     "NAME": "PISCICOLIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -2996,7 +2996,7 @@ const databaseProcessing = [
     "LEGENDA": "Fish leeches (Piscicolidae) parasitize both freshwater and marine fish, including sharks, and rays. Their bodies often bear lateral gills."
   },
   {
-    "NUMBER": 215,
+    "NUMBER": "215",
     "NAME": "HAEMADIPSIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -3007,10 +3007,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "HAEMADIPSIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Hemal system absent, coelom constitutes sole circulatory system. Each segment typically has five annotations. Primarily aquatic, but some are amphibious or even terrestrial. Semiterrestrial Haemopsis terrestris occasionally plowed up in fields in the midwestern United States. Fully terrestrial status has been attained in the Haemadipsidae, whose species inhabit humid rain forests in south Asia and Australia. Haemadipsa, Phytobdella."
+    "LEGENDA": "Hemal system absent, coelom constitutes sole circulatory system. Each segment typically has five annotations. Primarily aquatic, but some are amphibious or even terrestrial. Semiterrestrial Haemopsis terrestris occasionally plowed up in fields in the midwestern United States."
   },
   {
-    "NUMBER": 216,
+    "NUMBER": "216",
     "NAME": "HIRUDINIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -3021,10 +3021,10 @@ const databaseProcessing = [
     "SUBORDER": "GNATHOBDELLIFORMES",
     "FAMILY": "HIRUDINIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Sister taxon of Branchiobdellida. Includes typical leeches (Euhirudinea) with anterior and posterior suckers; also Acanthobdella peledina, a primitive leech with only a posterior sucker and several plesiomorphic traits not inherited by euhirudineans. All hirudineans have crossed-helical (diagonal) body wall muscles, sperm packaged in spermatophores, an unpaired female gonopore, and sperm storage that does not include seminal receptacles."
+    "LEGENDA": "Sister taxon of Branchiobdellida. Includes typical leeches (Euhirudinea) with anterior and posterior suckers; also Acanthobdella peledina, a primitive leech with only a posterior sucker and several plesiomorphic traits not inherited by euhirudineans. "
   },
   {
-    "NUMBER": 217,
+    "NUMBER": "217",
     "NAME": "PHARYNGOBDELLIFORMES",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANNELIDA",
@@ -3035,10 +3035,10 @@ const databaseProcessing = [
     "SUBORDER": "PHARYNGOBDELLIFORMES",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Predatory, best known for the freshwater Erpobdella, with its long, nonprotrusible pharynx that occupies the anterior one-third of the body. Jaws are absent, but the muscular sucking pharynx, with its Y shaped lumen, enables these leeches to engulf large invertebrate prey. Dina."
+    "LEGENDA": "Predatory, best known for the freshwater Erpobdella, with its long, nonprotrusible pharynx that occupies the anterior one-third of the body. Jaws are absent, but the muscular sucking pharynx, with its Y shaped lumen, enables these leeches to engulf large invertebrate prey."
   },
   {
-    "NUMBER": 218,
+    "NUMBER": "218",
     "NAME": "ECHIURIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHIURA",
@@ -3049,10 +3049,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "ECHIURIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Six species of Echiurus. Chaetae arranged in an anterior pair plus two rings around the posterior end of the trunk. Marine, in shallow temperate and tropical waters."
+    "LEGENDA": "Six species of Echiurus. Chaetae arranged in an anterior pair plus two rings around the posterior end of the trunk. Marine, in shallow temperate and tropical waters. "
   },
   {
-    "NUMBER": 219,
+    "NUMBER": "219",
     "NAME": "URECHIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHIURA",
@@ -3063,10 +3063,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "URECHIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Four species of Urechis. All construct U-shaped burrows through which water is pumped for gas exchange and filter feeding. Rudimentary prostomium assists in retrieval and ingestion of food-laden mucous net. Hemal system is absent. Anal water inhalation by cloaca and posterior intestine specialized for gas exchange. Two or three pairs of metanephridia in anterior trunk coelom. Trunk has an anterior pair of chaetae and a single posterior chaetal ring."
+    "LEGENDA": " Four species of Urechis. All construct U-shaped burrows through which water is pumped for gas exchange and filter feeding. Rudimentary prostomium assists in retrieval and ingestion of food-laden mucous net. Hemal system is absent. Anal water inhalation by cloaca and posterior intestine specialized for gas exchange. "
   },
   {
-    "NUMBER": 220,
+    "NUMBER": "220",
     "NAME": "THALASSEMATIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHIURA",
@@ -3077,10 +3077,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "THALASSEMATIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Approximately 70 species of Thalassema, Lissomyema, Listriolobus, and Ochetosoma, and others; chiefly in warm water. Lack circle of anal chaetae, but have a pair of stout chaetal hooks on the anterior trunk. Ochetosoma has 4 or 5 segmental pairs of genital sacs and Ikedosoma pirotansis has up to 20, but most have 1 to 3 pairs. Thalassema hartmani: large spoon-worm on southeastern U.S. coast. Its burrow, like that of Urechis caupo, provides shelter and food for several commensals. Lissomyema mellita: southeastern U.S. coast, in tests of dead sand dollars and fissures in discarded mollusc shells; it enters the test when small and becomes too large to leave. Thalassema dendrorhynchus: prostomium has gill filaments; in brackish-water lake in India. Anelassorhynchus abyssalis: dredged off the California coast from a depth of 2000 m."
+    "LEGENDA": "Approximately 70 species of Thalassema, Lissomyema, Listriolobus, and Ochetosoma, and others; chiefly in warm water. Lack circle of anal chaetae, but have a pair of stout chaetal hooks on the anterior trunk. Ochetosoma has 4 or 5 segmental pairs of genital sacs and Ikedosoma pirotansis has up to 20, but most have 1 to 3 pairs."
   },
   {
-    "NUMBER": 221,
+    "NUMBER": "221",
     "NAME": "BONELLIIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHIURA",
@@ -3091,10 +3091,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "BONELLIIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "70 species of Bonelliidae in warm and cold waters, at all ocean depths, approximately 60% of species below 3000 m, some at abyssal depths. Bonellia and most other species of Bonelliidae: prostomium long, often forked; trunk bears a pair of anterior chaetae, anal chaetae are absent; one to three unpaired genital sacs. Most species green because of bonellin. All exhibit pronounced sexual dimorphism; tiny males parasitic on females."
+    "LEGENDA": "70 species of Bonelliidae in warm and cold waters, at all ocean depths, approximately 60% of species below 3000 m, some at abyssal depths. Bonellia and most other species of Bonelliidae: prostomium long, often forked; trunk bears a pair of anterior chaetae, anal chaetae are absent; one to three unpaired genital sacs. Most species green because of bonellin. "
   },
   {
-    "NUMBER": 222,
+    "NUMBER": "222",
     "NAME": "IKEDIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHIURA",
@@ -3108,7 +3108,7 @@ const databaseProcessing = [
     "LEGENDA": "Monotypic taxon. Ikea taenioides: large burrower, exceeding 1m. Prostomium very long, can be autotomized and later regenerated; body-wall muscle layers include outer longitudinal and inner circular layers, opposite that in all other echiurans; up to 400 genital sacs in clusters rather than segmental pairs, suggesting secondary duplication. Sea of Japan."
   },
   {
-    "NUMBER": 223,
+    "NUMBER": "223",
     "NAME": "SIPUNCULIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "SIPUNCULA",
@@ -3119,10 +3119,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "SIPUNCULIDEA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Tentacles encircle the mouth. Most burrow in marine sediments, but Phascolion strombus (hermit sipunculan) and similar species occupy discarded snail shells. In some species of Phascolion, but not P. strombus, the body is permanently coiled to fit the whorls of its shell. Sipunculus nudus: best-known sipunculan; wide- spread, large, robust; burrows actively in sand. Xenosiphon: external gills on trunk; Themiste: stalked, branched tentacles; shallow water."
+    "LEGENDA": "Tentacles encircle the mouth. Most burrow in marine sediments, but Phascolion strombus (hermit sipunculan) and similar species occupy discarded snail shells. In some species of Phascolion, but not P. strombus, the body is permanently coiled to fit the whorls of its shell. Sipunculus nudus: best-known sipunculan; wide- spread, large, robust."
   },
   {
-    "NUMBER": 224,
+    "NUMBER": "224",
     "NAME": "PHASCOLOSOMATIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "SIPUNCULA",
@@ -3133,10 +3133,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "PHASCOLOSOMATIDEA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Tentacles dorsal to mouth, in an arc around the nuchal organ. (Associated ring canal still encircles the mouth, but is in dented dorsally, and nuchal organ is in that indentation; tentacles borne only on indented part of ring canal and thus are dorsal to the mouth.) Introvert usually bears a series of cuticular rings, each composed of tiny cat’s-claw-shaped hooks. Timestone (coral) borers Aspidosiphon and Lithacrosiphon both have well-developed anal shields (calcified in Lithacrosiphon) and a right-angled introvert (P araspidosiphon). Phascolosoma: often has dark pigment patterns on introvert; includes wood-boring P turnerae, semiterrestrial P arcuatum from Indo-Pacific mangrove swamps, and nearshore P agassizii from U.S. Pacific Northwest."
+    "LEGENDA": "Tentacles dorsal to mouth, in an arc around the nuchal organ. Introvert usually bears a series of cuticular rings, each composed of tiny cat’s-claw-shaped hooks. Timestone (coral) borers Aspidosiphon and Lithacrosiphon both have well-developed anal shields (calcified in Lithacrosiphon) and a right-angled introvert (Paraspidosiphon). "
   },
   {
-    "NUMBER": 225,
+    "NUMBER": "225",
     "NAME": "PERIPATOPSIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ONYCHOPHORA",
@@ -3147,10 +3147,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "PERIPATOPSIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Relatively primitive, restricted to temperate southern hemisphere (Australia, Tasmania, New Zealand, South Africa, and Chile). 14 to 25 pairs of legs. Salivary gland lacks a reservoir. Coxal organs absent, crural glands in both sexes. Gonopores between the last pair of legs. Ovary has exogenous eggs (ovarian follicles project into hemocoel), no placenta. Cephalofovea, Euperipatoides, Metaperipatus, Occiperipatoides, Ooperipatellus, Paraperipatus, Peripatopsis, Peripatoides."
+    "LEGENDA": "Relatively primitive, restricted to temperate southern hemisphere (Australia, Tasmania, New Zealand, South Africa, and Chile). 14 to 25 pairs of legs. Salivary gland lacks a reservoir. Coxal organs absent, crural glands in both sexes. Gonopores between the last pair of legs. Ovary has exogenous eggs (ovarian follicles project into hemocoel), no placenta. "
   },
   {
-    "NUMBER": 226,
+    "NUMBER": "226",
     "NAME": "PERIPATIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ONYCHOPHORA",
@@ -3164,7 +3164,7 @@ const databaseProcessing = [
     "LEGENDA": "Relatively derived. Circumtropical distribution (Malaysia, Borneo, the Congo Basin, the WestIndies, central Mexico, Central America, and northern South America). Many more legs (22 to 43 pairs). Coxal organs present, crural glands in males only. Salivary glands with reservoir. Gonopore located between penultimate pair of legs; ovary has endogenous eggs. Some with a placenta. Macroperipatus, Oroperipatus, Peripatus, Typhloperipatus."
   },
   {
-    "NUMBER": 227,
+    "NUMBER": "227",
     "NAME": "HETEROTARDIGRADA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "TARDIGRADA",
@@ -3178,7 +3178,7 @@ const databaseProcessing = [
     "LEGENDA": "Armored tardigrades; consisting of primitive marine arthrotardigrades and the more derived terrestrial and freshwater echiniscoids. Dorsal cuticle sclerotized, divided into sclerites. Conspicuous sensilla on the head. Lobopods terminate in claws or adhesive discs. Gonopore independent of gut. Malpighian glands absent. Batillipes, Echiniscus, Stygarctus, Tanarctus."
   },
   {
-    "NUMBER": 228,
+    "NUMBER": "228",
     "NAME": "MESOTARDIGRADA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "TARDIGRADA",
@@ -3189,10 +3189,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Thermozodium the only genus. Malpighian glands present. Legs with 6 to 10 simple claws."
+    "LEGENDA": "Thermozodium the only genus. Malpighian glands present. Legs with 6 to 10 simple claws. "
   },
   {
-    "NUMBER": 229,
+    "NUMBER": "229",
     "NAME": "EUTARDIGRADA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "TARDIGRADA",
@@ -3206,7 +3206,7 @@ const databaseProcessing = [
     "LEGENDA": ""
   },
   {
-    "NUMBER": 230,
+    "NUMBER": "230",
     "NAME": "REDLICHIIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3217,10 +3217,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "The most primitive known trilobites; ancestral to the other trilobites. Large, semicircular cephalon, strong genal spines, opisthoparian sutures. Glabella conspicuously segmented by deep glabellar furrows. Thorax well developed, with many segments. Eyes large. Pygidium small or vestigial. Appeared in Lower Cambrian, extinct by Middle Cambrian, having been replaced by their descendants. Olenellus, Olenoides, Paradoxides, Redlichia."
+    "LEGENDA": "The most primitive known trilobites; ancestral to the other trilobites. Large, semicircular cephalon, strong genal spines, opisthoparian sutures. Glabella conspicuously segmented by deep glabellar furrows. Thorax well developed, with many segments. Eyes large. Pygidium small or vestigial. Appeared in Lower Cambrian, extinct by Middle Cambrian, having been replaced by their descendants. "
   },
   {
-    "NUMBER": 231,
+    "NUMBER": "231",
     "NAME": "AGNOSTIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3231,10 +3231,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Primitive. Very small, < 8 mm long. Cephalon and pygidium large, similar in size and shape. Two or three thoracic segments. Usually blind. No facial sutures. May have been planktonic. Probably diverged early in the Cambrian from primitive redlichiid ancestors. Agnostus, Eodiscus, Pagetia."
+    "LEGENDA": "Primitive. Very small, < 8 mm long. Cephalon and pygidium large, similar in size and shape. Two or three thoracic segments. Usually blind. No facial sutures. May have been planktonic. Probably diverged early in the Cambrian from primitive redlichiid ancestors. Agnostus, Eodiscus, Pagetia. "
   },
   {
-    "NUMBER": 232,
+    "NUMBER": "232",
     "NAME": "CORYNEXOCHIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3245,10 +3245,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Long glabella with parallel sides, sometimes flared anteriorly. Hypostome and rostrum (median region of doublure adjacent to hypostome) fused. Opisthoparian facial suture. Thorax of 5 to 11 segments. Pygidium medium to large. Genal spines present in many. Thorax often, pygidium sometimes spiny. Arose from redlichiid ancestors in late Cambrian. Illaenus, Olenoides, Polypleuraspis."
+    "LEGENDA": "Long glabella with parallel sides, sometimes flared anteriorly. Hypostome and rostrum (median region of doublure adjacent to hypostome) fused. Opisthoparian facial suture. Thorax of 5 to 11 segments. Pygidium medium to large. Genal spines present in many. Thorax often, pygidium sometimes spiny."
   },
   {
-    "NUMBER": 233,
+    "NUMBER": "233",
     "NAME": "PTYCHOPARIIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3259,10 +3259,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Large taxon with several well-known genera. Facial suture usually opisthoparian. Glabella simple, tapering anteriorly. Number of thoracic segments variable. Pygidium small in early species but generally large in derived species. Arose from redlichiid ancestors in Middle Cambrian. Probably ancestral to several orders that persisted after the Cambrian. Elrathia, Olenus, Shumardia, Triarthrus, Tricrepicephalus."
+    "LEGENDA": "Large taxon with several well-known genera. Facial suture usually opisthoparian. Glabella simple, tapering anteriorly. Number of thoracic segments variable. Pygidium small in early species but generally large in derived species. Arose from redlichiid ancestors in Middle Cambrian. "
   },
   {
-    "NUMBER": 234,
+    "NUMBER": "234",
     "NAME": "ASAPHIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3276,7 +3276,7 @@ const databaseProcessing = [
     "LEGENDA": "Recently established taxon related to Ptychopariida. Most had median ventral suture. Swollen, globular protaspis larva. Arose from ptychopariid ancestors in Middle Cambrian. An important taxon until the end of the Ordovician. A few persisted through Silurian. Asaphus, Cyclopyge, Isotelus, Ogygiocarella, Trinucleus."
   },
   {
-    "NUMBER": 235,
+    "NUMBER": "235",
     "NAME": "PHACOPIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3287,10 +3287,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Large taxon. Glabella often widened anteriorly. Facial suture proparian or gonatoparian, but sutures are fused and did not separate during ecdysis. Thorax of 8 to 19 segments. Medium to large semicircular pygidium. Probably evolved from asaphid or ptychopariid ancestors in Lower Ordovician. Phacopina are the only trilobites with schizochroal eyes. Calymene, Ceraurinella, Ceraurus, Eldredgeops (formerly Phacops), Staurocephalus."
+    "LEGENDA": "Large taxon. Glabella often widened anteriorly. Facial suture proparian or gonatoparian, but sutures are fused and did not separate during ecdysis. Thorax of 8 to 19 segments. Medium to large semicircular pygidium. Probably evolved from asaphid or ptychopariid ancestors in Lower Ordovician. Phacopina are the only trilobites with schizochroal eyes. "
   },
   {
-    "NUMBER": 236,
+    "NUMBER": "236",
     "NAME": "PROETIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3304,7 +3304,7 @@ const databaseProcessing = [
     "LEGENDA": "Most have strong genal spines, large glabellae, opisthoparian sutures, 8 to 10 thoracic segments. Pygidium medium-sized. The only taxon surviving the Devonian extinctions to persist into the Carboniferous and Permian. Arose from Upper Cambrian ptychopariid ancestors. Bathyurus, Ditomopyge, Phaetonellus, Proetus."
   },
   {
-    "NUMBER": 237,
+    "NUMBER": "237",
     "NAME": "LICHIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3315,10 +3315,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Pygidium larger than cephalon. Usually spiny or tuberculate. Medium to very large. Glabella prominent, with large lobes. Sutures opisthoparian. Thorax has 8 to 11 segments. Pygidium variable. Evolved from Middle Cambrian redlichiid ancestors. Dicranurus, Lichas, Odontopleura, Terataspis."
+    "LEGENDA": "Pygidium larger than cephalon. Usually spiny or tuberculate. Medium to very large. Glabella prominent, with large lobes. Sutures opisthoparian. Thorax has 8 to 11 segments. Pygidium variable. Evolved from Middle Cambrian redlichiid ancestors. Dicranurus, Lichas, Odontopleura, Terataspis. "
   },
   {
-    "NUMBER": 238,
+    "NUMBER": "238",
     "NAME": "PYCNOGONIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3332,7 +3332,7 @@ const databaseProcessing = [
     "LEGENDA": ""
   },
   {
-    "NUMBER": 239,
+    "NUMBER": "239",
     "NAME": "XIPHOSURA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3343,10 +3343,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Xiphosura and Arachnida, sister taxa of Euchelicerata, are represented today by horseshoe crabs, spiders, scorpions, and their relatives. In contrast with that of pycnogonids, the euchelicerate abdomen is well developed and often segmented. The cephalothoracic segments are fused and covered by a continuous sclerite, the carapace. Euchelicerates have retained the ancestral lateral compound eyes, although they may be highly modified. They have lost one of the two pairs of median eyes and their gonopores are on the second abdominal segment."
+    "LEGENDA": "Xiphosura and Arachnida, sister taxa of Euchelicerata, are represented today by horseshoe crabs, spiders, scorpions, and their relatives. In contrast with that of pycnogonids, the euchelicerate abdomen is well developed and often segmented. The cephalothoracic segments are fused and covered by a continuous sclerite, the carapace."
   },
   {
-    "NUMBER": 240,
+    "NUMBER": "240",
     "NAME": "EURYPTERIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3360,7 +3360,7 @@ const databaseProcessing = [
     "LEGENDA": ""
   },
   {
-    "NUMBER": 241,
+    "NUMBER": "241",
     "NAME": "SCORPIONES",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3371,10 +3371,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Scorpions belong to an ancient taxon with a fossil record beginning in the Silurian period. Silurian and Devonian scorpions were aquatic, had gills, and lacked claws on the legs. Terrestrial scorpions appeared in the Devonian. The 1200 described species of Recent scorpions are most common in the tropics and subtropics, but occur on all continents except Antarctica. In the Western Hemisphere, they are found from southern Canada to southern South America and in North America are most abundant in the southeast and southwest."
+    "LEGENDA": "Scorpions belong to an ancient taxon with a fossil record beginning in the Silurian period. Silurian and Devonian scorpions were aquatic, had gills, and lacked claws on the legs. Terrestrial scorpions appeared in the Devonian. "
   },
   {
-    "NUMBER": 242,
+    "NUMBER": "242",
     "NAME": "UROPYGI",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3385,10 +3385,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "The approximately 100 described species of Uropygi are called whip scorpions. Some are large, and the American vinegaroon Mastigoproctus giganteus reaches 80 mm in length. The cephalothorax is completely covered by a carapace that bears a pair of anterior median eyes and three or four pairs of lateral eyes. Uropygid chelicerae are small and have two articles. The distal article forms a fang that folds against the large basal article. The large, raptorial pedipalps are stout and heavy, and short in comparison with the legs. The last two articles of the pedipalps may be modified to form a pincer used in seizing prey. During feeding, the prey is seized and torn apart by the pedipalps and then passed to the chelicerae. The animal holds its pedipalps and long, tactile first legs in front as it moves forward. The antenniform, sensory first legs touch the ground repeatedly."
+    "LEGENDA": "The approximately 100 described species of Uropygi are called whip scorpions. Some are large, and the American vinegaroon Mastigoproctus giganteus reaches 80 mm in length. The cephalothorax is completely covered by a carapace that bears a pair of anterior median eyes and three or four pairs of lateral eyes. "
   },
   {
-    "NUMBER": 243,
+    "NUMBER": "243",
     "NAME": "AMBLYPYGI",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3402,7 +3402,7 @@ const databaseProcessing = [
     "LEGENDA": "Amblypygids, or whip spiders, are tropical and semitropical arachnids resembling spiders in many aspects. Several of the 100 known species are common, but because they are secretive nocturnal animals, hiding during the day beneath logs, bark, stones, leaves, and similar objects, they typically escape notice Amblypygids range in length from 4 to 45 mm and have a dark, somewhat flattened, spiderlike body."
   },
   {
-    "NUMBER": 244,
+    "NUMBER": "244",
     "NAME": "MESOTHELAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3416,7 +3416,7 @@ const databaseProcessing = [
     "LEGENDA": "Abdomen has segmental tergites and sternites. Seven or eight spinnerets, the first located at the level of the second pair of book lungs. Orthognath chelicerae. About 40 extant species in one taxon, the tropical Asian Liphistiidae. Liphistius, Heptathela."
   },
   {
-    "NUMBER": 245,
+    "NUMBER": "245",
     "NAME": "MYGALOMORPHAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3427,10 +3427,10 @@ const databaseProcessing = [
     "SUBORDER": "MYGALOMORPHAE",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Abdominal segmentation not externally apparent. Two pairs of book lungs. Six spinnerets. Fangs are orthognath, moving in a plane parallel to the long body axis. Includes tarantulas, bird spiders (both Theraphosidae; Aphonpelma, Avicularia, Theraphosa), purse-web spiders (Atypidae; Atypus), funnel-web spiders (Dipluridae; Atrax, Diplura, Euagrus, Hadronyche, Trechono), and trap-door spiders (Ctenizidae; Bothryocyrtum, Cteniza, Cyclocosmia, Ummidia). Most stalk or ambush prey, a few are web builders. Many are very large. Atrax robustus, with fangs that can penetrate a fingernail, is said to be the world’s deadliest spider. About 2200 extant species in 15 families, many North American."
+    "LEGENDA": "Abdominal segmentation not externally apparent. Two pairs of book lungs. Six spinnerets. Fangs are orthognath, moving in a plane parallel to the long body axis. Includes tarantulas, bird spiders, purse-web spiders, funnel-web spiders, and trap-door spider. Most stalk or ambush prey, a few are web builders. Many are very large. Atrax robustus, with fangs that can penetrate a fingernail, is said to be the world’s deadliest spider."
   },
   {
-    "NUMBER": 246,
+    "NUMBER": "246",
     "NAME": "ARANEOMORPHAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3444,7 +3444,7 @@ const databaseProcessing = [
     "LEGENDA": "Fangs are not orthognath. Abdomen is not segmented. One pair of book lungs in most species. Cribellum and calamistrum present primitively, but lost in most. 90 families with 32,000 species."
   },
   {
-    "NUMBER": 247,
+    "NUMBER": "247",
     "NAME": "NEOCRIBELLATAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3455,10 +3455,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "NEOCRIBELLATAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Fangs are labidognath, moving at right angles to the long axis of the body. Females usually have an epigynum. One or no pairs of book lungs; at least one pair of tracheae."
+    "LEGENDA": "Fangs are labidognath, moving at right angles to the long axis of the body. Females usually have an epigynum. One or no pairs of book lungs; at least one pair of tracheae. "
   },
   {
-    "NUMBER": 248,
+    "NUMBER": "248",
     "NAME": "HYPOCHIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3469,10 +3469,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "HYPOCHILIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Oval cribellum on a cone. Calamistrum has two rows of setae. Eight eyes. Nine species. Ectatosticta, Hypochilus."
+    "LEGENDA": "Oval cribellum on a cone. Calamistrum has two rows of setae. Eight eyes. Nine species. Ectatosticta, Hypochilus. "
   },
   {
-    "NUMBER": 249,
+    "NUMBER": "249",
     "NAME": "DYSDERIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3483,10 +3483,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "DYSDERIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Large, primitive spiders. Short legs. Six eyes in two rows of three; anterior median eyes are absent. Book lungs and tracheae; lungs have few leaves; two pairs of spiracles close together. No epigynum. Dysdera, Sergestria."
+    "LEGENDA": "Large, primitive spiders. Short legs. Six eyes in two rows of three; anterior median eyes are absent. Book lungs and tracheae; lungs have few leaves; two pairs of spiracles close together. No epigynum. Dysdera, Sergestria. "
   },
   {
-    "NUMBER": 250,
+    "NUMBER": "250",
     "NAME": "FILISTATIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3500,7 +3500,7 @@ const databaseProcessing = [
     "LEGENDA": "Small cribellum and reduced calamistrum. Large, branched poison glands, eight eyes. Kukulcania (also known as Filistata) hibernalis, the southern house spider, is sometimes confused with the brown recluse."
   },
   {
-    "NUMBER": 251,
+    "NUMBER": "251",
     "NAME": "SCYTODIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3514,7 +3514,7 @@ const databaseProcessing = [
     "LEGENDA": "Spitting spiders. Six eyes in three pairs. Three tarsal claws. Carapace is highly arched to accommodate large poison and salivary glands. Cursorial nocturnal hunters. Squirt glue from chelicerae up to 20 mm to entangle prey or predators; harmless to humans. Scytodes."
   },
   {
-    "NUMBER": 252,
+    "NUMBER": "252",
     "NAME": "SICARIIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3525,10 +3525,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "SICARIIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Includes the recluse spiders. Six eyes in three pairs, posterior laterals are absent. Cursorial nocturnal hunters that build loose diurnal refuges in dry, dark areas. The bite of the brown recluse, Loxosceles reclusa, and others produces serious necrotic lesions. Sicarius largely restricted to the Southern Hemisphere. Loxosceles, Sicarius."
+    "LEGENDA": "Includes the recluse spiders. Six eyes in three pairs, posterior laterals are absent. Cursorial nocturnal hunters that build loose diurnal refuges in dry, dark areas. The bite of the brown recluse, Loxosceles reclusa, and others produces serious necrotic lesions. "
   },
   {
-    "NUMBER": 253,
+    "NUMBER": "253",
     "NAME": "PHOLCIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3539,10 +3539,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "PHOLCIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Daddy long legs spiders. Longlegs, resemble harvestmen. Small chelicerae. Spin small webs of tangled threads in sheltered recesses. Several species are common in houses and, with other web-building house dwellers, are responsible for cobwebs. Holocnemus, Pholcus, Physocyclus, Spermophora."
+    "LEGENDA": "Daddy long legs spiders. Longlegs, resemble harvestmen. Small chelicerae. Spin small webs of tangled threads in sheltered recesses. Several species are common in houses and, with other web-building house dwellers, are responsible for cobwebs. Holocnemus, Pholcus, Physocyclus, Spermophora. "
   },
   {
-    "NUMBER": 254,
+    "NUMBER": "254",
     "NAME": "CAPONIIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3553,10 +3553,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "CAPONIIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Book lungs are absent, replaced by tracheae; two pairs of spiracles. Usually have only two eyes (anterior median). Small chelicerae. Cursorial. Caponia, Nops, Tarsonops."
+    "LEGENDA": "Book lungs are absent, replaced by tracheae; two pairs of spiracles. Usually have only two eyes . Small chelicerae. Cursorial. Caponia, Nops, Tarsonops."
   },
   {
-    "NUMBER": 255,
+    "NUMBER": "255",
     "NAME": "MIMETIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3570,7 +3570,7 @@ const databaseProcessing = [
     "LEGENDA": "First legs have a row of long, curved setae.Prey on other spiders. Cursorial, do not make webs. Sometimes ambush and sometimes invade the web of the prey. Ero, Meta."
   },
   {
-    "NUMBER": 256,
+    "NUMBER": "256",
     "NAME": "ULOBORIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3584,7 +3584,7 @@ const databaseProcessing = [
     "LEGENDA": "Cribellate. Lack poison glands and venom. Orb webs made at least partially of cribellate silk, usually positioned horizontally. Some social species have webs in dense colonies. Philoponella, Uloborus, Zosis."
   },
   {
-    "NUMBER": 257,
+    "NUMBER": "257",
     "NAME": "DINOPIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3595,10 +3595,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "DINOPIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Ogre-faced spiders. Eight eyes in three rows; anterior median eyes are enormous and face anteriorly. Dinopis, Menneus."
+    "LEGENDA": "Ogre-faced spiders. Eight eyes in three rows; anterior median eyes are enormous and face anteriorly. Dinopis, Menneus. "
   },
   {
-    "NUMBER": 258,
+    "NUMBER": "258",
     "NAME": "THERIDIIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3612,7 +3612,7 @@ const databaseProcessing = [
     "LEGENDA": "Comb-footed spiders. Large taxon of nocturnal, irregular web builders. Includes the venomous black widow, Latrodectus, as well as the common house spider Achaearanea tepidariorum, which resembles a black widow. Steatoda, Theridion."
   },
   {
-    "NUMBER": 259,
+    "NUMBER": "259",
     "NAME": "LINYPHIIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3623,10 +3623,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "LINYPHIIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Sheet-web spiders. Webs are horizontal sheets or bowls, sometimes in vegetation. Many tiny species in leaf litter. Linyphia, Erigone, Halorates."
+    "LEGENDA": "Sheet-web spiders. Webs are horizontal sheets or bowls, sometimes in vegetation. Many tiny species in leaf litter. Linyphia, Erigone, Halorates. "
   },
   {
-    "NUMBER": 260,
+    "NUMBER": "260",
     "NAME": "TETRAGNATHIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3640,7 +3640,7 @@ const databaseProcessing = [
     "LEGENDA": "Orb weavers similar to Araneidae, but their posterior median eyes lack a tapetum. Pachygnatha, Tetragnatha."
   },
   {
-    "NUMBER": 261,
+    "NUMBER": "261",
     "NAME": "ARANEIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3651,10 +3651,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "ARANEIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Orb-web spiders. Posterior median eyes have a tapetum. Many are large and colorful, such as the black- and-yellow garden spider, Argiope. Araneus, Gasterac.antha, Gea, Neoscona, Nephila."
+    "LEGENDA": "Orb-web spiders. Posterior median eyes have a tapetum. Many are large and colorful, such as the black- and-yellow garden spider, Argiope. Araneus, Gasterac.antha, Gea, Neoscona, Nephila. "
   },
   {
-    "NUMBER": 262,
+    "NUMBER": "262",
     "NAME": "LYCOSIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3665,10 +3665,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "LYCOSIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Wolf spiders. Fast, hairy, dull brown or black, cursorial hunters. Posterior median eyes are the largest of the eight eyes. Three tarsal claws. Lycosa tarentula is the Mediterranean tarantula. Common members of the nocturnal ground fauna. Arctosa, Lycosa, Pardosa, Pirata."
+    "LEGENDA": "Wolf spiders. Fast, hairy, dull brown or black, cursorial hunters. Posterior median eyes are the largest of the eight eyes. Three tarsal claws. Lycosa tarentula is the Mediterranean tarantula. Common members of the nocturnal ground fauna. Arctosa, Lycosa, Pardosa, Pirata. "
   },
   {
-    "NUMBER": 263,
+    "NUMBER": "263",
     "NAME": "PISAURIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3682,7 +3682,7 @@ const databaseProcessing = [
     "LEGENDA": "Fishing and nursery spiders. Large cursorial hunters similar to wolf spiders, but with longer legs. Common around fresh water and move efficiently on, and sometimes under, the water surface to capture prey. Dolomedes, Pisaura, Thalssius, Tinus."
   },
   {
-    "NUMBER": 264,
+    "NUMBER": "264",
     "NAME": "AGELENIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3696,7 +3696,7 @@ const databaseProcessing = [
     "LEGENDA": "Funnel weaver, or grass, spiders. Spin sheet webs with a funnel-shaped retreat. Prey are captured on the sheet. Web is constructed in dense vegetation, in crevices of logs or rocks, and in houses. Easily visible, especially in grass covered with dew. Agelena consociata is social. Agelena, Agelenopsis, Desis, Hololena, Tegenaria."
   },
   {
-    "NUMBER": 265,
+    "NUMBER": "265",
     "NAME": "ARGYRONETIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3710,7 +3710,7 @@ const databaseProcessing = [
     "LEGENDA": "One species. The Eurasian Argyroneta aquatica is the world’s only aquatic spider. Cursorial, lives and hunts beneath the water surface. Captures aquatic insects, then consumes them in a retreat consisting of an air bubble in a dome-shaped web. Air is replenished from the surface by bubbles trapped in abdominal hydrofuge pubescence."
   },
   {
-    "NUMBER": 266,
+    "NUMBER": "266",
     "NAME": "OXYOPIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3724,7 +3724,7 @@ const databaseProcessing = [
     "LEGENDA": "Lynx spiders. Diurnal hunters in low vegetation. Capable ofjumping onto prey. Good vision, eyes form a hexagon. Long, thin, spiny legs with three tarsal claws. Oxyopes."
   },
   {
-    "NUMBER": 267,
+    "NUMBER": "267",
     "NAME": "CLUBIONIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3735,10 +3735,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "CLUBIONIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Sac spiders. Build a cocoonlike silk retreat, sometimes incorporating a folded leaf. Large spinnerets. Nocturnal hunters. Chiracanthium has a painful but not lethal bite and is often found indoors. Two tarsal claws. Clubiona, Scotinella, Trachelas."
+    "LEGENDA": "Sac spiders. Build a cocoonlike silk retreat, sometimes incorporating a folded leaf. Large spinnerets. Nocturnal hunters. Chiracanthium has a painful but not lethal bite and is often found indoors. Two tarsal claws. Clubiona, Scotinella, Trachelas. "
   },
   {
-    "NUMBER": 268,
+    "NUMBER": "268",
     "NAME": "THOMISIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3749,10 +3749,10 @@ const databaseProcessing = [
     "SUBORDER": "PALAEOBRIBELLATAE",
     "FAMILY": "THOMISIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Crab spiders. Cursorial ambush predators, often brightly colored and living on flowers. Sideways movement is crablike. Long, raptorial anterior legs are held outstretched like crab chelipeds. Carapace is about as wide as it is long. Two tarsal claws. Aphantochilus, Synema, Thomisus, Xysticus."
+    "LEGENDA": "Crab spiders. Cursorial ambush predators, often brightly colored and living on flowers. Sideways movement is crablike. Long, raptorial anterior legs are held outstretched like crab chelipeds. Carapace is about as wide as it is long. Two tarsal claws. Aphantochilus, Synema, Thomisus, Xysticus. "
   },
   {
-    "NUMBER": 269,
+    "NUMBER": "269",
     "NAME": "SALTICIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3766,7 +3766,7 @@ const databaseProcessing = [
     "LEGENDA": "Jumping spiders. The largest spider family. Cursorial, heavy bodied, furry, diurnal, jumping hunters. The males of many species are brightly colored. Excellent vision. Abundant in temperate and tropical regions, common in houses. Two tarsal claws. Corythalia, Gertschia, Menemerus, Neon, Phidippus, Salticus, Trite."
   },
   {
-    "NUMBER": 270,
+    "NUMBER": "270",
     "NAME": "PALPIGRADI",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3780,7 +3780,7 @@ const databaseProcessing = [
     "LEGENDA": "The 70 known species of palpigrades are mostly less than 1.5 mm in length and none are larger than 3 mm. Microwhip scorpions are blind, interstitial soil arachnids occurring primarily in tropical and subtropical habitats but also in European subterranean environments. Many of their unusual characteristics, including their size, are adaptations for life in small spaces."
   },
   {
-    "NUMBER": 271,
+    "NUMBER": "271",
     "NAME": "PSEUDOSCORPIONES",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3791,10 +3791,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "This taxon consists of small arachnids rarely exceeding 7mm in length and usually less than half that. Pseudoscorpions are widespread in leaf litter, under bark, in soil, and in moss and debris, where they are seldom noticed despite being very common. One species, Chelifer ccincroides, lives in human houses and is known as the book scorpion. About 2500 species are known worldwide. This distinct and homogeneous taxon has no close ties to other arachnids, except possibly the solifuges. Their resemblance to true scorpions is superficial and due solely to their common (convergent) possession of large chelate pedipalps. Pseudoscorpions move rapidly backward, although some also move forward and some, sideways. They exhibit a phenomenon known as phoresy, in which they grasp the leg of an insect with their pedipalps and hitch a ride as it flies to a new habitat."
+    "LEGENDA": "This taxon consists of small arachnids rarely exceeding 7mm in length and usually less than half that. Pseudoscorpions are widespread in leaf litter, under bark, in soil, and in moss and debris, where they are seldom noticed despite being very common. One species, Chelifer ccincroides, lives in human houses and is known as the book scorpion. About 2500 species are known worldwide. "
   },
   {
-    "NUMBER": 272,
+    "NUMBER": "272",
     "NAME": "SOLIFUGAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3805,10 +3805,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Solifuges form a taxon of about 800 to 1000 tropical and semi tropical arachnids, sometimes called sun spiders because of their spider like appearance and diurnal habits or wind spiders because of the great speed of the males. In the United States, a few species have been found in Florida and more than 100 have been found in the southwest, some as far north as Colorado. Many solifuges are common in warm, arid regions of the world, but they are also known from grasslands and forests. Solifuges hide under stones and in crevices and many dig burrows. Their length ranges from a few millimeters to as much as 7 cm. The cephalothorax is covered dorsally by a large anterior carapace bearing a pair of closely placed median eyes on the anterior border and a short posterior carapace, or tergum. The hinge between the anterior and posterior carapaces is flexible. The segmented abdomen is large and joined to the cephalothorax by a slightly narrowed waist."
+    "LEGENDA": "Solifuges form a taxon of about 800 to 1000 tropical and semi tropical arachnids, sometimes called sun spiders because of their spider like appearance and diurnal habits or wind spiders because of the great speed of the males. In the United States, a few species have been found in Florida and more than 100 have been found in the southwest, some as far north as Colorado. Many solifuges are common in warm, arid regions of the world, but they are also known from grasslands and forests. "
   },
   {
-    "NUMBER": 273,
+    "NUMBER": "273",
     "NAME": "OPILIONES",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3819,10 +3819,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Opiliones, or Phalangida, contains the familiar long-legged arachnids known as daddy longlegs or harvestmen. The 5000 or more described species live in temperate and tropical climates and most prefer humid habitats. Harvestmen are abundant in vegetation, on the forest floor, on tree trunks and fallen logs, in humus, and in caves. They do not produce silk or toxins and they do not bite, although they may (rarely) pinch. The widespread belief that harvestmen have a highly toxic venom is due to their being confused with pholcid spiders, which also go by the name “daddy longlegs.” These spiders resemble harvestmen but have a potent toxin, although their chelicerae are too small and weak to envenomate humans. Most harvestmen are predators but, unlike almost all other arachnids, many are herbivores, and many feed on dead organic material. Also unlike other arachnids, they are capable of ingesting particulate food. In fact, since the pharynx pedipalps and passed to the chelicerae, which hold and crush it. Unlike other arachnids, the ingested food is not limited to liquid material, but includes small particles. Thus, a greater part of digestion must take place in the midgut. The mouth is preceded by the preoral cavity, which is bounded dorsally by the labrum, ventrally by the labium, and laterally by the gnathobases of the pedipalps and first legs."
+    "LEGENDA": "Opiliones, or Phalangida, contains the familiar long-legged arachnids known as daddy longlegs or harvestmen. The 5000 or more described species live in temperate and tropical climates and most prefer humid habitats. Harvestmen are abundant in vegetation, on the forest floor, on tree trunks and fallen logs, in humus, and in caves."
   },
   {
-    "NUMBER": 274,
+    "NUMBER": "274",
     "NAME": "RICINULEI",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3833,10 +3833,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Ricinulei includes about 75 species of small, uncommon arachnids known as tick spiders found in Africa (Ricinoides) and the Americas (Cryptocellus) from Brazil to the southern United States, where they have been collected from leaf litter and in caves. Ricinuleids are heavy-bodied and small, measuring up to 10 mm in length. The cuticle is very thick, heavily sclerotized, and often sculptured. Attached to the anterior margin of the carapace is a unique, hoodlike cucullus that can be raised and lowered. When lowered, it covers the preoral cavity, mouth, and chelicerae. Ricinuleids are blind, but Tiave lateral light-sensitive spots. Unlike the three-part chelicerae of the Acari (mites), tick spider chelicerae have only two articles. The pedipalps are chelate, the second legs are sensory, and the male third legs are used to transfer sperm to the female gonopore. The cephalothorax and 10-segment abdomen are broadly joined. The anterior abdominal segments are wide, but the posterior segments are small and telescoping, with the anus on the 10th segment."
+    "LEGENDA": "Ricinulei includes about 75 species of small, uncommon arachnids known as tick spiders found in Africa (Ricinoides) and the Americas (Cryptocellus) from Brazil to the southern United States, where they have been collected from leaf litter and in caves. Ricinuleids are heavy-bodied and small, measuring up to 10 mm in length."
   },
   {
-    "NUMBER": 275,
+    "NUMBER": "275",
     "NAME": "OPILIOACARIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3847,10 +3847,10 @@ const databaseProcessing = [
     "SUBORDER": "OPILIOACARIDA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Large, rare, leathery, primitive mites. Segmented abdomen. Trichobothria are absent. Resemble opilionids. Live in leaf litter and beneath stones. Omnivorous or predatory; ingest solid food. Feed on millipedes, opilionids, mites, pollen. Subtropical and tropical. Opilioacarus, Panchaertes, Paracarus."
+    "LEGENDA": "Large, rare, leathery, primitive mites. Segmented abdomen. Trichobothria are absent. Resemble opilionids. Live in leaf litter and beneath stones. Omnivorous or predatory; ingest solid food. Feed on millipedes, opilionids, mites, pollen. Subtropical and tropical. Opilioacarus, Panchaertes, Paracarus. "
   },
   {
-    "NUMBER": 276,
+    "NUMBER": "276",
     "NAME": "ACARIFORMES",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3861,10 +3861,10 @@ const databaseProcessing = [
     "SUBORDER": "ACARIFORMES",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "The“mitelike” mites.The most diverse mite taxon, with over 30,000 species. Indirect development. Setae have optically active, birefringent actinochitin. Trichobothria are present. Includes Astigmata, Endeostigmata, Oribatida, Sarcoptiformes, and Trombidiformes (Prostigmata). Belba, Demodex, Dermatophagoides, Mideopsis, Neotrombicula, Sarcoptes, Tetranychus, Trombicula, Trombidium, Tydeus."
+    "LEGENDA": "The“mitelike” mites.The most diverse mite taxon, with over 30,000 species. Indirect development. Setae have optically active, birefringent actinochitin. Trichobothria are present. Includes Astigmata, Endeostigmata, Oribatida, Sarcoptiformes, and Trombidiformes (Prostigmata). Belba, Demodex, Dermatophagoides, Mideopsis, Trombidium, Tydeus. "
   },
   {
-    "NUMBER": 277,
+    "NUMBER": "277",
     "NAME": "PARASITIFORMES",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3875,10 +3875,10 @@ const databaseProcessing = [
     "SUBORDER": "PARASITIFORMES",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Ticks and related mites in about 75 families. Setae have no actinochitin. Trichobothria and coxae are absent. Ventral anal aperture covered by sclerotized plates. Cuticularized ring around gnathosoma. Includes Mesostigmata (many parasitic species), Holothyrida (large, armored mites), and Ixodida (ticks: large, hematophagous, have vertebrate hosts). Caminella, Dermacentor, Ixodes."
+    "LEGENDA": "Ticks and related mites in about 75 families. Setae have no actinochitin. Trichobothria and coxae are absent. Ventral anal aperture covered by sclerotized plates. Cuticularized ring around gnathosoma. Includes Mesostigmata, Holothyrida, and Ixodida. Caminella, Dermacentor, Ixodes."
   },
   {
-    "NUMBER": 278,
+    "NUMBER": "278",
     "NAME": "REMIPEDIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3889,10 +3889,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "The first known remipede, Speleonectes lucayensis, was described in 1981 and the taxon is now represented by 10 species in six genera, all from under sea caves primarily in the Bahamas, West Indies, and Yucatan Peninsula. So far, all representatives have been found in water filled caves connecting with the sea at one end and with freshwater ponds at the other. The body of these 15- to 45-mm-long marine crustaceans is elongate, resembling that of a polychaete, with numerous biramous appendages. Powerful rowing strokes of the trunk appendages produce rhythmic preferred by MW waves that sweep along the length of the body for swimming. Remipedes are carnivores or scavengers. The body includes a trunk and a cephalothorax, the latter of which is covered by a sclerotized carapace (cephalic shield). Eyes do not seem to be present, although sometimes there are vestigial eye like structures. Suppression or loss of eyes is a common adaptation in cave dwelling animals. The large first antennae are biramous and bear chemosensory aesthetascs. The much smaller second antennae are paddlelike."
+    "LEGENDA": "The first known remipede, Speleonectes lucayensis, was described in 1981 and the taxon is now represented by 10 species in six genera, all from under sea caves primarily in the Bahamas, West Indies, and Yucatan Peninsula. So far, all representatives have been found in water filled caves connecting with the sea at one end and with freshwater ponds at the other. The body of these 15- to 45-mm-long marine crustaceans is elongate, resembling that of a polychaete, with numerous biramous appendages. "
   },
   {
-    "NUMBER": 279,
+    "NUMBER": "279",
     "NAME": "CEPHALOCARIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3903,10 +3903,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Cephalocarids conform closely to the hypothesized ancestral crustacean in that they are epibenthic deposit feeders with undifferentiated trunk appendages. The nine known species have been collected in sand and mud from the high subtidal to depths of 1550 m in many parts of the world. The first was found in Long Island Sound in 1953. Cephalocarids are tiny crustaceans of less than 4 mm in length."
+    "LEGENDA": "Cephalocarids conform closely to the hypothesized ancestral crustacean in that they are epibenthic deposit feeders with undifferentiated trunk appendages. The nine known species have been collected in sand and mud from the high subtidal to depths of 1550 m in many parts of the world. "
   },
   {
-    "NUMBER": 280,
+    "NUMBER": "280",
     "NAME": "ANOSTRACA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3917,10 +3917,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "This relatively small taxon inhabits inland, but not necessarily fresh, waters. Anostraca includes the fairy and brine shrimps, both of which are confined to relictual habitats from which fishes are excluded either because the habitat dries up periodically or because the water is too saline. Brine shrimps, whose eggs are creatively marketed with the claim they will hatch into “sea monkeys,” are familiar to many people."
+    "LEGENDA": "This relatively small taxon inhabits inland, but not necessarily fresh, waters. Anostraca includes the fairy and brine shrimps, both of which are confined to relictual habitats from which fishes are excluded either because the habitat dries up periodically or because the water is too saline."
   },
   {
-    "NUMBER": 281,
+    "NUMBER": "281",
     "NAME": "NOTOSTRACA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3931,10 +3931,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Notostraca consists of only 10 species of benthic tadpole shrimps in the genera Triops and Lepidurus that are found in quiet, inland, fish-free waters. Notostracans resemble anostracans in some respects, but the similarities are now thought to be superficial and due to convergence. The body consists of ahead, thorax, and abdomen, with no secondary tagmosis. An enormous depressed, shieldlike carapace covers the head, thorax, and most of the abdomen. Sessile compound eyes are present on the anterior carapace. The mandibles are large and triturative."
+    "LEGENDA": "Notostraca consists of only 10 species of benthic tadpole shrimps in the genera Triops and Lepidurus that are found in quiet, inland, fish-free waters. Notostracans resemble anostracans in some respects, but the similarities are now thought to be superficial and due to convergence. The body consists of ahead, thorax, and abdomen, with no secondary tagmosis."
   },
   {
-    "NUMBER": 282,
+    "NUMBER": "282",
     "NAME": "LAEVICAUDATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3945,10 +3945,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "These two taxa with several superficial similarities were formerly grouped together in Gonchostraca, or clam shrimps, but are no longer thought to belong to a monophyletic taxon. Nevertheless, it is still convenient to refer to them unofficially as “conchostraca.” The 200 extant described species are characterized by the large, bivalved carapace that encloses the entire body so that, when viewed from the outside, the animal resembles a small clam. The carapace is laterally compressed, unlike that of notostracans, and equipped with a strong transverse adductor muscle."
+    "LEGENDA": "These two taxa with several superficial similarities were formerly grouped together in Gonchostraca, or clam shrimps, but are no longer thought to belong to a monophyletic taxon. Nevertheless, it is still convenient to refer to them unofficially as “conchostraca.” "
   },
   {
-    "NUMBER": 283,
+    "NUMBER": "283",
     "NAME": "SPINICAUDATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3959,10 +3959,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "These two taxa with several superficial similarities were formerly grouped together in Gonchostraca, or clam shrimps, but are no longer thought to belong to a monophyletic taxon. Nevertheless, it is still convenient to refer to them unofficially as “conchostraca.” The 200 extant described species are characterized by the large, bivalved carapace that encloses the entire body so that, when viewed from the outside, the animal resembles a small clam. The carapace is laterally compressed, unlike that of notostracans, and equipped with a strong transverse adductor muscle."
+    "LEGENDA": "These two taxa with several superficial similarities were formerly grouped together in Gonchostraca, or clam shrimps, but are no longer thought to belong to a monophyletic taxon. Nevertheless, it is still convenient to refer to them unofficially as “conchostraca.” "
   },
   {
-    "NUMBER": 284,
+    "NUMBER": "284",
     "NAME": "ANOMOPODA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3973,10 +3973,10 @@ const databaseProcessing = [
     "SUBORDER": "ANOMOPODA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Trunk is short and enclosed by a well-developed, hingeless, laterally compressed, bivalve carapace. Head is expanded dorsally and laterally to form a head shield. Trunk is short, its segments fused. Five or six pairs of dissimilar trunk appendages which do not beat in metachronal waves. Postabdomen reflexed anteriorly under trunk. Postabdomen has a pair of long setae and a pair of large terminal claws. Development is direct; hatch as miniature adults. Resting eggs enclosed in ephippium derived from the carapace. Freshwater. Nine families including Bosminidae, Chydoridae, Daphniidae, Macrothricidae, and Moinidae. The majority of cladocerans are anomopods. Alona, Bosmina, Ceriodaphnia, Chydorus, Daphnia, Macrothrix, Moina, Scapholeberis."
+    "LEGENDA": "Trunk is short and enclosed by a well-developed, hingeless, laterally compressed, bivalve carapace. Head is expanded dorsally and laterally to form a head shield. Trunk is short, its segments fused. Five or six pairs of dissimilar trunk appendages which do not beat in metachronal waves. Postabdomen reflexed anteriorly under trunk."
   },
   {
-    "NUMBER": 285,
+    "NUMBER": "285",
     "NAME": "CTENOPODA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -3987,10 +3987,10 @@ const databaseProcessing = [
     "SUBORDER": "CTENOPODA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Similar to anomopods. Short trunk is enclosed by well-developed, laterally compressed, bivalve carapace lacking a true hinge. No head shield. Six pairs of similar trunk appendages beat in rhythmic waves. Post abdomen has a pair of long setae and a pair of large terminal claws. Development is direct; hatch as miniature adults. Chiefly freshwater, but one marine genus. Two families, Holopediidae and Sididae. Holopedium, Sida."
+    "LEGENDA": "Similar to anomopods. Short trunk is enclosed by well-developed, laterally compressed, bivalve carapace lacking a true hinge. No head shield. Six pairs of similar trunk appendages beat in rhythmic waves. Post abdomen has a pair of long setae and a pair of large terminal claws. "
   },
   {
-    "NUMBER": 286,
+    "NUMBER": "286",
     "NAME": "ONYCHOPODA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4001,10 +4001,10 @@ const databaseProcessing = [
     "SUBORDER": "ONYCHOPODA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Do not closely resemble anomopods or ctenopods. Head and trunk are short. Carapace is reduced, represented only by dorsal brood pouch; does not enclose trunk. Development is direct. Freshwater, marine predators. Trunk appendages raptorial, adapted for grasping rather than filtering. Includes Cercopagidae, Podonidae, Polyphemidae. Bythotrephes, Evadne, Podon, Polyphemus."
+    "LEGENDA": "Do not closely resemble anomopods or ctenopods. Head and trunk are short. Carapace is reduced, represented only by dorsal brood pouch; does not enclose trunk. Development is direct. Freshwater, marine predators. "
   },
   {
-    "NUMBER": 287,
+    "NUMBER": "287",
     "NAME": "HAPLOPODA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4015,10 +4015,10 @@ const databaseProcessing = [
     "SUBORDER": "HAPLOPODA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Very different from other cladocerans. Elongate head and body. Carapace is a dorsal brood pouch in females, absent in males. Freshwater zooplanktivores. Much larger than other cladocerans, up to 18 mm. Anterior trunk.appendages are raptorial and adapted for grasping smaller zooplankters. Development indirect, hatching stage is a metanauplius. Leptodoridae the only family, Leptodora kindtii the only species."
+    "LEGENDA": "Very different from other cladocerans. Elongate head and body. Carapace is a dorsal brood pouch in females, absent in males. Freshwater zooplanktivores. Much larger than other cladocerans, up to 18 mm. Anterior trunk.appendages are raptorial and adapted for grasping smaller zooplankters. "
   },
   {
-    "NUMBER": 288,
+    "NUMBER": "288",
     "NAME": "LEPTOSTRACA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4029,10 +4029,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Leptostracans, or phyllocarids, are small, benthic marine malacostracans. They look like tiny shrimps enclosed in an enormous carapace. About 20 species occur worldwide and range in length from 10 to 40 mm. Except for a single planktonic species, all are benthic and found from the intertidal to the deep sea. Species of Nebalia occur in mud and seaweed on the both coasts of North America."
+    "LEGENDA": "Leptostracans, or phyllocarids, are small, benthic marine malacostracans. They look like tiny shrimps enclosed in an enormous carapace. About 20 species occur worldwide and range in length from 10 to 40 mm."
   },
   {
-    "NUMBER": 289,
+    "NUMBER": "289",
     "NAME": "STOMATOPODA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4043,10 +4043,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "The 300 species of marine crustaceans known as mantis shrimps constitute Stomatopoda. Mantis shrimp are highly specialized predators of fishes, crabs, shrimps, and molluscs, and many of their distinctive features are related to their raptorial behavior. The dorsoventrally depressed body is divided into a head, thorax, and abdomen and there is no cephalothorax. The head bears a pair of large, stalked compound eyes and a single median naupliar eye. The first antennae are unusual in being triramous, with three flagella. Each second antenna consists of a peduncle, flagellum, and large antennal scale. Dorsally, a shieldlike carapace covers the head and first four thoracic segments. A movable median rostrum articulates with the anterior edge of the carapace and covers the bases of the eyestalks."
+    "LEGENDA": "The 300 species of marine crustaceans known as mantis shrimps constitute Stomatopoda. Mantis shrimp are highly specialized predators of fishes, crabs, shrimps, and molluscs, and many of their distinctive features are related to their raptorial behavior. The dorsoventrally depressed body is divided into a head, thorax, and abdomen and there is no cephalothorax."
   },
   {
-    "NUMBER": 290,
+    "NUMBER": "290",
     "NAME": "DECAPODA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4057,10 +4057,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Decapoda includes shrimps, crayfishes, lobsters, and crabs and are certainly the most familiar crustaceans. Most decapods are large and many are edible and support important fisheries. The approximately 10,000 described species represent about one-quarter of the known crustaceans. Because of their large size, abundance, and ecological and economic importance, decapods are the most carefully studied and best-known crustaceans. Most are marine and benthic, but the crayfishes and some shrimps and crabs have invaded fresh water A few crabs are terrestrial and some decapods are planktonic."
+    "LEGENDA": "Decapoda includes shrimps, crayfishes, lobsters, and crabs and are certainly the most familiar crustaceans. Most decapods are large and many are edible and support important fisheries. The approximately 10,000 described species represent about one-quarter of the known crustaceans. "
   },
   {
-    "NUMBER": 291,
+    "NUMBER": "291",
     "NAME": "ANASPIDACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4071,10 +4071,10 @@ const databaseProcessing = [
     "SUBORDER": "ANASPIDACEA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Anaspidaceans are shrimp like syncaridans with many primitive characteristics. Segments and appendages are only moderately specialized. The first thoracic segment bears maxillipeds and is fused with the head to form a small cephalothorax, but there is no carapace. The remaining thoracic appendages are similar to each other. The abdomen consists of six segments with up to five pairs of pleopods. Pleopods 1 and 2 of the male are intromittent organs, and fertilization is internal. The telson and a pair of uropods are on the sixth abdominal segment. Anaspidaceans inhabit relictual fresh-water habitats where there are few or no predators. They are found in caves, streams, and lakes in Tasmania, Australia, New Zealand, and South America. Several live in crayfish burrows and many inhabit lacustrine vegetation beds. Anaspidaceans are suspension feeders or omnivores, and the largest is 5 cm in length."
+    "LEGENDA": "Anaspidaceans are shrimp like syncaridans with many primitive characteristics. Segments and appendages are only moderately specialized. The first thoracic segment bears maxillipeds and is fused with the head to form a small cephalothorax, but there is no carapace. The remaining thoracic appendages are similar to each other."
   },
   {
-    "NUMBER": 292,
+    "NUMBER": "292",
     "NAME": "BATHYNELLACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4085,10 +4085,10 @@ const databaseProcessing = [
     "SUBORDER": "BATHYNELLACEA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Bathynellaceans are elongate, blind, interstitial or groundwater syncaridans. Most occur in fresh water or, in a few instances, brackish water. Thermobathynella occurs in hot springs at temperatures of up to 55°C. The body is small and vermiform with reduced appendages, as is characteristic of interstitial animals. The tagmata are a head, thorax, and abdomen with no secondary tagmosis. The thorax consists of eight segments, but none is fused with the head. Cephalothorax, maxillipeds, and carapace are absent. Thoracic appendages 1 through 7 are similar and biramous. The eighth thoracopod is reduced or absent. The last of the six abdominal segments is fused with the telson to form a pleotelson. Abdominal appendages, with the exception of a pair of uropods on the pleotelson, are reduced or absent."
+    "LEGENDA": "Bathynellaceans are elongate, blind, interstitial or groundwater syncaridans. Most occur in fresh water or, in a few instances, brackish water. Thermobathynella occurs in hot springs at temperatures of up to 55°C. The body is small and vermiform with reduced appendages, as is characteristic of interstitial animals."
   },
   {
-    "NUMBER": 293,
+    "NUMBER": "293",
     "NAME": "EUPHAUSIACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4099,10 +4099,10 @@ const databaseProcessing = [
     "SUBORDER": "EUPHAUSIACEA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Euphausiaceans, or krill, are pelagic crustaceans approximately 3 cm in length. All 85 described species are marine. Like primitive decapods, krill have a shrimplike body with a highly developed carapace fused with all thoracic segments. Unlike the decapods, however, the euphausiacean carapace does not extend ventrally beyond the bases of the legs. It does not form a branchial chamber and the gills are exposed. The thoracic legs are biramous and the gills are filamentous epipods on the protopod. The thoracic exopods move rhythmically to ventilate the gills. Although there are eight pairs of thoracic appendages, the eighth, and sometimes the seventh, are reduced. The second pair of thoracopods may be raptorial in carnivorous species, but maxillipeds are absent. Pleopods, uropods, and telson resemble those of shrimps."
+    "LEGENDA": "Euphausiaceans, or krill, are pelagic crustaceans approximately 3 cm in length. All 85 described species are marine. Like primitive decapods, krill have a shrimplike body with a highly developed carapace fused with all thoracic segments. "
   },
   {
-    "NUMBER": 294,
+    "NUMBER": "294",
     "NAME": "THERMOSBAENA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4113,10 +4113,10 @@ const databaseProcessing = [
     "SUBORDER": "THERMOSBAENA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "The only higher-level pancaridan taxon, Thermosbaenacea, consists of about 35 subterranean species from hot springs, caves, and ground water and a few from coastal marine interstitial habitats. Thermosbaenaceans are small crustaceans of only a few millimeters in length. Morphology is variable, but the head is fused with one thoracic segment, producing a small cephalothorax and a pereon of seven segments. The small carapace is fused with the first thoracic segment and covers a variable number of additional segments. In females the carapace is expanded to form a dorsal brood pouch. There are no oostegites. The first thoracopod is a maxilliped, and most pereopods are biramous. Pleopods are present only on the anterior abdominal segments and segment 6 bears the uropods and telson. Thermosbaenaceans are detritivores that swim upside down using the pereopods. The carapace is the chief respiratory surface and the very short heart has only one pair of ostia. Nephridia are unknown. Fertilization is probably internal."
+    "LEGENDA": "The only higher-level pancaridan taxon, Thermosbaenacea, consists of about 35 subterranean species from hot springs, caves, and ground water and a few from coastal marine interstitial habitats. Thermosbaenaceans are small crustaceans of only a few millimeters in length. "
   },
   {
-    "NUMBER": 295,
+    "NUMBER": "295",
     "NAME": "MYSIDACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4127,10 +4127,10 @@ const databaseProcessing = [
     "SUBORDER": "MYSIDACEA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Mysidaceans are small, shrimphke peracarids of freshwater, brackish, and marine habitats. Most are 2 to 30 mm in length, but the bathypelagic Gnathophausia may reach 35 cm. Some are important members of northern lakes, but most are marine; they may be benthic or pelagic."
+    "LEGENDA": "Mysidaceans are small, shrimphke peracarids of freshwater, brackish, and marine habitats. Most are 2 to 30 mm in length, but the bathypelagic Gnathophausia may reach 35 cm. Some are important members of northern lakes, but most are marine; they may be benthic or pelagic. "
   },
   {
-    "NUMBER": 296,
+    "NUMBER": "296",
     "NAME": "GAMMARIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4141,10 +4141,10 @@ const databaseProcessing = [
     "SUBORDER": "AMPHIPODA",
     "FAMILY": "GAMMARIDEA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "The largest amphipod taxon, Gammaridea, includes about 5000 of the 6000 amphipod species. These are the “typical” amphipods most like the stem amphipod. Gammarideans usually are laterally compressed, although some are dorsoventrally depressed. Most are benthic and usually remain closely associated with the bottom despite being capable of swimming. Typical gammarideans have large coxal plates, a large abdomen with six pairs of appendages, and relatively small compound eyes. The first thoracic segment is fused with the head to form a cephalothorax."
+    "LEGENDA": "The largest amphipod taxon, Gammaridea, includes about 5000 of the 6000 amphipod species. These are the “typical” amphipods most like the stem amphipod. Gammarideans usually are laterally compressed, although some are dorsoventrally depressed. "
   },
   {
-    "NUMBER": 297,
+    "NUMBER": "297",
     "NAME": "HYPERIIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4155,10 +4155,10 @@ const databaseProcessing = [
     "SUBORDER": "AMPHIPODA",
     "FAMILY": "HYPERIIDEA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Hyperiidea is a taxon of about 500 species of pelagic marine amphipods. What little is known of their life histories suggests that all hyperiideans spend at least part of the life cycle as commensals or parasites of gelatinous zooplankters such as salps, siphonophores, jellyfishes, and ctenophores. For example, members of Phronimidae live in the barrel-shaped tunic of salps, which they propel through the water."
+    "LEGENDA": "Hyperiidea is a taxon of about 500 species of pelagic marine amphipods. What little is known of their life histories suggests that all hyperiideans spend at least part of the life cycle as commensals or parasites of gelatinous zooplankters such as salps, siphonophores, jellyfishes, and ctenophores. "
   },
   {
-    "NUMBER": 298,
+    "NUMBER": "298",
     "NAME": "CAPRELLIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4169,10 +4169,10 @@ const databaseProcessing = [
     "SUBORDER": "AMPHIPODA",
     "FAMILY": "CAPRELLIDEA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Species of the aptly named skeleton shrimps are highly derived, strictly marine benthic amphipods adapted for a life of clinging to complex substrata such as sea weeds, bryozoans, and hydroids. Most are lie-in-wait predators of small invertebrates, but some consume epiphytic diatoms. There are about 350 extant described species. The body, which bears little resemblance to that of other amphipods, is elongate, sticklike, cylindrical, and not laterally compressed. The second thoracic segment is partially fused with the head to create a cephalothorax consisting of the head plus two thoracic segments. The first thoracic appendages are maxillipeds, as usual, but those of the second remain gnathopods. The third thoracic segment bears the second pair of gnathopods. Thoracic segments 4 and 5 bear slender, reduced or vestigial pereopods, gills, and, infemales, largeoostegites. The marsupium is thus restricted to the middle of the thorax on the fourth and fifth thoracic segments. Thoracic appendages 6 through 8 are well-developed, subchelate prehensile legs used to cling tenaciously to the substratum. Coxae are reduced or vestigial. The abdomen consists of five small segments with vestigial appendages."
+    "LEGENDA": "Species of the aptly named skeleton shrimps are highly derived, strictly marine benthic amphipods adapted for a life of clinging to complex substrata such as sea weeds, bryozoans, and hydroids. Most are lie-in-wait predators of small invertebrates, but some consume epiphytic diatoms. There are about 350 extant described species. "
   },
   {
-    "NUMBER": 299,
+    "NUMBER": "299",
     "NAME": "INGOLFIELLIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4183,10 +4183,10 @@ const databaseProcessing = [
     "SUBORDER": "AMPHIPODA",
     "FAMILY": "INGOLFIELLIDEA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Ingolfiellideans, some of which are less than 1 mm long, are adapted for interstitial habitats in both marine and freshwater environments. The body is cylindrical and the thorax and abdomen are well developed. The pleopods are vestigial, but the first two pairs of uropods are strong. The 30 known species occur in hypogean (subterranean), interstitial, and deep-sea habitats. Their small size, loss of eyes and pigmentation, vermiform shape, and reduced appendages are familiar adaptations for life in interstitial habitats. Ingolfiella."
+    "LEGENDA": "Ingolfiellideans, some of which are less than 1 mm long, are adapted for interstitial habitats in both marine and freshwater environments. The body is cylindrical and the thorax and abdomen are well developed."
   },
   {
-    "NUMBER": 300,
+    "NUMBER": "300",
     "NAME": "CUMACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4200,7 +4200,7 @@ const databaseProcessing = [
     "LEGENDA": "Cumaceans are small inhabitants of sand and mud bottoms. The taxon is small, with about 800 species of distinctively tadpole-shaped and easily recognized marine peracaridans. Most are about 1 mm in length, and the largest is about 4 mm. They reach their greatest diversity and ecological significance in the deep sea."
   },
   {
-    "NUMBER": 301,
+    "NUMBER": "301",
     "NAME": "MICTACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4211,10 +4211,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Mictacea was described in 1985 and is now known from two small, subcylindrical species: Hirsutia bathyalis from 1000 m in the North Atlantic and South Pacific and Mictocarishalope from Bermudan sea caves. The largest is 3.5 mm in length. The first thoracomere is fused with the head and its appendages are maxillipeds. The carapace covers only the first thoracomere. The seven pereopods are biramous with setose exopods used primarily for swimming. Oostegites are present on most pereopods of females and form a marsupium. The six-segmented abdomen bears reduced pleopods on its first five segments and well-developed uropods and a telson on the sixth. Mictaceans probably are detritivores, but little is known of their biology."
+    "LEGENDA": "Mictacea was described in 1985 and is now known from two small, subcylindrical species: Hirsutia bathyalis from 1000 m in the North Atlantic and South Pacific and Mictocarishalope from Bermudan sea caves. The largest is 3.5 mm in length. The first thoracomere is fused with the head and its appendages are maxillipeds. The carapace covers only the first thoracomere."
   },
   {
-    "NUMBER": 302,
+    "NUMBER": "302",
     "NAME": "SPELAEOGRIPHACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4225,10 +4225,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "This small taxon of subterranean peracaridans includes only three known species: Spelaeogriphus lepidops from Bat Cave in Table Mountain, South Africa; the Brazilian Potiicoara brasiliensis; and Mangkurtu mityula from Western Australia. The body is long and cylindrical and may reach up to 9 mm in length. The head thoracomere is fused with the head and bears maxillipeds. A small carapace extends posteriorly to cover the second thoracomere and part of the third. Most of the seven pereopods are biramous and their exopods are gills. Females have oostegites on the first five pereopods. The abdomen has six segments and the biramous, setose pleopods are mostly well developed and natatory, although the fifth is vestigial. The uropods are biramous. The biology and internal anatomy are poorly known."
+    "LEGENDA": "This small taxon of subterranean peracaridans includes only three known species: Spelaeogriphus lepidops from Bat Cave in Table Mountain, South Africa; the Brazilian Potiicoara brasiliensis; and Mangkurtu mityula from Western Australia. The body is long and cylindrical and may reach up to 9 mm in length. The head thoracomere is fused with the head and bears maxillipeds. "
   },
   {
-    "NUMBER": 303,
+    "NUMBER": "303",
     "NAME": "TANAIDACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4239,10 +4239,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Tanaidaceans are small, marine, benthic crustaceans. Most of the approximately 700 described species are only 2 to 5 mm in length, although one reaches 12 cm. The body is elongate and cylindrical or depressed in cross section. The head is fused with the first two thoracic segments to form a cephalothorax, which is covered by a carapace. The appendages of the head thoracic segment form a maxilliped whereas those of the second are chelipeds, which may be very large. Chelipeds on the second thoracic segment are a distinctive feature of tanaidaceans. The remaining six thoracic segments form the pereon and their appendages are pereopods. In many tanaidaceans, silk glands in the pereon open at pores at the tips of several anterior pereopods. Silk is used in tube construction and for draglines. Female pereopods 1 to 4 usually bear oostegites that form a marsupium. Some have oostegites only on the fourth pereopods."
+    "LEGENDA": "Tanaidaceans are small, marine, benthic crustaceans. Most of the approximately 700 described species are only 2 to 5 mm in length, although one reaches 12 cm. The body is elongate and cylindrical or depressed in cross section. "
   },
   {
-    "NUMBER": 304,
+    "NUMBER": "304",
     "NAME": "FLABELLIFERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4253,10 +4253,10 @@ const databaseProcessing = [
     "SUBORDER": "FLABELLIFERA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "A large, diverse, important taxon of chiefly marine, benthic isopods. The majority of shallow-water, marine, benthic isopods are flabelliferans. Body usually is depressed, often broadly arched in cross section. Many resemble terrestrial wood lice. A few freshwater species. Many are carnivores or parasites of fishes. Bathynomus, Cirolana, Cymothoa, Lirnnoria, Paracerceis, Sphaeroma, Rocinela."
+    "LEGENDA": "A large, diverse, important taxon of chiefly marine, benthic isopods. The majority of shallow-water, marine, benthic isopods are flabelliferans. Body usually is depressed, often broadly arched in cross section. "
   },
   {
-    "NUMBER": 305,
+    "NUMBER": "305",
     "NAME": "VALVIFERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4267,10 +4267,10 @@ const databaseProcessing = [
     "SUBORDER": "VALVIFERA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Another important taxon of marine, benthic isopods. Uropods ventral to the pleotelson form opercula (valves) to enclose and protect branchial chamber and pieopods. Pleotelson often elongate. Erichsonella, Idotea."
+    "LEGENDA": "Another important taxon of marine, benthic isopods. Uropods ventral to the pleotelson form opercula (valves) to enclose and protect branchial chamber and pieopods. Pleotelson often elongate. Erichsonella, Idotea. "
   },
   {
-    "NUMBER": 306,
+    "NUMBER": "306",
     "NAME": "ASELLOTA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4284,7 +4284,7 @@ const databaseProcessing = [
     "LEGENDA": "Chiefly freshwater, but some deep-sea species. Most freshwater isopods are asellotes; both epigean (surface waters) and subterranean. Caecidotea, Lirceus, Munna."
   },
   {
-    "NUMBER": 307,
+    "NUMBER": "307",
     "NAME": "ANTHURIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4298,7 +4298,7 @@ const databaseProcessing = [
     "LEGENDA": "Chiefly shallow-water, marine, benthic. Mostly Southern Hemisphere. Body elongate, subcylindrical. Most burrow in soft sediments or occupy crevices in hard substrata. A few in hypogean freshwaters. Apanthura, Cyathura."
   },
   {
-    "NUMBER": 308,
+    "NUMBER": "308",
     "NAME": "PHERATOICIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4312,7 +4312,7 @@ const databaseProcessing = [
     "LEGENDA": "Small taxon of amphipod-like freshwater isopods. Only in South Africa, India, New Zealand, and Australia. Feed on plant detritus. Nichollsia, Phreatoicus."
   },
   {
-    "NUMBER": 309,
+    "NUMBER": "309",
     "NAME": "ONISCOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4323,10 +4323,10 @@ const databaseProcessing = [
     "SUBORDER": "ONISCOIDEA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Semiterrestrial and terrestrial isopods Some are so well adapted to terrestrial habitats that they inhabit deserts. Includes supratidal sea slaters and fully terrestrial wood lice, pill bugs, sow bugs. Herbivores. Armadillidium, Ligia, Oniscus, Porcellio, Tylos."
+    "LEGENDA": "Semiterrestrial and terrestrial isopods Some are so well adapted to terrestrial habitats that they inhabit deserts. Includes supratidal sea slaters and fully terrestrial wood lice, pill bugs, sow bugs. Herbivores. Armadillidium, Ligia."
   },
   {
-    "NUMBER": 310,
+    "NUMBER": "310",
     "NAME": "MICROCERBERIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4340,7 +4340,7 @@ const databaseProcessing = [
     "LEGENDA": "Tiny interstitial isopods. Freshwater, shallow marine habitats. Vermiform, cylindrical in cross section, as is typical of interstitial animals. Microcerberus."
   },
   {
-    "NUMBER": 311,
+    "NUMBER": "311",
     "NAME": "GNATHIIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4351,10 +4351,10 @@ const databaseProcessing = [
     "SUBORDER": "GNATHIIDEA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Small taxon of parasitic marine isopods. Juvenile stages parasitic on fishes; adults do not feed. Adults subsist on fish blood stored in the digestive ceca as juveniles. Adults live in burrows constructed by the male. Some are viviparous, female retains and gestates developing embryos in ovaries. Gnathia, Paragnathia."
+    "LEGENDA": "Small taxon of parasitic marine isopods. Juvenile stages parasitic on fishes; adults do not feed. Adults subsist on fish blood stored in the digestive ceca as juveniles. Adults live in burrows constructed by the male. "
   },
   {
-    "NUMBER": 312,
+    "NUMBER": "312",
     "NAME": "EPICARIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4365,10 +4365,10 @@ const databaseProcessing = [
     "SUBORDER": "EPICARIDEA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Large taxon of highly modified, parasitic, marine isopods. Sucking mouthparts; feed on blood of crustacean hosts. Asymmetrical female is highly modified for parasitism and barely recognizable as an isopod. Male is a dwarf, usually symmetrical and isopod-like. Some are hermaphroditic. Asymmetrione, Athelges, Bopyrus Cancricepon, Cyproniscus, Probopyrus."
+    "LEGENDA": "Large taxon of highly modified, parasitic, marine isopods. Sucking mouthparts; feed on blood of crustacean hosts. Asymmetrical female is highly modified for parasitism and barely recognizable as an isopod. "
   },
   {
-    "NUMBER": 313,
+    "NUMBER": "313",
     "NAME": "TRACHEATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4379,10 +4379,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBCLADE",
-    "LEGENDA": "Hexapods (insects), centipedes, and millipedes, along with their less well-known relatives the pauropods and symphylans, form a taxon known as Tracheata, which is one of the two great taxa of terrestrial arthropods (the other being Arachnida). The ancestral tracheate was a terrestrial mandibulate with tracheae and a body consisting of a series of similar, unspecialized segments like those of some Recent centipedes."
+    "LEGENDA": "Hexapods (insects), centipedes, and millipedes, along with their less well-known relatives the pauropods and symphylans, form a taxon known as Tracheata, which is one of the two great taxa of terrestrial arthropods (the other being Arachnida). "
   },
   {
-    "NUMBER": 314,
+    "NUMBER": "314",
     "NAME": "SCUTIGEROMORPHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4393,10 +4393,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Long legs, long antennae, well-developed pseudo faceted eyes. Some live in and around buildings. Scutigera coleoptrata, the cosmopolitan house centipede is sometimes found in an (empty) bathtub or washbasin or seen scurrying across the floor. Have 15 pairs of legs; extremely fast, fast enough to catch flies. Spiracles are dorsal, on the tergites. Open ground hunters rely on speed to capture prey. Earliest known centipede fossils are scutigeromorphs from the late Silurian."
+    "LEGENDA": "Long legs, long antennae, well-developed pseudo faceted eyes. Some live in and around buildings. Scutigera coleoptrata, the cosmopolitan house centipede is sometimes found in an (empty) bathtub or washbasin or seen scurrying across the floor. "
   },
   {
-    "NUMBER": 315,
+    "NUMBER": "315",
     "NAME": "LITHOBIOMORPHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4410,7 +4410,7 @@ const databaseProcessing = [
     "LEGENDA": "Robust, flat. Inhabit enclosed spaces among stones, in soil, under bark. Lithobius."
   },
   {
-    "NUMBER": 316,
+    "NUMBER": "316",
     "NAME": "GEOPHILOMORPHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4424,7 +4424,7 @@ const databaseProcessing = [
     "LEGENDA": "Long, threadlike, adapted for living in soil. Have 27 to 191 pairs of legs, the most of any centipede. Blind. Unlike other centipedes, all tergites are the same length rather than alter- nately long and short. Dicellophilus, Stigmatogaster."
   },
   {
-    "NUMBER": 317,
+    "NUMBER": "317",
     "NAME": "SCOLOPENDROMORPHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4438,7 +4438,7 @@ const databaseProcessing = [
     "LEGENDA": "Large, heavy-bodied, flattened. In crevices, beneath stones, under bark and logs, insoil. Otocryptops, Scolopendra."
   },
   {
-    "NUMBER": 318,
+    "NUMBER": "318",
     "NAME": "CRATEROSTIGMOMORPHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4452,7 +4452,7 @@ const databaseProcessing = [
     "LEGENDA": "One described species, Craterostigmus tasmanianus, from Tasmania, and an undescribed species from New Zealand. Have 21 tergites and 15 pairs of legs."
   },
   {
-    "NUMBER": 319,
+    "NUMBER": "319",
     "NAME": "SYMPHYLA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4463,10 +4463,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBCLADE",
-    "LEGENDA": "Symphyla is a small taxon of approximately 160 described species of moist soil and leaf litter found in most parts of the world. Their permeable cuticle restricts them to humid habitats."
+    "LEGENDA": "Symphyla is a small taxon of approximately 160 described species of moist soil and leaf litter found in most parts of the world. Their permeable cuticle restricts them to humid habitats. "
   },
   {
-    "NUMBER": 320,
+    "NUMBER": "320",
     "NAME": "PENICILLATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4477,10 +4477,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Very small (< 4 mm), distinctly bristly due to unique lateral and posterior tufts of serrate setae. The most primitive millipedes and those most like the diplopod ground plan. Cuticle is uncalcified, soft, flexible, unlike that of all other millipedes. Trichobothria are present on the head (but absent in all other diplopods, although present in symphylans and pauropods). Repugnatorial glands, which are present in at least some members of all other higher diplopod taxa, are absent. Sperm transfer is indirect, with spermatophores left on a silk web. Polyxenus."
+    "LEGENDA": "Very small (< 4 mm), distinctly bristly due to unique lateral and posterior tufts of serrate setae. The most primitive millipedes and those most like the diplopod ground plan. Cuticle is uncalcified, soft, flexible, unlike that of all other millipedes."
   },
   {
-    "NUMBER": 321,
+    "NUMBER": "321",
     "NAME": "PENTAZONIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4491,10 +4491,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Unlike other millipedes; superficially look more like crustacean pill bugs, or wood lice. Legs are inconspicuous. Body is short, strongly convex dorsally. Capable of rolling the body into a sphere (like pill bugs), with vulnerable ventral parts tucked inside and protected by the heavily sclerotized tergites on the outside. The resulting ball is invulnerable to most would-be predators. Last pair of male legs with enlarged telopods is used to hold the female’s vulva during sperm transfer. Glomeris."
+    "LEGENDA": "Unlike other millipedes; superficially look more like crustacean pill bugs, or wood lice. Legs are inconspicuous. Body is short, strongly convex dorsally. Capable of rolling the body into a sphere, with vulnerable ventral parts tucked inside and protected by the heavily sclerotized tergites on the outside."
   },
   {
-    "NUMBER": 322,
+    "NUMBER": "322",
     "NAME": "COLOBOGNATHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4505,10 +4505,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Slow-moving colobognaths are even more wormlike than the juliforms, although at 3 to 50 mm long they are usually much smaller. Body is arched dorsally. Legs are so small that they can be mistaken for worms. Pointed head is narrower than body. Mouth parts are reduced, mandibles are stylets used for piercing and sucking. Food is assumed to be decayed and partially liquefied vegetation. Females and occasionally males protect the eggs by curling around them. Polyzonium."
+    "LEGENDA": "Slow-moving colobognaths are even more wormlike than the juliforms, although at 3 to 50 mm long they are usually much smaller. Body is arched dorsally. Legs are so small that they can be mistaken for worms. Pointed head is narrower than body. Mouth parts are reduced, mandibles are stylets used for piercing and sucking. "
   },
   {
-    "NUMBER": 323,
+    "NUMBER": "323",
     "NAME": "MEROCHAETA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4522,7 +4522,7 @@ const databaseProcessing = [
     "LEGENDA": "Common, widespread. Large lateral paranota create a depressed appearance. Three to 130 mm long. Most have 20 diplo segments. Apheloria, Polydesmus, Sigmoria."
   },
   {
-    "NUMBER": 324,
+    "NUMBER": "324",
     "NAME": "NEMATOPHORA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4533,10 +4533,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Body is cylindrical, may appear flattened if paranota are well developed. Three setae on the dorsal posterior margin of the telson ring are spinnerets. Have a mandibular molar with a strong posterior cusp, unknown in other millipedes. Chordeuma."
+    "LEGENDA": "Body is cylindrical, may appear flattened if paranota are well developed. Three setae on the dorsal posterior margin of the telson ring are spinnerets. Have a mandibular molar with a strong posterior cusp, unknown in other millipedes. Chordeuma. "
   },
   {
-    "NUMBER": 325,
+    "NUMBER": "325",
     "NAME": "JULIFORMIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4547,10 +4547,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "The most common, familiar millipedes. Cylindrical, smooth, shiny, often large, with elongate, wormlike bodies. The largest millipedes, with some reaching 30 cm in length. To facilitate movement through the substratum, the collum is enlarged and covers part of the head capsule and anterior trunk. Repugnatorial secretions contain benzoquinones that are unique in millipedes but common in other arthropods. Cylindroiulus, Narceus."
+    "LEGENDA": "The most common, familiar millipedes. Cylindrical, smooth, shiny, often large, with elongate, wormlike bodies. The largest millipedes, with some reaching 30 cm in length. To facilitate movement through the substratum, the collum is enlarged and covers part of the head capsule and anterior trunk. "
   },
   {
-    "NUMBER": 326,
+    "NUMBER": "326",
     "NAME": "COLLEMBOLA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4564,7 +4564,7 @@ const databaseProcessing = [
     "LEGENDA": "Small, wingless, with abdominal furcula (jumping organ), collophore for water uptake. Abundant (but rarely noticed) in leaf litter, soil, rotten wood. Some are tolerant of dry conditions. Most feed on decaying plant material and fungi. Of all entognaths, collembolans are the most unlike the insects. Anurida, Hypogastrura, Isotomci, Neelus, Onychiurus, Podura, Sminthurus, Tomocerus."
   },
   {
-    "NUMBER": 327,
+    "NUMBER": "327",
     "NAME": "PROTURA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4575,10 +4575,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Small taxon. < 2 mm long. Antennae and eyes lost. Sensory forelegs are held forward, antenna-like. Head is conical. Restricted to moist habitats, such as leaf litter and soil, by intolerance of desiccation. Probably feed on fungi. Acerentulus, Eosentomon."
+    "LEGENDA": "Small taxon. < 2 mm long. Antennae and eyes lost. Sensory forelegs are held forward, antenna-like. Head is conical. Restricted to moist habitats, such as leaf litter and soil, by intolerance of desiccation. Probably feed on fungi. Acerentulus, Eosentomon. "
   },
   {
-    "NUMBER": 328,
+    "NUMBER": "328",
     "NAME": "CAMPODEINA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4589,10 +4589,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Sometimes combined with Japygina in Diplura. Both have long, multi articulate antennae, styli on most abdominal segments, coxal organs on some. Usually only a few millimeters long. Indamphumus, decomposing wood, beneath stones, bark. Campodea."
+    "LEGENDA": "Sometimes combined with Japygina in Diplura. Both have long, multi articulate antennae, styli on most abdominal segments, coxal organs on some. Usually only a few millimeters long. Indamphumus, decomposing wood, beneath stones, bark. Campodea. "
   },
   {
-    "NUMBER": 329,
+    "NUMBER": "329",
     "NAME": "JAPYGINA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
@@ -4606,12 +4606,12 @@ const databaseProcessing = [
     "LEGENDA": "Carnivores; use pincerlike abdominal cerci to capture prey. Anajapyx, Japyx."
   },
   {
-    "NUMBER": 330,
+    "NUMBER": "330",
     "NAME": "ARCHAEOGNATHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "----------------------------",
     "ORDER": "ARCHAEOGNATHA",
     "SUBORDER": "----------------------------",
@@ -4620,40 +4620,40 @@ const databaseProcessing = [
     "LEGENDA": "Cylindrical, scale-covered body. Mandibles are monocondylic. Abdomen has three terminal processes. Although insects, they are apterygote. Require moist environments beneath bark, stones, in leaf litter. Jump when disturbed. Feed on algae, lichens, and moss. Ametabolous. Machilis, Petrobius."
   },
   {
-    "NUMBER": 331,
+    "NUMBER": "331",
     "NAME": "ZYGENTOMA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "----------------------------",
     "ORDER": "ZYGENTOMA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Apterygote. Styli on most abdominal segments. Mandibular articulation is dicondylic, like the remaining insects. Have three abdominal processes. Most inhabit moist habitats among dead leaves, in wood, around stones. Some absorb atmospheric moisture and are tolerant of dry environments. Some occur in houses, where they eat books and clothing. Atelura, Lepisma, Nicoletia, Thermobia, Tricholepidion."
+    "LEGENDA": "Apterygote. Styli on most abdominal segments. Mandibular articulation is dicondylic, like the remaining insects. Have three abdominal processes. Most inhabit moist habitats among dead leaves, in wood, around stones. Some occur in houses, where they eat books and clothing. Atelura, Lepisma, Nicoletia, Thermobia, Tricholepidion."
   },
   {
-    "NUMBER": 332,
+    "NUMBER": "332",
     "NAME": "EPHEMEROPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "EPHEMEROPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Adult is a delicate, graceful flying insect with net veined wings. Most have three terminal abdominal filaments. Nymphs have abdominal tracheal gills. Adults do not feed, short-lived. Hemimetabolous; aquatic nymphs, aerial adults. Have two imaginal instars, the only pterygotes to have more than one imago. Baetis, Ephemerella, Hexagenia."
+    "LEGENDA": "Adult is a delicate, graceful flying insect with net veined wings. Most have three terminal abdominal filaments. Nymphs have abdominal tracheal gills. Adults do not feed, short-lived. aquatic nymphs, aerial adults. Have two imaginal instars, the only pterygotes to have more than one imago. Baetis, Ephemerella, Hexagenia."
   },
   {
-    "NUMBER": 333,
+    "NUMBER": "333",
     "NAME": "ANISOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "ODONATA",
     "SUBORDER": "ANISOPTERA",
@@ -4662,26 +4662,26 @@ const databaseProcessing = [
     "LEGENDA": "Heavy-bodied, strong fliers that hold wings horizontally at rest. Anax, Cordulegaster, Gomphus, Macromia."
   },
   {
-    "NUMBER": 334,
+    "NUMBER": "334",
     "NAME": "ZYGOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "ODONATA",
     "SUBORDER": "ZYGOPTERA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Slender, delicate, weakfliers. Hold wings over the abdomen at rest. Calopteryx, Coenagrion, Lestes."
+    "LEGENDA": "Slender, delicate, weakfliers. Hold wings over the abdomen at rest. Calopteryx, Coenagrion, Lestes. "
   },
   {
-    "NUMBER": 335,
+    "NUMBER": "335",
     "NAME": "ENSIFERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "ORTHOPTERA",
     "SUBORDER": "ENSIFERA",
@@ -4690,12 +4690,12 @@ const databaseProcessing = [
     "LEGENDA": "Long-horned grasshoppers, katydids, mole crickets, camel crickets, true crickets. Anabrus, Ceuthophilus, Conocephalus, Gryllus, Scudderia."
   },
   {
-    "NUMBER": 336,
+    "NUMBER": "336",
     "NAME": "CAELIFERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "ORTHOPTERA",
     "SUBORDER": "CAELIFERA",
@@ -4704,12 +4704,12 @@ const databaseProcessing = [
     "LEGENDA": "Short-homed grasshoppers, monkey grasshoppers, locusts, pygmy mole crickets. Melanoplus, Romaka."
   },
   {
-    "NUMBER": 337,
+    "NUMBER": "337",
     "NAME": "PHASMIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "PHASMIDA",
     "SUBORDER": "----------------------------",
@@ -4718,26 +4718,26 @@ const databaseProcessing = [
     "LEGENDA": "Slow-moving, nonjumping, cryptic. Mimic sticks or vegetation. Repugnatorial glands. Body usually is elongate, cylindrical, and sticklike. Wings are reduced or absent except in leaf insects, in which they are large and leaflike. Chiefly herbivores. Most abundant and diverse in the tropics. The longest Recent insects are phasmids, and some are over 30 cm in length. Anisomorpha, Aplopus, Diapheromera, Timema."
   },
   {
-    "NUMBER": 338,
+    "NUMBER": "338",
     "NAME": "GRYLLOBLATTARIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "GRYLLOBLATTARIA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Elongate. Secondarily wingless. All are carnivores in cold, wet habitats, often at high elevations. Found in leaf litter, under stones or logs, in ground. Many inhabit interface between snow cover and ground surface. Twenty species. Grylloblattaria."
+    "LEGENDA": "Elongate. Secondarily wingless. All are carnivores in cold, wet habitats, often at high elevations. Found in leaf litter, under stones or logs, in ground. Many inhabit interface between snow cover and ground surface. Twenty species. Grylloblattaria. "
   },
   {
-    "NUMBER": 339,
+    "NUMBER": "339",
     "NAME": "MANTOPHASMATODEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "MANTOPHASMATODEA",
     "SUBORDER": "----------------------------",
@@ -4746,12 +4746,12 @@ const databaseProcessing = [
     "LEGENDA": "Described in 2002; the first new insect order discovered since 1914. Adults are secondarily wingless. Elongate, slender trunk. Raptorial forelegs, carnivorous. Probably allied with Mantodea and Phasmida. Four species (two extinct) in two genera (one extinct). Mantophasma, Raptophasma (extinct)."
   },
   {
-    "NUMBER": 340,
+    "NUMBER": "340",
     "NAME": "DERMAPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "DERMAPTERA",
     "SUBORDER": "----------------------------",
@@ -4760,54 +4760,54 @@ const databaseProcessing = [
     "LEGENDA": "Elongate, depressed, cosmopolitan. Superficially resemble some beetles. Large, sometimes pincerlike cerci are used for defense and prey capture. Nocturnal, omnivorous. Doru, Forficula, Labia."
   },
   {
-    "NUMBER": 341,
+    "NUMBER": "341",
     "NAME": "PLECOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "PLECOPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Aerial adults, aquatic nymphs. Two multiarticulate, caudal cerci; never have a median caudal filament. Nymphal tracheal gills, if present, tend to be thoracic. Nymphs require clean, cool, well oxygenated water and, along with mayflies and caddisflies, are important water-quality indicators. Hemimetabolous. Allacapnia, Peltoperla, Perla, Pteronarcys."
+    "LEGENDA": "Aerial adults, aquatic nymphs. Two multiarticulate, caudal cerci; never have a median caudal filament. Nymphal tracheal gills, if present, tend to be thoracic. Nymphs require clean, cool, well oxygenated water and, along with mayflies and caddisflies, are important water-quality indicators. Allacapnia, Peltoperla, Perla, Pteronarcys. "
   },
   {
-    "NUMBER": 342,
+    "NUMBER": "342",
     "NAME": "EMBIOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "EMBIOPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Feed on plants. Live in silken tunnels, which they weave ahead of themselves to create routes. Silk glands in enlarged foretarsi. Gregarious; many individuals live together in connected tunnels, although there is no social organization. Tropical, only about 10 North American species. Anisembia, Embia, Oligembia, Oligotoma."
+    "LEGENDA": "Feed on plants. Live in silken tunnels, which they weave ahead of themselves to create routes. Silk glands in enlarged foretarsi. Many individuals live together in connected tunnels, although there is no social organization. Tropical, only about 10 North American species. Anisembia, Embia, Oligembia, Oligotoma."
   },
   {
-    "NUMBER": 343,
+    "NUMBER": "343",
     "NAME": "ISOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "ISOPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Soft, unsclerotized, pale or dark body. Abdomen is broadly joined to the thorax, without narrowing of the waist. Antennae composed of multiple beadlike annuli. Forewings and hindwings of equal size. Easily distinguished from ants, which are darker and have elbowed antennae, narrow waists, and hind wings that are smaller than the forewings. Cryptotermes, Nasutitermes, Reticulitermes, Zootermopsis."
+    "LEGENDA": "Soft, unsclerotized, pale or dark body. Abdomen is broadly joined to the thorax, without narrowing of the waist. Antennae composed of multiple beadlike annuli. Forewings and hindwings of equal size. Wings that are smaller than the forewings. Cryptotermes, Nasutitermes, Reticulitermes, Zootermopsis."
   },
   {
-    "NUMBER": 344,
+    "NUMBER": "344",
     "NAME": "MANTODEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "MANTODEA",
     "SUBORDER": "----------------------------",
@@ -4816,12 +4816,12 @@ const databaseProcessing = [
     "LEGENDA": "Large, elongate, cryptically colored, relatively slow moving. Ambush predators with raptorial forelegs, elongate prothorax, freely movable head, well developed eyes and ocelli. Brunneria, Mantis, Stagmomantis, Tenodera."
   },
   {
-    "NUMBER": 345,
+    "NUMBER": "345",
     "NAME": "BLATTARIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "BLATTARIA",
     "SUBORDER": "----------------------------",
@@ -4830,12 +4830,12 @@ const databaseProcessing = [
     "LEGENDA": "Fast, usually nocturnal, omnivorous runners. A few feed on wood and harbor endosymbiotic zooflagellates similar to those of termites. Termites, cockroaches, and mantids are closely related. Blaberus, Blatta, Blatella, Periplaneta, Parcoblatta."
   },
   {
-    "NUMBER": 346,
+    "NUMBER": "346",
     "NAME": "ZORAPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "PTERYGOTA",
     "ORDER": "ZORAPTERA",
     "SUBORDER": "----------------------------",
@@ -4844,12 +4844,12 @@ const databaseProcessing = [
     "LEGENDA": "Rare; about 30 species in one genus, Zorotypus. Resemble tiny termites. Live in colonies under dead wood, often in sawdust piles in warm climates. Thought to feed on fungal spores and small, already dead arthropods."
   },
   {
-    "NUMBER": 347,
+    "NUMBER": "347",
     "NAME": "PARANEOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "PARANEOPTERA",
     "SUBORDER": "----------------------------",
@@ -4858,12 +4858,12 @@ const databaseProcessing = [
     "LEGENDA": ""
   },
   {
-    "NUMBER": 348,
+    "NUMBER": "348",
     "NAME": "PSOCOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "PSOCOPTERA",
     "SUBORDER": "----------------------------",
@@ -4872,12 +4872,12 @@ const databaseProcessing = [
     "LEGENDA": "Small, fragile, pale. Probably primitive and similar to stem hemipteroids. Have chewing mouthparts, not suctorial. Hypopharynx can extract water from atmosphere. Chiefly herbivorous. Live under bark, in foliage, under stones. The book louse, Liposcelis, is found in old, musty books, where it feeds on fungi. Archipsocus."
   },
   {
-    "NUMBER": 349,
+    "NUMBER": "349",
     "NAME": "ANOPLURA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "PHTHIRAPTERA",
     "SUBORDER": "ANOPLURA",
@@ -4886,40 +4886,40 @@ const databaseProcessing = [
     "LEGENDA": "Mammal ectoparasites. Suck blood using sucking mouthparts and a pharyngeal pump. Some are disease vectors. Human crab louse (pubic louse, Phthirus pubis), human body louse (Pediculus humanus), human head louse (Pediculuscapitis)."
   },
   {
-    "NUMBER": 350,
+    "NUMBER": "350",
     "NAME": "MALLOPHAGA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "PHTHIRAPTERA",
     "SUBORDER": "MALLOPHAGA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Parasitize mostly birds. Chewing mouthparts, well-developed mandibles. Most feed on skin, hair, feather particles. Cuclotogaster, Felicola, Menacanthus, Menopon. Trichodectes canis is an intermediate host for the dog tapeworm."
+    "LEGENDA": "Parasitize mostly birds. Chewing mouthparts, well-developed mandibles. Most feed on skin, hair, feather particles. Cuclotogaster, Felicola, Menacanthus, Menopon. Trichodectes canis is an intermediate host for the dog tapeworm. "
   },
   {
-    "NUMBER": 351,
+    "NUMBER": "351",
     "NAME": "HETEROPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "HEMIPTERA",
     "SUBORDER": "HETEROPTERA",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBORDER",
-    "LEGENDA": "Forewings (hemielytra) have distinctive proximal sclerotized and distal membranous regions. Hind wings are entirely membranous. Most have repugnatorial (stink) glands. Most are terrestrial, but there are several important aquatic and semiaquatic families. Corixa, Dysdercus, Gerris, Lygaeus, Murgantia, Notonecta, Reduvius, Triatoma."
+    "LEGENDA": "Forewings (hemielytra) have distinctive proximal sclerotized and distal membranous regions. Hind wings are entirely membranous. Most have repugnatorial (stink) glands. Terrestrial, aquatic or semiaquatic families. Corixa, Dysdercus, Gerris, Lygaeus, Murgantia, Notonecta, Reduvius, Triatoma."
   },
   {
-    "NUMBER": 352,
+    "NUMBER": "352",
     "NAME": "HOMOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "HEMIPTERA",
     "SUBORDER": "HOMOPTERA",
@@ -4928,40 +4928,40 @@ const databaseProcessing = [
     "LEGENDA": "Strictly herbivorous; feed on plant juices. Both pair of wings are membraneous, no hemielytra. Adelges, Aetalion, Aphis, Magicicada, Philaenus."
   },
   {
-    "NUMBER": 353,
+    "NUMBER": "353",
     "NAME": "THYSANOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "THYSANOPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Small (0.5 to 15 mm). Suctorial mouthparts, cibarial pump. May be economically important as herbivores, plant-disease vectors, or pollinators. Wings are distinctive, narrow, have few veins, and are fringed with setae. Aeolothrips, Heterothrips, Idolothrips, Merothrips, Thrips"
+    "LEGENDA": "Very small. Suctorial mouthparts, cibarial pump. May be economically important as herbivores, plant-disease vectors, or pollinators. Wings are distinctive, narrow, have few veins, and are fringed with setae. Aeolothrips, Heterothrips, Idolothrips, Merothrips, Thrips"
   },
   {
-    "NUMBER": 354,
+    "NUMBER": "354",
     "NAME": "COLEOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "COLEOPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "The largest order of insects, with impressive ecological and morphological diversity. Beetles carry sclerotization to an extreme not seen in other insects, with most body surfaces hard and armorclad. Forewings usually are heavily sclerotized elytra, or wing covers; hind wings are soft and membranous. Most are herbivores as adults and larvae, but many, such as the beloved ladybird beetles, are carnivores. Almost all are terrestrial, but a few families are important in fresh water. Copris, Dermestes, Dytiscus, Gyrinus, Photinus, Popillia, Rodolia, Stenelmis."
+    "LEGENDA": "The largest order of insects, with impressive ecological and morphological diversity. Beetles carry sclerotization to an extreme not seen in other insects, with most body surfaces hard and armorclad. Forewings usually are heavily sclerotized elytra, or wing covers; hind wings are soft and membranous.  Copris, Dermestes, Dytiscus, Gyrinus, Photinus, Popillia, Rodolia, Stenelmis. "
   },
   {
-    "NUMBER": 355,
+    "NUMBER": "355",
     "NAME": "NEUROPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "NEUROPTERA",
     "SUBORDER": "----------------------------",
@@ -4970,12 +4970,12 @@ const databaseProcessing = [
     "LEGENDA": "Adults are delicate, graceful, predaceous insects with chewing mouth parts, large compound eyes, and long antennae. Larvae of the only aquatic family (Sisyridae) feed on freshwater sponges. The familiar doodle bugs, or antlions, as larvae construct conical pits in dry sand to trap small arthropods. Chrysopa, Climacia, Climaciella, Mantispa, Mynmeleon, Oliarces, Sisyra."
   },
   {
-    "NUMBER": 356,
+    "NUMBER": "356",
     "NAME": "MEGALOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "MEGALOPTERA",
     "SUBORDER": "----------------------------",
@@ -4984,12 +4984,12 @@ const databaseProcessing = [
     "LEGENDA": "Tend to be large. Chewing mouthparts, long antennae. Two pairs of similar membranous wings with primitive venation are held tentlike over abdomen. Compound eyes are well developed and the mouthparts are mandibulate. Larvae are predaceous, aquatic, and have tracheate gills. Corydalus, Sialis."
   },
   {
-    "NUMBER": 357,
+    "NUMBER": "357",
     "NAME": "RAPHIDIOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "RAPHIDIOPTERA",
     "SUBORDER": "----------------------------",
@@ -4998,54 +4998,54 @@ const databaseProcessing = [
     "LEGENDA": "Adults are similar to megalopterans except for having an elongate head and prothorax protruding far anterior to the legs and wings. Adults are predaceous; live in vegetation. Larvae are predaceous; most are terrestrial, living under the bark of conifers. Raphidia."
   },
   {
-    "NUMBER": 358,
+    "NUMBER": "358",
     "NAME": "HYMENOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "HYMENOPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Large and varied taxon. All have chewing mouthparts, but they are modified for sucking in many taxa. Two pairs of membranous, transparent wings are present in most, but absent in some important exceptions, such as worker ants. First abdominal segment usually is broadly joined to the thorax and separated from the remaining abdomen by a narrow petiole, or waist, creating a secondary tagmosis. In females the ovipositor may be a sting. Larvae are maggotlike, with chewing mouthparts. Most adults feed on fluids such as nectar and honeydew and are found near flowers, where they may be important pollinators. Apanteles, Aphidius, Apis, Bombus, Eciton, Solenopsis, Vespa, Vespula, Xylocopa."
+    "LEGENDA": "Large and varied taxon. All have chewing mouthparts, but they are modified for sucking in many taxa. Two pairs of membranous, transparent wings are present in most, but absent in some important exceptions, such as worker ants. First abdominal segment usually is broadly joined to the thorax and separated from the remaining abdomen by a narrow petiole, or waist, creating a secondary tagmosis. Apanteles, Aphidius, Apis, Bombus, Eciton, Solenopsis, Vespa, Vespula, Xylocopa."
   },
   {
-    "NUMBER": 359,
+    "NUMBER": "359",
     "NAME": "TRICHOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "TRICHOPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Adult is mothlike. Have two pairs of hairy wings. Poorly developed mouth parts. Adults either do not feed or subsist on a liquid diet of water and nectar and are relatively short-lived. Like those of mayflies and stoneflies, caddisfly larvae are aquatic microhabitat specialists often present in great diversity in suitable habits. Species diversity is greatest in cool, swift mountain streams. Larval life revolves around the use of silk for construction of cases and portable retreats of stones and vegetation, as anchor lines, and as filters for suspension feeding. Beraea, Helicopsyche, Hydropsyche, Polycentropus, Sericostoma."
+    "LEGENDA": "Adult is mothlike. Have two pairs of hairy wings. Poorly developed mouth parts. Adults either do not feed or subsist on a liquid diet of water and nectar and are relatively short-lived. Like those of mayflies and stoneflies, caddisfly larvae are aquatic microhabitat specialists often present in great diversity in suitable habits. Species diversity is greatest in cool, swift mountain streams. Beraea, Helicopsyche, Hydropsyche, Polycentropus, Sericostoma. "
   },
   {
-    "NUMBER": 360,
+    "NUMBER": "360",
     "NAME": "LEPIDOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "LEPIDOPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Adult is soft-bodied. Wings, body, and appendages are covered with deciduous pigmented scales or hairlike setae. Mandibles are absent, maxillae form a coiled extensible proboscis for sucking nectar and fruitjuices; some species do not feed as adults. Larvae are herbivorous caterpillars. Salivary glands produce silk, the uses of which include construction of a cocoon in which the last larval instar pupates. Actias, Danaus, Heliconius, Heliothis, Lymantria, Manduca, Melittia, Papilio, Sibine."
+    "LEGENDA": "Adult is soft-bodied. Wings, body, and appendages are covered with deciduous pigmented scales or hairlike setae. Mandibles are absent, maxillae form a coiled extensible proboscis for sucking nectar and fruitjuices; some species do not feed as adults. Salivary glands produce silk, the uses of which include construction of a cocoon. Actias, Danaus, Heliconius, Heliothis, Lymantria, Manduca, Melittia, Papilio, Sibine. "
   },
   {
-    "NUMBER": 361,
+    "NUMBER": "361",
     "NAME": "MECOPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "MECOPTERA",
     "SUBORDER": "----------------------------",
@@ -5054,77 +5054,77 @@ const databaseProcessing = [
     "LEGENDA": "Mouth parts are extended into aprominent ventral beak. Most have large, membranous wings. Adults are omnivorous; grub like larvae feed on organic matter. Bittacus, Boreus, Panorpa."
   },
   {
-    "NUMBER": 362,
+    "NUMBER": "362",
     "NAME": "SIPHONAPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "SIPHONAPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Small, secondarily wingless pterygotes with heavily sclerified, strongly compressed bodies. Bird and mammal ectoparasites. Legs adapted for jumping. Hematophagous, with piercing and sucking mouth parts. Some are vectors of bubonic plague (Xenopsylla) and typhus (Nosopsyllus). Mating takes place on the host or in its nest and eggs fall into the nest, where they hatch. Larvae feed on organic matter in the nest and are not parasitic. Eventually the larvae pupate and emerge as adults, which then infest the host. Ctenocephalides, Orchopeas, Pulex."
+    "LEGENDA": "Small, secondarily wingless pterygotes with heavily sclerified, strongly compressed bodies. Bird and mammal ectoparasites. Legs adapted for jumping. Hematophagous, with piercing and sucking mouth parts. Some are vectors of bubonic plague (Xenopsylla) and typhus (Nosopsyllus). Mating takes place on the host or in its nest and eggs fall into the nest, where they hatch. Ctenocephalides, Orchopeas, Pulex."
   },
   {
-    "NUMBER": 363,
+    "NUMBER": "363",
     "NAME": "STREPSIPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "STREPSIPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "These tiny, bizarre insects are, as females and larvae, parasites on a variety of other insects. Females usually are larva-like, wingless, and never leave the host. They live embedded in the host’s integument, with only their anterior end, with spiracles, protruding as a low bump above the host’s exoskeleton. Nutriment from the host’s blood is absorbed directly across the permeable cuticle of the parasite’s embedded abdomen. In contrast, males have large, unusual, fanlike hind wings. The forewings are reduced to club-shaped, haltere-like appendages that may have a role in balance, and the hind wings are large. Adult males are short-lived, nonparasitic, and do not feed. Male’s com- pound eyes are large, protruding. Antennae typically have processes extending from the flagellum. Eoxenos, Halictophagus, Stylops, Triozocera."
+    "LEGENDA": "These tiny, bizarre insects are, as females and larvae, parasites on a variety of other insects. Females usually are larva-like, wingless, and never leave the host. They live embedded in the host’s integument, with only their anterior end, with spiracles, protruding as a low bump above the host’s exoskeleton. Eoxenos, Halictophagus, Stylops, Triozocera."
   },
   {
-    "NUMBER": 364,
+    "NUMBER": "364",
     "NAME": "DIPTERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ANTHROPODA",
     "SUBPHYLUM": "CRUSTACEA",
-    "CLADE": "INSECTA",
+    "CLADE": "INSECTA ",
     "SUBCLADE": "EUMETABOLA",
     "ORDER": "DIPTERA",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Large taxon including mosquitoes, horseflies, houseflies, blowflies, botflies, midges, gnats, craneflies, blackflies, and many others. Compound eyes are large, well developed. Functional, membranous forewings; reduced, knoblike hind wings (halteres). Mouthparts are variable, but basically are suctorial or sponging; used in conjunction with a cibarial pump. Almost all adult flies feed on plant or animal fluids. In many taxa known collectively as biting flies, females suck blood from vertebrate hosts, usually birds or mammals. Adults so frequently are vectors of human and animal diseases that this is the most important hexapod order in terms of human health. Larvae are maggots and are always found in wet substrata such as flesh, fruit, water, or mud. Females typically oviposit in a suitable moist food source for the larvae, which then live in their food as they consume it. Aedes, Aphidolestes, Callitroga, Chaoborus, Dermatobia, Eristalis, Gasterophilus, Musca, \nPsychoda, Tabanus."
+    "LEGENDA": "Large taxon including mosquitoes, horseflies, houseflies, midges, craneflies, blackflies, and many others. Compound eyes are large, well developed. Mouthparts are variable, but basically are suctorial or sponging; Almost all adult flies feed on plant or animal fluids. Females suck blood from vertebrate hosts, usually birds or mammals. Adults so frequently are vectors of human and animal diseases that this is the most important hexapod order in terms of human health. Chaoborus, Dermatobia, Eristalis, Gasterophilus, Musca, Psychoda, Tabanus."
   },
   {
-    "NUMBER": 365,
+    "NUMBER": "365",
     "NAME": "MACRODASYIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
-    "SUBPHYLUM": "GASTROTRICHA",
+    "SUBPHYLUM": "GASTROTRICHA ",
     "CLADE": "MACRODASYIDA",
     "SUBCLADE": "----------------------------",
     "ORDER": "----------------------------",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Body usually is wormlike, elongate, dorsoventrally flattened. Adhesive tubes located at anterior and posterior ends and along the sides of body. Pharyngeal lumen is inverted Y shape; pharyngealpo respresent. Cellularepidermis. Hermaphroditic. In marine and estuarine sediments. Dactylopodola, Macrodasys, Pseudostomella, Tetranchyroderma, Turbanella, Urodasys."
+    "LEGENDA": "Body usually is wormlike, elongate, dorsoventrally flattened. Adhesive tubes located at anterior and posterior ends and along the sides of body. Pharyngeal lumen is inverted Y shape; pharyngealpo respresent. Cellularepidermis. Hermaphroditic. In marine and estuarine sediments. Dactylopodola, Macrodasys, Pseudostomella, Tetranchyroderma, Turbanella, Urodasys. "
   },
   {
-    "NUMBER": 366,
+    "NUMBER": "366",
     "NAME": "CHAETONOTIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
-    "SUBPHYLUM": "GASTROTRICHA",
+    "SUBPHYLUM": "GASTROTRICHA ",
     "CLADE": "CHAETONOTIDA",
     "SUBCLADE": "----------------------------",
     "ORDER": "----------------------------",
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Body is bowling-pin-shaped. Adhesive tubes are restricted to posterior end. Pharyngeal lumen is Y-shaped; pharyngeal pores are absent. Syncytial epidermis. Freshwater and marine. Freshwater species are parthenogenetic. The primitive marine Neodasys, with a wormlike body, lateral and posterior adhesive tubules, and a cellular epidermis, is exceptional. Chaetonotus, Halichaetonotus, Lepidodermella, Neodasys, Xenotrichula."
+    "LEGENDA": "Body is bowling-pin-shaped. Adhesive tubes are restricted to posterior end. Pharyngeal lumen is Y-shaped; pharyngeal pores are absent. Syncytial epidermis. Freshwater and marine. Freshwater species are parthenogenetic. The primitive marine Neodasys, with a wormlike body, lateral and posterior adhesive tubules, and a cellular epidermis, is exceptional. Chaetonotus, Halichaetonotus, Lepidodermella, Neodasys, Xenotrichula. "
   },
   {
-    "NUMBER": 367,
+    "NUMBER": "367",
     "NAME": "ADENOPHOREA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5135,10 +5135,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Polyphyletic. Most are free-living; some are parasitic. Free-living species include some terrestrial and almost all freshwater and marine nematodes. Variously shaped amphids located behind lips. Lack phasmids. Epidermal cells are uninucleate. Excretory glands are present. No excretory canals. Some taxa, with some representative genera, are Chromadorida, Desmodorida, Desmoscolecida, Dorylaimida, Enoplida, Meimithida, Mononchida, Monhysterida, Trefusiida, Trichocephalida."
+    "LEGENDA": "Polyphyletic. Most are free-living; some are parasitic. Free-living species include some terrestrial and almost all freshwater and marine nematodes. Variously shaped amphids located behind lips. Lack phasmids. Epidermal cells are uninucleate. Excretory glands are present. No excretory canals. Some taxa, with some representative genera, are Chromadorida, Desmodorida, Desmoscolecida, Dorylaimida, Enoplida, Meimithida, Mononchida, Monhysterida, Trefusiida, Trichocephalida. "
   },
   {
-    "NUMBER": 368,
+    "NUMBER": "368",
     "NAME": "SECERNENTEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5149,10 +5149,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Almost all are terrestrial. Many are important parasites. Most free-living species live in soil. Amphids are porelike, located on lateral lips. Phasmids are present. Epidermal cells are uni or nmidnucleated. Excretory glands and/or excretory canals are present. Includes Ascaridida, Camallanida, Diplogasterida, Rhabdidda, Spirurida, Strongylida, Tylenchida."
+    "LEGENDA": "Almost all are terrestrial. Many are important parasites. Most free-living species live in soil. Amphids are porelike, located on lateral lips. Phasmids are present. Epidermal cells are uni or nmidnucleated. Excretory glands and/or excretory canals are present. Includes Ascaridida, Camallanida, Diplogasterida, Rhabdidda, Spirurida, Strongylida, Tylenchida. "
   },
   {
-    "NUMBER": 369,
+    "NUMBER": "369",
     "NAME": "NECTONEMATOIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5166,7 +5166,7 @@ const databaseProcessing = [
     "LEGENDA": "Pelagic, marine. One genus, Nectonema, with four species. Body is 20 cm long. Have dorsal and ventral swimming setae, internal dorsal and ventral epidermal cords, fluid-filled hemocoel. Larvae and juveniles parasitize decapod crustaceans."
   },
   {
-    "NUMBER": 370,
+    "NUMBER": "370",
     "NAME": "GORDIOIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5180,7 +5180,7 @@ const databaseProcessing = [
     "LEGENDA": "Includes almost all nematomorphs. Adults are freshwater or semiterrestrial in damp soil.Juveniles mostly parasitize insects. Hemocoel is mostly filled with connective tissue. Only the ventral epidermal cord is present. Chordodes, Gordius, Parachordodes, Paragordius."
   },
   {
-    "NUMBER": 371,
+    "NUMBER": "371",
     "NAME": "PRIAPULIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5191,10 +5191,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "PRIAPULIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Large, macrobenthic. One or two caudal appendages. No polythyridium. No sexual dimorphism. Fertilization is external. Sperma reprimitive. Acanthopriapulus, Priapulopsis,Priapulus."
+    "LEGENDA": "Large, macrobenthic. One or two caudal appendages. No polythyridium. No sexual dimorphism. Fertilization is external. Sperma reprimitive. Acanthopriapulus, Priapulopsis,Priapulus. "
   },
   {
-    "NUMBER": 372,
+    "NUMBER": "372",
     "NAME": "TUBILUCHIADE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5208,7 +5208,7 @@ const databaseProcessing = [
     "LEGENDA": "Small, meiobenthic, interstitial. One elongate caudal appendage. Trunk has tubuli. Distinct neck connects trunk and introvert. Has one set of retractor muscles. Pharyngeal teeth are pectinate. Foregut has a polythyridium. Fertilization is internal, sexes are dimorphic. Tubiluchus."
   },
   {
-    "NUMBER": 373,
+    "NUMBER": "373",
     "NAME": "HALICRYPTIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5222,7 +5222,7 @@ const databaseProcessing = [
     "LEGENDA": "Large, macrobenthic carnivores. Lack caudal appendages. Fertilization is external. Larvae are meiobenthic. Halocryptus higginsi, at 39 cm long, is the largest priapulid."
   },
   {
-    "NUMBER": 374,
+    "NUMBER": "374",
     "NAME": "MEIOPRIAPULIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5236,7 +5236,7 @@ const databaseProcessing = [
     "LEGENDA": "Meio benthic detritivores, < 2mm. Pharynx lacks teeth, is non eversible. Polythyridium is present. Viviparous, with direct development. Meiopriapulus."
   },
   {
-    "NUMBER": 375,
+    "NUMBER": "375",
     "NAME": "CHAETOSTEPHANIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5250,7 +5250,7 @@ const databaseProcessing = [
     "LEGENDA": "Small, suspension-feeding, < 3 mm. Anterior scalids form a crown of tentacles around the mouth. Pharynx has pectinate teeth and several sets of retractor muscles. Preanal trunk has a circle of hooks. A caudal appendage is absent. (Maccabeus)."
   },
   {
-    "NUMBER": 376,
+    "NUMBER": "376",
     "NAME": "PLICILORICIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5264,7 +5264,7 @@ const databaseProcessing = [
     "LEGENDA": "Lorica is lightly sclerotized, with 22 or more plates and no anterior marginal spines. Foregut is simple. No sexual dimorphism. Anus and gonopore usually are ventroterminal. Toes are adhesive. Pliciloricus, Rugiloricus."
   },
   {
-    "NUMBER": 377,
+    "NUMBER": "377",
     "NAME": "NANALORICIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5278,7 +5278,7 @@ const databaseProcessing = [
     "LEGENDA": "Lorica is heavily sclerotized, with 6 plates and 15 hollow anterior marginal spines. Foregut is complex. Sexes are dimorphic. Anus and gonopore are dorsoterminal. Toes are paddles. Nanaloricus."
   },
   {
-    "NUMBER": 378,
+    "NUMBER": "378",
     "NAME": "CYCLORHAGIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5292,7 +5292,7 @@ const databaseProcessing = [
     "LEGENDA": "The most widely distributed and diverse kinorhynch taxon. Most have 14 to 16 placids in the neck region. Trunk is spiny and circular to triangular in cross section. Common in marine muds and subtidal sands. Ccimpyloderes, Catena, Centroderes, Condyloderes, Echinoderes, Semnoderes, Sphenoderes."
   },
   {
-    "NUMBER": 379,
+    "NUMBER": "379",
     "NAME": "HOMALORHAGIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLONEURALIA",
@@ -5306,7 +5306,7 @@ const databaseProcessing = [
     "LEGENDA": "Relatively large (up to 1mm). Have six to eight placids in the neck region. Trunk has few spines. Distinctly triangular in cross section. Common in marine muds. Kinorhynchus, Neocentrophyes, Paracentrophyes, Pycnophyes."
   },
   {
-    "NUMBER": 380,
+    "NUMBER": "380",
     "NAME": "FILOSPERMOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "GNATHIFERA",
@@ -5320,7 +5320,7 @@ const databaseProcessing = [
     "LEGENDA": "Long, slender, up to 3.5 mm in length with relatively simple, compact jaws and filiform sperm. Anterior end is along, tactilerostrum with abundant sensory receptors. Two families. Haplognathia, Pterognathia."
   },
   {
-    "NUMBER": 381,
+    "NUMBER": "381",
     "NAME": "BURSONAGINOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "GNATHIFERA",
@@ -5334,7 +5334,7 @@ const databaseProcessing = [
     "LEGENDA": "Most gnathostomulans belong to this taxon. Body is relatively short, up to 1.5 mm long, 50 pm wide. Anterior end is not elongated to form a rostrum, but has sensory receptors. Elaborate, baskettype jaws. Sperm are spherical or pyriform rather than filiform, lack flagella and centrioles. Female system includes a seminal receptacle; penis has a stylet. Seven families in two orders. Austrognathia, Gnathostomaria, Gnathostomula, Labidognathia, Mesognatharia, Paragnathiella, Problognathia, Rastrognathia."
   },
   {
-    "NUMBER": 382,
+    "NUMBER": "382",
     "NAME": "LIMNOGHATHIA MAERSKI",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "GNATHIFERA",
@@ -5348,7 +5348,7 @@ const databaseProcessing = [
     "LEGENDA": ""
   },
   {
-    "NUMBER": 383,
+    "NUMBER": "383",
     "NAME": "PLOIMA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ROTIFERA",
@@ -5359,10 +5359,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Large taxon of 17 families contains the majority of rotifer species. Aquatic; benthic and planktonic (many). Lorica is present or absent, sometimes short or saclike. Usually have two toes. Corona lacks buccal field; circumapical band is not delimited by a trochus and cingulum. Important families include Asplanchnidae, Brachionidae, Synchaetidae, Notommatidae, and Trichoceridae, and genera include Albertia, Asplanchna, Brachionus, Chromogaster, Dicranophorus, Drilophaga, Euchlanis, Gastropus, Keratella, Notommata, Polyartkra, Proales, Synchaeta."
+    "LEGENDA": "Large taxon of 17 families contains the majority of rotifer species. Aquatic; benthic and planktonic (many). Lorica is present or absent, sometimes short or saclike. Usually have two toes. Corona lacks buccal field; circumapical band is not delimited by a trochus and cingulum. Important families include Asplanchnidae, Brachionidae, Synchaetidae, Notommatidae, and Trichoceridae, and genera include Albertia, Asplanchna, Brachionus, Chromogaster, Dicranophorus, Drilophaga, Euchlanis, Gastropus, Keratella, Notommata, Polyartkra, Proales, Synchaeta. "
   },
   {
-    "NUMBER": 384,
+    "NUMBER": "384",
     "NAME": "FLOSCULARIACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ROTIFERA",
@@ -5376,7 +5376,7 @@ const databaseProcessing = [
     "LEGENDA": "Some are sessile with secreted tubes; others are planktonic and free swimming. Many important planktonic rotifers belong to this order. Usually are toeless. Corona has a trochus and cingulum; mastax is malleoramate. The six families include Flosculariidae, Hexarthridae, Conochilidae, Testudinellidae. Conochilus, Floscularia, Hexarthra, Testudinella, Trochosphaera."
   },
   {
-    "NUMBER": 385,
+    "NUMBER": "385",
     "NAME": "COLLOTHECACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ROTIFERA",
@@ -5390,7 +5390,7 @@ const databaseProcessing = [
     "LEGENDA": "Most are sessile. Mouth is at the bottom of a shallow, flaring, anterior concavity. Anterior end often surrounded by arms with bundles of extensible bristles. Some taxa have a corona. Foot is enclosed in gelatinous envelope. Mastax is reduced, uncinate. Pedal glands are present, but toes are lacking. Collothecidae. Acyclus, Collotheca, Cupelopagis, Stephanoceros."
   },
   {
-    "NUMBER": 386,
+    "NUMBER": "386",
     "NAME": "BDELLOIDEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ROTIFERA",
@@ -5404,7 +5404,7 @@ const databaseProcessing = [
     "LEGENDA": "Paired germovitellaria; males are absent; reproduction is always parthenogenetic. Benthic or terrestrial; about 350 species in 18 genera. Some inhabit the film of capillary water covering soil particles and mosses. Anterior end is retractile; usually have two trochal discs and a cingulum. Mastax is adapted for grinding with flattened uncini and a reduced fulcrum. Stomach is syncytial. Have two germo vitellaria. Telescoping cylindrical body usually has 16 rings. Includes swimming and creeping species. Males are absent. Gametes (amictic eggs) are diploid, produced mitotically. Contains four families, including Philodinidae and Habrotrochidae. Adineta, Embata, Henoceros, Philodina, Rotaria, Zelinkiella."
   },
   {
-    "NUMBER": 387,
+    "NUMBER": "387",
     "NAME": "SEISON",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ROTIFERA",
@@ -5418,7 +5418,7 @@ const databaseProcessing = [
     "LEGENDA": "Seisonida contains only two species, which are sometimes considered to be rotifers. Both species are ectoparasites on the carapace of the primitive malacostracan crustacean Nebalia, They feed on debris and the eggs of the host. Both belong to the genus Seison and, although they  share many characteristics with rotifers, there are important differences. Seisonids, at about 3 mm, are very large in comparison with rotifers, which are usually less then 0.5 mm. The corona is reduced to a few clusters of bristles and, unlike that of rotifers, does not function in feeding or locomotion. The mastax is aberrant and difficult to compare with those of rotifers. It is fulcrate, a type unique to seisonids, and its trophi are difficult to homologize with those of rotifers. It apparently consists of a large fulcrum, two manubria, and several small trophi."
   },
   {
-    "NUMBER": 388,
+    "NUMBER": "388",
     "NAME": "NEBALIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ROTIFERA",
@@ -5429,10 +5429,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "NEBALIA",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Seisonida contains only two species, which are sometimes considered to be rotifers. Both species are ectoparasites on the carapace of the primitive malacostracan crustacean Nebalia, They feed on debris and the eggs of the host. Both belong to the genus Seison and, although they  share many characteristics with rotifers, there are important differences. Seisonids, at about 3 mm, are very large in comparison with rotifers, which are usually less then 0.5 mm. The corona is reduced to a few clusters of bristles and, unlike that of rotifers, does not function in feeding or locomotion. The mastax is aberrant and difficult to compare with those of rotifers. It is fulcrate, a type unique to seisonids, and its trophi are difficult to homologize with those of rotifers. It apparently consists of a large fulcrum, two manubria, and several small trophi."
+    "LEGENDA": "Seisonida contains only two species, which are sometimes considered to be rotifers. Both species are ectoparasites on the carapace of the primitive malacostracan crustacean Nebalia, They feed on debris and the eggs of the host. Both belong to the genus Seison and, although they  share many characteristics with rotifers, there are important differences. Seisonids, at about 3 mm, are very large in comparison with rotifers, which are usually less then 0.5 mm."
   },
   {
-    "NUMBER": 389,
+    "NUMBER": "389",
     "NAME": "ARCHIACANTHOCEPHALA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ACANTHOCEPHALA",
@@ -5446,7 +5446,7 @@ const databaseProcessing = [
     "LEGENDA": "Bird and mammal parasites; intermediate hosts are centipedes, millipedes, insects. Main lacunar canals are dorsal and ventral. Two ligament sacs, which break down in reproductive females. Protonephridia present in one family. Macracanthorhynchus, Mediorhynchus, Moniliformis, Oligacanthorhynchus, Prosthenorchis."
   },
   {
-    "NUMBER": 390,
+    "NUMBER": "390",
     "NAME": "EOACANTHOCEPHALA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ACANTHOCEPHALA",
@@ -5460,7 +5460,7 @@ const databaseProcessing = [
     "LEGENDA": "Parasites of fishes, amphibians, reptiles; crustaceans are intermediate hosts. Main lacunar canals are dorsal and ventral. Two ligament sacs, which persist in reproductive females. Neoechinorhynchus."
   },
   {
-    "NUMBER": 391,
+    "NUMBER": "391",
     "NAME": "PALAECANTHOCEPHALA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ACANTHOCEPHALA",
@@ -5471,10 +5471,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "The largest, most diverse taxon.Parasites of all vertebrate classes; intermediate hosts usually are crustaceans. Main lacunar canals are lateral. One ligament sac, which breaks down in reproductive females. Acanthocephalus, Echinorhynchus, Leptorhynchoides, Polymorphous."
+    "LEGENDA": "The largest, most diverse taxon.Parasites of all vertebrate classes; intermediate hosts usually are crustaceans. Main lacunar canals are lateral. One ligament sac, which breaks down in reproductive females. Acanthocephalus, Echinorhynchus, Leptorhynchoides, Polymorphous. "
   },
   {
-    "NUMBER": 392,
+    "NUMBER": "392",
     "NAME": "LOXOSOMATIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "KAMPTOZOA",
@@ -5485,10 +5485,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "LOXOSOMATIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Most are commensal with marine invertebrates. Anus is elevated above the floor of the atrium by a tall anal cone. Protonephridia with separate nephridiopores are present. Loxomespilon, Loxosoma, Loxosomella."
+    "LEGENDA": "Most are commensal with marine invertebrates. Anus is elevated above the floor of the atrium by a tall anal cone. Protonephridia with separate nephridiopores are present. Loxomespilon, Loxosoma, Loxosomella. "
   },
   {
-    "NUMBER": 393,
+    "NUMBER": "393",
     "NAME": "LOXOKALYPODIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "KAMPTOZOA",
@@ -5502,7 +5502,7 @@ const databaseProcessing = [
     "LEGENDA": "Monotypic family. Solitary. Musculature extends uninterrupted between the calyx and stalk. Star cell complex and septum are absent. Loxokalypus."
   },
   {
-    "NUMBER": 394,
+    "NUMBER": "394",
     "NAME": "PEDICELLINIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "KAMPTOZOA",
@@ -5513,10 +5513,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "PEDICELLINIDAE",
     "LEVEL": "FAMILY",
-    "LEGENDA": "No anal cone; anus and mouth are on the floor of the atrium. Blood is circulated by contractile cells. Protonephridia share a common nephridiopore. Unsegmented stalk and its longitudinal muscles are continuous. Larvae undergo a complex metamorphosis after settling. Myosoma, Pedicellina, Pedicellinopsis, Sangavella."
+    "LEGENDA": "No anal cone; anus and mouth are on the floor of the atrium. Blood is circulated by contractile cells. Protonephridia share a common nephridiopore. Unsegmented stalk and its longitudinal muscles are continuous. Larvae undergo a complex metamorphosis after settling. Myosoma, Pedicellina, Pedicellinopsis, Sangavella. "
   },
   {
-    "NUMBER": 395,
+    "NUMBER": "395",
     "NAME": "BARENTSIIDAE",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "KAMPTOZOA",
@@ -5530,7 +5530,7 @@ const databaseProcessing = [
     "LEGENDA": "Anal cone is lacking. Blood is circulated by contractile cells. Protonephridia have a common nephridiopore. Stalk is divided into segments. Proximal and distal segments are muscular, but intervening segments lack muscles. Ascopodaria, Barentsia, Urnatella."
   },
   {
-    "NUMBER": 396,
+    "NUMBER": "396",
     "NAME": "CYCLIOPHORA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CYCLIOPHORA",
@@ -5541,10 +5541,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "PHYLUM",
-    "LEGENDA": "Cycliophora, one of the most recently discovered major animal taxa, currently consists of a single described species, Symbion pandora, that is commensal with lobsters. Cycliophorans were first found in 1995 by P. Funch and R. M. Kristensen on the mouth parts of the lobster Nephrops norvegicus, collected in Denmark. Other species have been collected but have not yet been described. All are epizoic with crustaceans, including the American lobster, Homarus, and are tiny, compact (acoelomate), bilaterally symmetrical, microscopic protostomes with a superficial resemblance to rotifers."
+    "LEGENDA": "Cycliophora, one of the most recently discovered major animal taxa, currently consists of a single described species, Symbion pandora, that is commensal with lobsters. Cycliophorans were first found in 1995 by P. Funch and R. M. Kristensen on the mouth parts of the lobster Nephrops norvegicus, collected in Denmark. Other species have been collected but have not yet been described. "
   },
   {
-    "NUMBER": 397,
+    "NUMBER": "397",
     "NAME": "PHORONIS",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "PHORONIDA",
@@ -5555,10 +5555,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "PHORONIS",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Phoronida consists of only two genera, Phoronis and Phoronopsis, and 14 species of wormlike, sessile, benthic animals found only in the sea. Externally they are bilaterally symmetrical, but internally they are asymmetrical with left-side dominance. Phoronids live in secreted chitinous tubes buried in sand or attached to rocks, shells, and other objects in shallow water. Some have bright green lophophores. A few species, such as the primitive Phoronis ovalis, bore into mollusc shells or calcareous rock. Phoronis vancouverensis along the Pacific coast of North America often forms masses of intertwined individuals. Phoronids are 2 to 20 cm in length but only 1 to 2 mm in diameter, making them exceedingly slender. Most are found in the relatively shallow water of the continental shelves."
+    "LEGENDA": "Phoronida consists of only two genera, Phoronis and Phoronopsis, and 14 species of wormlike, sessile, benthic animals found only in the sea. Externally they are bilaterally symmetrical, but internally they are asymmetrical with left-side dominance. Phoronids live in secreted chitinous tubes buried in sand or attached to rocks, shells, and other objects in shallow water. Some have bright green lophophores. A few species, such as the primitive Phoronis ovalis, bore into mollusc shells or calcareous rock."
   },
   {
-    "NUMBER": 398,
+    "NUMBER": "398",
     "NAME": "PHORONOPSIS",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "PHORONIDA",
@@ -5569,10 +5569,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "PHORONOPSIS",
     "LEVEL": "FAMILY",
-    "LEGENDA": "Phoronida consists of only two genera, Phoronis and Phoronopsis, and 14 species of wormlike, sessile, benthic animals found only in the sea. Externally they are bilaterally symmetrical, but internally they are asymmetrical with left-side dominance. Phoronids live in secreted chitinous tubes buried in sand or attached to rocks, shells, and other objects in shallow water. Some have bright green lophophores. A few species, such as the primitive Phoronis ovalis, bore into mollusc shells or calcareous rock. Phoronis vancouverensis along the Pacific coast of North America often forms masses of intertwined individuals. Phoronids are 2 to 20 cm in length but only 1 to 2 mm in diameter, making them exceedingly slender. Most are found in the relatively shallow water of the continental shelves."
+    "LEGENDA": "Phoronida consists of only two genera, Phoronis and Phoronopsis, and 14 species of wormlike, sessile, benthic animals found only in the sea. Externally they are bilaterally symmetrical, but internally they are asymmetrical with left-side dominance. Phoronids live in secreted chitinous tubes buried in sand or attached to rocks, shells, and other objects in shallow water. Some have bright green lophophores. A few species, such as the primitive Phoronis ovalis, bore into mollusc shells or calcareous rock."
   },
   {
-    "NUMBER": 399,
+    "NUMBER": "399",
     "NAME": "LINGULIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRACHIOPODA",
@@ -5586,7 +5586,7 @@ const databaseProcessing = [
     "LEGENDA": "Burrow in soft sediments. Have hemerythrin as respiratory pigment. Most have a chitinophosphate shell; the periostracum has chitin. Anus is on the right. Lingula, Glottidia."
   },
   {
-    "NUMBER": 400,
+    "NUMBER": "400",
     "NAME": "DISCINIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRACHIOPODA",
@@ -5597,10 +5597,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Attach to hard surfaces with a short pedicle. Discina, Discinisca."
+    "LEGENDA": "Attach to hard surfaces with a short pedicle. Discina, Discinisca. "
   },
   {
-    "NUMBER": 401,
+    "NUMBER": "401",
     "NAME": "CRANIIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRACHIOPODA",
@@ -5611,10 +5611,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Pedicle is absent; ventral valve attaches directly to the hard substratum. Shell is calcareous; periostracum contains chitin. Anus is on posterior mid line. Crania,Neocrania."
+    "LEGENDA": "Pedicle is absent; ventral valve attaches directly to the hard substratum. Shell is calcareous; periostracum contains chitin. Anus is on posterior mid line. Crania,Neocrania. "
   },
   {
-    "NUMBER": 402,
+    "NUMBER": "402",
     "NAME": "TEREBRATULIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRACHIOPODA",
@@ -5628,7 +5628,7 @@ const databaseProcessing = [
     "LEGENDA": "The most abundant Recent brachiopods. Brachidium is a complex loop. Argyrotheca, Calloria, Chlidonophora, Gryphus, Gwynia, Lacazella, Liothyrella, Megathyris, Neothyris, Pajaudina, Terebratalia, Terebratella, Terebratula, Terebratulina, Thecidellina."
   },
   {
-    "NUMBER": 403,
+    "NUMBER": "403",
     "NAME": "RHYNCHONELLIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRACHIOPODA",
@@ -5642,7 +5642,7 @@ const databaseProcessing = [
     "LEGENDA": "Brachidia are simple, a strongly convex shell, and two pairs of metanephridia. Hemithyris, Notosaria."
   },
   {
-    "NUMBER": 404,
+    "NUMBER": "404",
     "NAME": "PHYLACTOLAEMATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRYOZOA",
@@ -5656,7 +5656,7 @@ const databaseProcessing = [
     "LEGENDA": "Exclusively in fresh water. Widely distributed in lakes, reservoirs, and streams without excessive mud or silt. Many species (such as Fredericella sultana and Plumatella repens) are cosmopolitan. Zooids are cylindrical, the lophophore is horseshoe-shaped (except Fredericella). An epistome is present."
   },
   {
-    "NUMBER": 405,
+    "NUMBER": "405",
     "NAME": "CLYCLOSTOMATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRYOZOA",
@@ -5667,10 +5667,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Entirely marine. Mesothelium separated from body wall to form a membranous coelomic sac. Large, spacious hemocoel is continuous with that of adjacent zooids. These are tubular zooids with calcified walls that are fused with those of adjacent zooids. Orifices are circular and terminal. Lophophore protrusion is dependent on muscular deformation of the membranous sac, not the body wall. Crisia, Lichenopora, Stomatopora, Tubulipora."
+    "LEGENDA": "Entirely marine. Mesothelium separated from body wall to form a membranous coelomic sac. Large, spacious hemocoel is continuous with that of adjacent zooids. These are tubular zooids with calcified walls that are fused with those of adjacent zooids. Orifices are circular and terminal. Lophophore protrusion is dependent on muscular deformation of the membranous sac, not the body wall. Crisia, Lichenopora, Stomatopora, Tubulipora. "
   },
   {
-    "NUMBER": 406,
+    "NUMBER": "406",
     "NAME": "STOLONIFERA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRYOZOA",
@@ -5684,7 +5684,7 @@ const databaseProcessing = [
     "LEGENDA": "Colonies consist of branching stolons with solitary or clustered vase-shaped zooids. Ancestrula develops stolons from which autozooids arise. Zooids bud from the stolon, not from each other. Amathia, Aeverrillia, Bowerbankia, Zoobotryon, Walkeria."
   },
   {
-    "NUMBER": 407,
+    "NUMBER": "407",
     "NAME": "CARNOSA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRYOZOA",
@@ -5698,7 +5698,7 @@ const databaseProcessing = [
     "LEGENDA": "Ancestrula produces zooids, which then produce more zooids; zooids bud from other zooids, not from stolons. Zooids are flat, not circular, in cross section. Colonies may be compact or diffuse. Alcyonidium, Flustrellidra, Monobryozoon, Paludicella (freshwater)."
   },
   {
-    "NUMBER": 408,
+    "NUMBER": "408",
     "NAME": "ANASCA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRYOZOA",
@@ -5712,7 +5712,7 @@ const databaseProcessing = [
     "LEGENDA": "Frontal (ventral) wall is membranous, flexible. Lophophore is protruded by parietal muscles acting on the frontal membrane. Aetea, Callopora, Electra, Flustra, Membranipora, Tendra, Bugula, Scrupocellaria, Cupuladria, Discoporella, Thalamoporella, Cellaria."
   },
   {
-    "NUMBER": 409,
+    "NUMBER": "409",
     "NAME": "CRIBRIMORPHA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRYOZOA",
@@ -5726,7 +5726,7 @@ const databaseProcessing = [
     "LEGENDA": "Almost extinct. Frontal wall is a vault of fused over arching spines, which form a porous calcified plate over the flexible frontal membrane. Lophophore is protruded by parietal muscles acting on the frontal membrane. Sometimes included in Anasca or Ascophora. Cribrilina."
   },
   {
-    "NUMBER": 410,
+    "NUMBER": "410",
     "NAME": "ASCOPHORA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "BRYOZOA",
@@ -5740,7 +5740,7 @@ const databaseProcessing = [
     "LEGENDA": "Frontal wall is calcified, underlaid by a flexible invaginated sac, the ascus. Lophophore protrusion is achieved through dilation of the ascus by parietal muscles. Microporella, Schizoporella, Smittina, Watersipora."
   },
   {
-    "NUMBER": 411,
+    "NUMBER": "411",
     "NAME": "EUROHNIONES",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHAETOGNATHA",
@@ -5754,7 +5754,7 @@ const databaseProcessing = [
     "LEGENDA": ""
   },
   {
-    "NUMBER": 412,
+    "NUMBER": "412",
     "NAME": "SPADELLIONES",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHAETOGNATHA",
@@ -5768,7 +5768,7 @@ const databaseProcessing = [
     "LEGENDA": ""
   },
   {
-    "NUMBER": 413,
+    "NUMBER": "413",
     "NAME": "SAGITTIONES",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHAETOGNATHA",
@@ -5782,7 +5782,7 @@ const databaseProcessing = [
     "LEGENDA": ""
   },
   {
-    "NUMBER": 414,
+    "NUMBER": "414",
     "NAME": "DEUTEROSTOMIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "DEUTEROSTOMIA",
@@ -5793,10 +5793,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "PHYLUM",
-    "LEGENDA": "Deuterostomia, the sister taxon of Protostomia, includes the acorn worms and sea angels (Hemichordata), sea stars and their relatives (Echinodermata), as well as the sea squirts, lancelets, and vertebrates (Chordata). Lancelets and vertebrates are segmented animals but, in the deuterostome ground plan, the body is trimeric being divided into three distinct regions. These are an anterior preoral lobe, the protosome, a mouth bearing middle region, or mesosome, and a trunk, the metasome, which bears the gut and gonads. Each of these regions houses a pair of coeloms, the protocoels, mesocoels, and metacoels, respectively."
+    "LEGENDA": "Deuterostomia, the sister taxon of Protostomia, includes the acorn worms and sea angels (Hemichordata), sea stars and their relatives (Echinodermata), as well as the sea squirts, lancelets, and vertebrates (Chordata). Lancelets and vertebrates are segmented animals but, in the deuterostome ground plan, the body is trimeric being divided into three distinct regions. "
   },
   {
-    "NUMBER": 415,
+    "NUMBER": "415",
     "NAME": "CHORDATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHORDATA",
@@ -5807,10 +5807,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "PHYLUM",
-    "LEGENDA": "Chordata, with more than 50,000 species in all of Earth’s environments, is the largest and most successful taxon of deuterostomes. Most of this diversity and adaptive radiation resides with Vertebrata (fishes, amphibians, reptiles, birds, mammals), a major chordate taxon beyond the scope of this book. The subjects of this chapter are the two other chordate taxa, Cephalochordata (lancelets) and Tunicata (= Urochordata; sea squirts and relatives), both of which are invertebrates and entirely marine. These two taxa of invertebrate chordates account for approximately 2180 species. Although the vertebrates are omitted as a practical necessity, this chapter will highlight the chordate ground plan and its evolution in the invertebrate chordates."
+    "LEGENDA": "Chordata, with more than 50,000 species in all of Earth’s environments, is the largest and most successful taxon of deuterostomes. Most of this diversity and adaptive radiation resides with Vertebrata (fishes, amphibians, reptiles, birds, mammals), a major chordate taxon beyond the scope of this book. The subjects of this chapter are the two other chordate taxa, Cephalochordata and Tunicata, both of which are invertebrates and entirely marine. These two taxa of invertebrate chordates account for approximately 2180 species."
   },
   {
-    "NUMBER": 416,
+    "NUMBER": "416",
     "NAME": "ENTEROPNEUSTA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "HEMICHORDATA",
@@ -5824,7 +5824,7 @@ const databaseProcessing = [
     "LEGENDA": ""
   },
   {
-    "NUMBER": 417,
+    "NUMBER": "417",
     "NAME": "PTEROBRANCHIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "HEMICHORDATA",
@@ -5838,7 +5838,7 @@ const databaseProcessing = [
     "LEGENDA": ""
   },
   {
-    "NUMBER": 418,
+    "NUMBER": "418",
     "NAME": "PAXILLOSIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -5852,7 +5852,7 @@ const databaseProcessing = [
     "LEGENDA": "Primitive asteroids that lack tube-foot suckers and anus, but have marginal plates and paxillae; have papulae on aboral surface. Intraoral feeders. On soft bottoms. Astropecten, Luidia, Platyasterias."
   },
   {
-    "NUMBER": 419,
+    "NUMBER": "419",
     "NAME": "VALVATIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -5866,7 +5866,7 @@ const databaseProcessing = [
     "LEGENDA": "Have suckered tube feet, few large marginal plates; some spp. have paxillae and sessile valvate (clam-like) pedicellariae. Often have rigid pentagonal bodies. Extraoral feeders. Acanthaster, Ctenodiscus, Culcita, Goniaster, Linckia, Oreaster, Porania, Xyloplax."
   },
   {
-    "NUMBER": 420,
+    "NUMBER": "420",
     "NAME": "VELATIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -5877,10 +5877,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Papulae are widely distributed on upper surface; have suckered tube feet and spiniform or sessile pedicellariae. Extraoral feeders. Crossaster, Pteraster, Solaster."
+    "LEGENDA": "Papulae are widely distributed on upper surface; have suckered tube feet and spiniform or sessile pedicellariae. Extraoral feeders. Crossaster, Pteraster, Solaster. "
   },
   {
-    "NUMBER": 421,
+    "NUMBER": "421",
     "NAME": "SPINULOSIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -5894,7 +5894,7 @@ const databaseProcessing = [
     "LEGENDA": "Have suckered tube feet; aboral surface bears short spines; marginal plates and pedicellariae are absent. Extraoral feeders. Asterina, Dermasterias, Echinaster, Henricia, Patiria."
   },
   {
-    "NUMBER": 422,
+    "NUMBER": "422",
     "NAME": "FORCIPULATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -5908,7 +5908,7 @@ const databaseProcessing = [
     "LEGENDA": "Have suckered tube feet, usually four rows per arm; stalked pedicellariae with two jaws. Extraoral feeders. Asterias, Heliaster, Leptasterias, Pisaster, Pycnopodia, Zoroaster."
   },
   {
-    "NUMBER": 423,
+    "NUMBER": "423",
     "NAME": "BRISINGIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -5922,7 +5922,7 @@ const databaseProcessing = [
     "LEGENDA": "Have more than five long, slender spinyarms; abundant pedicellariae with crossed jaws are used to catch suspended prey. Deepwater animals. Brisinga, Freyella, Midgardia."
   },
   {
-    "NUMBER": 424,
+    "NUMBER": "424",
     "NAME": "OEGOPHIURIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -5933,10 +5933,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Mostly extinct ophiuroids, with only one extant Indonesian species, Ophiocanops fugiens. Lacks genital bursae, oral and aboral arm plates; madreporite on disc margin, not oral."
+    "LEGENDA": "Mostly extinct ophiuroids, with only one extant Indonesian species, Ophiocanops fugiens. Lacks genital bursae, oral and aboral arm plates; madreporite on disc margin, not oral. "
   },
   {
-    "NUMBER": 425,
+    "NUMBER": "425",
     "NAME": "PHRYNOPHIUROIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -5950,7 +5950,7 @@ const databaseProcessing = [
     "LEGENDA": "Have a fleshy integument, glandular mucus-secreting epidermis; often lack aboral arm shields; coil arms vertically. Basket stars (Gorgonocephalidae) and Ophiomyxidae: Asteronyx, Astrophyton, Gorgonocephalus, Ophiomyxa."
   },
   {
-    "NUMBER": 426,
+    "NUMBER": "426",
     "NAME": "OPHIURIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -5964,7 +5964,7 @@ const databaseProcessing = [
     "LEGENDA": "Have a thin epidermis, well-developed dermal disc ossicles and arm shields; arms move horizontally. Includes most species of ophiuroids. Amphipholis, Amphiura, Hemiphalis, Ophiactis, Ophiocoma, Ophioderma, Ophiolepis, Ophionereis, Ophiothrix, Ophiura."
   },
   {
-    "NUMBER": 427,
+    "NUMBER": "427",
     "NAME": "CIDAROIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -5978,7 +5978,7 @@ const databaseProcessing = [
     "LEGENDA": "Have simple (non compound) ambulacral plates, each with one pore pair; widely separated primary spines, small secondary spines; jaw muscles attached to interambulacral plate processes; gills and spheridia absent. 150 spp. Pencil urchins Cidaris, Eucidaris, Notocidaris."
   },
   {
-    "NUMBER": 428,
+    "NUMBER": "428",
     "NAME": "ECHINOTHUROIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -5992,7 +5992,7 @@ const databaseProcessing = [
     "LEGENDA": "Mostly deep-water leather urchins with a flexible test and poison sacs near the spine tips. Asthenosoma."
   },
   {
-    "NUMBER": 429,
+    "NUMBER": "429",
     "NAME": "DIADEMATOIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6006,7 +6006,7 @@ const databaseProcessing = [
     "LEGENDA": "Regular urchins with a rigid or flexible test with hollow spines; have 10 oral plates on peristomial membrane. Diadema, Plesiodiadema."
   },
   {
-    "NUMBER": 430,
+    "NUMBER": "430",
     "NAME": "ECHINACEA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6017,10 +6017,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Regular urchins with a rigid test and solid spines. Gills are present. Arbacia, Echinometra, Echinostrephus, Echinus, Lytechinus, Paracentrotus, Psammechinus, Toxopneustes, Tripneustes, Strongylocentrotus. Slate pencil urchins Colobocentrotus, Heterocentrotus."
+    "LEGENDA": "Regular urchins with a rigid test and solid spines. Gills are present. Arbacia, Echinometra, Echinostrephus, Echinus, Lytechinus, Paracentrotus, Psammechinus, Toxopneustes, Tripneustes, Strongylocentrotus. Slate pencil urchins Colobocentrotus, Heterocentrotus. "
   },
   {
-    "NUMBER": 431,
+    "NUMBER": "431",
     "NAME": "CLYPEASTEROIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6034,7 +6034,7 @@ const databaseProcessing = [
     "LEGENDA": "Sea biscuits and sand dollars specialized to live on or just below sediment surface. Test is slightly depressed to flat; jaws and petaloid tube feet are present; anus is displaced posteriorly. Clypeaster, Dendraster, Encope, Fibularia, Mellita, Rotula."
   },
   {
-    "NUMBER": 432,
+    "NUMBER": "432",
     "NAME": "SPATANGOIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6048,7 +6048,7 @@ const databaseProcessing = [
     "LEGENDA": "Oval, elongate heart urchins. Mouth is shifted anteriorly, anus posteriorly. Jaws are absent. Echinocardium, Eovenia, Meoma, Moira, Spatangus."
   },
   {
-    "NUMBER": 433,
+    "NUMBER": "433",
     "NAME": "DACTYLOCHIROTIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6062,7 +6062,7 @@ const databaseProcessing = [
     "LEGENDA": "Have a U-shaped body enclosed in flexible test and simple, unbranched buccal podia. Echinocucumis, Sphaerothuria."
   },
   {
-    "NUMBER": 434,
+    "NUMBER": "434",
     "NAME": "DENDROCHIROTIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6076,7 +6076,7 @@ const databaseProcessing = [
     "LEGENDA": "Have a cucumber, banana, or U-shaped body; branched (dendritic) buccal podia lack ampullae; usually have a retractile introvert. Cucumaria, Psolus, Sclerodactyla, Thyone, Thyonella."
   },
   {
-    "NUMBER": 435,
+    "NUMBER": "435",
     "NAME": "ASPIDOCHIROTIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6090,7 +6090,7 @@ const databaseProcessing = [
     "LEGENDA": "Have bilateral symmetry, a creeping sole, and peltate (shield-shaped) buccal podia; deposit-feeders. Actinopyga, Holothuria, Isostichopus, Stichopus."
   },
   {
-    "NUMBER": 436,
+    "NUMBER": "436",
     "NAME": "ELASIPODIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6104,7 +6104,7 @@ const databaseProcessing = [
     "LEGENDA": "Deepwater or pelagic with gelatinous bodies adapted for swimming. Have peltate buccal podia; lack respiratory trees; ossicles are reduced or absent. Enypniastes, Pelagothuria, Peniagone, Scotoplanes."
   },
   {
-    "NUMBER": 437,
+    "NUMBER": "437",
     "NAME": "APODIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6115,10 +6115,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "Wormlike, small-bodied (except Euapta) animals with a thin body wall; buccal podia are pinnate or fingerlike; lack respiratory trees, radial canals, tube feet; anchor and anchor-plate ossicles function like Velcro hooks. Euapta, Labidoplax, Leptosynapta, Synapta, Synaptula."
+    "LEGENDA": "Wormlike, small-bodied (except Euapta) animals with a thin body wall; buccal podia are pinnate or fingerlike; lack respiratory trees, radial canals, tube feet; anchor and anchor-plate ossicles function like Velcro hooks. Euapta, Labidoplax, Leptosynapta, Synapta, Synaptula. "
   },
   {
-    "NUMBER": 438,
+    "NUMBER": "438",
     "NAME": "MOLPADIIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6132,7 +6132,7 @@ const databaseProcessing = [
     "LEGENDA": "Includes head-down mud burrowers with digitate buccal podia, respiratory trees, and radial canals, but tube feet are absent. Molpadia, Caudina."
   },
   {
-    "NUMBER": 439,
+    "NUMBER": "439",
     "NAME": "ISOCRINIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6146,7 +6146,7 @@ const databaseProcessing = [
     "LEGENDA": "Deepwater, stalked crinoids with evenly spaced whorls of five cirri each along the stalk; large crown has some 50 arms; can crawl over the bottom using cirri and crown arms. Diplocrinus, Metacrinus."
   },
   {
-    "NUMBER": 440,
+    "NUMBER": "440",
     "NAME": "MILLERICRINIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6160,7 +6160,7 @@ const databaseProcessing = [
     "LEGENDA": "Deepwater animals with a stalk lacking cirri; have a long, conical crown with five arms. Hyocrinus."
   },
   {
-    "NUMBER": 441,
+    "NUMBER": "441",
     "NAME": "BOURGUETICRINIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6174,7 +6174,7 @@ const databaseProcessing = [
     "LEGENDA": "Have a slender stalk that ends in an attachment base and lacks cirri. Conocrinus."
   },
   {
-    "NUMBER": 442,
+    "NUMBER": "442",
     "NAME": "COMATULIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "ECHINODERMATA",
@@ -6188,7 +6188,7 @@ const databaseProcessing = [
     "LEGENDA": "Ranges from shallow water to great depths. Stalk is present only in pentacrinoid stage, absent in adult, which has grasping cirri and can swim with the arms. Six hundred species of Antedon, Comactinia, and Florometra, among others."
   },
   {
-    "NUMBER": 443,
+    "NUMBER": "443",
     "NAME": "CEPHALOCHORDATA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHORDATA",
@@ -6199,10 +6199,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "SUBPHYLUM",
-    "LEGENDA": "The 30 described species of cephalochordates are glossy slivers that swim rapidly and slip through sand or fingers like tiny eels. Also known as lancelets, or amphioxus, these small, fish-like chordates occur in tropical and temperate oceans world- wide. Unlike most fish, however, lancelets burrow in porous intertidal or shallow subtidal sand and rarely emerge to swim in the water. While in their burrows, they expose the mouth to water at the sediment surface and filter out suspended food particles. Although widespread globally, their patchy local distributions are influenced by sediment suitability and the abundance of phytoplankton food. When these conditions are met, lancelet populations can be impressive. For example, Branchiosioma caribaeum occurs in densities of up to 5000 individuals per m2 of sand in Discovery Bay, Jamaica."
+    "LEGENDA": "The 30 described species of cephalochordates are glossy slivers that swim rapidly and slip through sand or fingers like tiny eels. Also known as lancelets, or amphioxus, these small, fish-like chordates occur in tropical and temperate oceans world- wide. Unlike most fish, however, lancelets burrow in porous intertidal or shallow subtidal sand and rarely emerge to swim in the water. While in their burrows, they expose the mouth to water at the sediment surface and filter out suspended food particles. "
   },
   {
-    "NUMBER": 444,
+    "NUMBER": "444",
     "NAME": "APPENDICULARIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHORDATA",
@@ -6213,10 +6213,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "CLADE",
-    "LEGENDA": "Most of the 70 species of Appendicularia are tiny filter-feeding tadpoles that abound in the surface and midwater plankton of the world’s oceans. Under ideal conditions, their numbers may be astronomical: 25,620 individuals of Oikopleura dioica percubic meter of water were reported from British Columbia. The name Appendicularia refers to their tail, which persists throughout the life of the animal. The alternative name, Larvacea, indicates their resemblance to the tadpole larva of ascidians. Appendicularians are the only tunicates to have all the key chordate characteristics as adults."
+    "LEGENDA": "Most of the 70 species of Appendicularia are tiny filter-feeding tadpoles that abound in the surface and midwater plankton of the world’s oceans. Under ideal conditions, their numbers may be astronomical: 25,620 individuals of Oikopleura dioica percubic meter of water were reported from British Columbia."
   },
   {
-    "NUMBER": 445,
+    "NUMBER": "445",
     "NAME": "PYROSOMIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHORDATA",
@@ -6230,7 +6230,7 @@ const databaseProcessing = [
     "LEGENDA": "The 10 species of tropical pyrosomes are brilliantly luminescent colonies in the form of a hollow tube closed at one end. The colony length ranges from a few centimeters (as in Pyrosoma atlanticum) to over 20 m (as in Pyrostremma spinosum). The zooids are embedded in the wall (common tunic)of the tube, similar to the zooids of a compound ascidian."
   },
   {
-    "NUMBER": 446,
+    "NUMBER": "446",
     "NAME": "DOLIOLIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHORDATA",
@@ -6241,10 +6241,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "The 23 species of doliolids have barrel-shaped zooids ranging in size from 1 to 50 mm. The body-wall muscles are eight or nine hooplike bands around the circumference of the body. Contraction of these cross-striated muscles results in ajet thrust from the atrial siphon. Backflow through the buccal siphon, at the opposite end of the body, is prevented by a one way valve. Although this muscular pumping is responsible for locomotion, the filter feeding current is generated by gill slit cilia, as it is in ascidians and pyrosomes."
+    "LEGENDA": "The 23 species of doliolids have barrel-shaped zooids ranging in size from 1 to 50 mm. The body-wall muscles are eight or nine hooplike bands around the circumference of the body. Contraction of these cross-striated muscles results in ajet thrust from the atrial siphon. Backflow through the buccal siphon, at the opposite end of the body, is prevented by a one way valve."
   },
   {
-    "NUMBER": 447,
+    "NUMBER": "447",
     "NAME": "SALPIDA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHORDATA",
@@ -6255,10 +6255,10 @@ const databaseProcessing = [
     "SUBORDER": "----------------------------",
     "FAMILY": "----------------------------",
     "LEVEL": "ORDER",
-    "LEGENDA": "The 40-some species of salps have prism-shaped zooids with hooplike muscles, like doliolids, but some adjacent muscle bands are partly fused. The zooids range in size from a few millimeters to 4 cm (as in Salpafusiformis). The muscle bands of salps pump water forjet propulsion and, uniquely, also for biter feeding. The salp pharynx is peculiar in having only a single mid-dorsal gill bar and no side walls."
+    "LEGENDA": "The 40-some species of salps have prism-shaped zooids with hooplike muscles, like doliolids, but some adjacent muscle bands are partly fused. The zooids range in size from a few millimeters to 4 cm (as in Salpafusiformis). The muscle bands of salps pump water forjet propulsion and, uniquely, also for biter feeding. The salp pharynx is peculiar in having only a single mid-dorsal gill bar and no side walls. "
   },
   {
-    "NUMBER": 448,
+    "NUMBER": "448",
     "NAME": "APLOUSOBRANCHIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHORDATA",
@@ -6272,7 +6272,7 @@ const databaseProcessing = [
     "LEGENDA": "Colonial, primarily compound species. Epicardia and sometimes a post abdomen are present. Clavelina (light bulb tunicates) zooids are not compound, but inteijoined at bases."
   },
   {
-    "NUMBER": 449,
+    "NUMBER": "449",
     "NAME": "PHLEBOBRANCHIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHORDATA",
@@ -6286,7 +6286,7 @@ const databaseProcessing = [
     "LEGENDA": "Colonial or solitary, with or without an epicardium, lack a post abdomen. Lining of phlebobranch pharynx is either flat or undulating. Numerous raised papillae that protrude from the trans- verse pharyngeal vessels help to support the mucous feeding net and may improve water flow through it."
   },
   {
-    "NUMBER": 450,
+    "NUMBER": "450",
     "NAME": "STOLIDOBRANCHIA",
     "KINGDOM": "BILATERIA",
     "PHYLUM": "CHORDATA",
