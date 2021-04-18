@@ -1,0 +1,35 @@
+/*
+    Typography
+*/
+
+/* @font-face {
+    font-family: ;
+    src: url();
+} */
+
+.type-helvetica {
+    font-family: Helvetica;
+    font-size: 12px;
+}
+
+.type-monospaced {
+    font-family: monospace;
+}
+
+.type-body {
+    font-size: 16px;
+}
+
+.monospaced-small{
+    font-size: 10px;
+}
+
+.container{
+    display: flex;
+    justify-content: flex-start;
+    height: 61px;
+    width: 421px;
+    color: black;
+    justify-content: space-between;
+    margin-left: 212px;
+}

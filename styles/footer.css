@@ -1,0 +1,26 @@
+/*
+    Header
+*/
+
+.header-logo {
+    width: 33.3%;
+}
+
+.header-logo img{
+    width: 100px;
+}
+
+.header-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    flex-grow: 1;
+}
+
+.header-list li {
+    margin-right: 22px;
+}
+
+footer> a> img{
+    width: 3%;
+}

@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    background-color: black;
+}
+
+body, h1,h2,h3, h4, h5, h6, p {
+    margin: 0;
+}
+
+h1,h2,h3{
+    font-weight: 400;
+    font-size: 16px;
+    justify-content: flex-start;
+}
+
+h4{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+h5{
+    font-weight: 400;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul ul {
+    display: none;
+    padding-left: 44px;
+}
+
+ul.open {
+    display: block;
+}
+
+li {
+    margin-bottom: 4px;
+}
+
+h2 >strong{
+    margin-right: 5px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header{
+    background-color: black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+footer{
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    align-items: flex-end;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    text-align: left;
+}

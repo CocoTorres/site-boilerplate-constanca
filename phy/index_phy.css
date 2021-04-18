@@ -104,10 +104,8 @@ footer{
     display: flex;
 }
 
-.flex-list, .flex-list ul {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
+.columns-list {
+    columns: 6;
 }
 
 

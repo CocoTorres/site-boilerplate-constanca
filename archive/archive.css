@@ -1,0 +1,39 @@
+/*
+    Padding
+*/
+
+.padding-small {
+    padding: 22px;
+}
+
+
+/*
+    Colors
+*/
+
+.color-white {
+    color: white;
+}
+
+.monospaced-small{
+    font-size: 14px;
+    margin-bottom: 9px;
+}
+
+
+
+.fullscreen-image {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    right: 0;
+    bottom: 0;
+    display: none;
+    z-index: -1;
+    transform: translate(-50%, -50%);
+    /* filter: grayscale(1); */
+}
+
+tr:hover + .fullscreen-image {
+    display: block;
+}

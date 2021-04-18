@@ -1,0 +1,57 @@
+.species-img {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    object-fit: cover;
+    aspect-ratio: 1/1;
+}
+
+/*
+    Padding
+*/
+
+.padding-small {
+    padding: 22px;
+}
+
+
+/*
+    Colors
+*/
+
+.color-white {
+    color: white;
+}
+
+
+.taxonomy{
+    display:flex;
+}
+
+.module-3 {
+    width: 33.3%;
+    padding-top: 0px;
+}
+
+.module-6{
+    width: 66.6%;
+}
+
+.gallery{
+    height: fit-content;
+    padding-right: 22px;
+}
+
+.margin-main{
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+
+.overflow{
+    overflow: scroll;
+    height: calc(100vh - ( 64px + 72px ));
+}
+
+footer> a> img{
+    width: 3%;
+}

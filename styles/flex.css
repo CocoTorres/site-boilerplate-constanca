@@ -1,0 +1,16 @@
+/*
+    Flex & Grid
+*/
+
+.flex {
+    display: flex;
+}
+
+.grid {
+    display: grid;
+}
+
+.grid-6 {
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 9px;
+}
