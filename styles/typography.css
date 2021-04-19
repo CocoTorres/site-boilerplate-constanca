@@ -2,19 +2,33 @@
     Typography
 */
 
-/* @font-face {
-    font-family: ;
-    src: url();
-} */
+@font-face {
+    font-family: 'silka';
+    src: url('./silkamono-regular-webfont.ttf');
+}
+
+@font-face {
+    font-family: 'silka-bold';
+    src: url('./silkamono-semibold-webfont.ttf');
+}
+
+.type-monospaced {
+    font-family: monospace;
+}
+
+.type-monospaced-regular {
+    font-family: 'silka';
+}
+
+.type-monospaced-bold {
+    font-family: 'silka-bold';
+}
 
 .type-helvetica {
     font-family: Helvetica;
     font-size: 12px;
 }
 
-.type-monospaced {
-    font-family: monospace;
-}
 
 .type-body {
     font-size: 16px;

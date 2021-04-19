@@ -90,12 +90,12 @@ function renderGrid(specie) {
             <img class="species-img" src="${imageUrl}" alt="">
         </div>
         <div class="flex grid-row">
-            <div class="numbers type-monospaced monospaced-medium">
+            <div class="numbers type-monospaced-regular monospaced-medium">
                 <strong>${specie.NUMBER}</strong>
             </div>
             <div>
-                <h1 class="type-monospaced monospaced-big">${specie.NAME}</h1>
-                <h2 class="type-monospaced monospaced-medium">${specie.PHYLUM}</h2>
+                <h1 class="type-monospaced-regular monospaced-big">${specie.NAME}</h1>
+                <h2 class="type-monospaced-regular monospaced-medium">${specie.PHYLUM}</h2>
                 <h3 class="type-helvetica">${specie.TEXT}</h3>
             </div>
         </div>

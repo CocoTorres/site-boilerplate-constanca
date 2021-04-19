@@ -16,7 +16,7 @@
 }
 
 .monospaced-small{
-    font-size: 14px;
+    font-size: 12px;
     margin-bottom: 9px;
 }
 
@@ -24,16 +24,24 @@
 
 .fullscreen-image {
     position: fixed;
-    top: 50%;
-    left: 50%;
+    top: 0;
+    left: 0;
     right: 0;
     bottom: 0;
     display: none;
     z-index: -1;
-    transform: translate(-50%, -50%);
+    width: 100%;
+    /*transform: translate(-50%, -50%);
     /* filter: grayscale(1); */
+    opacity: 0.8;
+    filter: grayscale(1);
+    
 }
 
 tr:hover + .fullscreen-image {
     display: block;
+}
+
+main {
+    margin-top: 62px;
 }

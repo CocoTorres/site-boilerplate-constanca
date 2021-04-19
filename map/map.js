@@ -27,7 +27,7 @@ function renderGrid(maps) {
     const imageUrl = "../images/maps/" + maps.map.toUpperCase() + ".jpeg"
     const htmlTemplate = `
     <div class="flex grid-row">
-        <div class="numbers type-monospaced monospaced-medium">
+        <div class="numbers type-monospaced-regular monospaced-medium">
             <h1>${maps.phylum}</h1>
         </div>
         <div>
